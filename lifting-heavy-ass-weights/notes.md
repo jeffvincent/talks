@@ -12,6 +12,15 @@
   * Problems can somewhat murky, lots of options, "solutions" are harder to define.
   * They need to actually *use* the product in the proper context, to see if it works for them.
 
+## Specific Heavy Ass Weights
+**Video**
+* Video is least investment for user - leaves them with the most energy to go
+  and *do*.
+* Goal is partially to show them the steps, but mostly to inspire them to take
+  action and the *first step*.
+* It links the help back up with the interface - they can watch a video on how
+  to use WITHOUT using the product. HUGE.
+
 ## Specific Workflow Stuff
 * Users want to get it!
 * IT IS NOT RAW TALENT! No one has raw talent for an app
@@ -52,5 +61,19 @@
 * DOERs work outside of "normal business hours", they don't have time to wait for support.
 * They may want hand-holding later, further down the funnel or for other team members, but not for the original DOER.
 
+## Notes from Favorite Articles
+
+### Help Still Sucks
+* http://idratherbewriting.com/2013/06/18/help-still-sucks/
+* Findability of help content is not the ultimate question - *the content
+  itself is*
+* Experienced users assume the content will fail them, so they don't even refer
+  to help.
+* Writing/designing help must start first with the user, instead of the 
+  interface/features, if it's going to be useful.
+* Instruction separated from the interface is meaningless.
+  * help text means little without the accompanying product.
+  * this is why users don't read the manual first...and that is ok.
+  * This is also why video is useful.
 
 
