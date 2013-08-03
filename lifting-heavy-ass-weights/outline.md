@@ -93,7 +93,9 @@ with their customers, and shipping out tricks for their excited magician
 clientele.
 
 At the end of the day, right at the end, after Peter has gone to bed, Jackie
-logs into her Wistia account and starts uploading their new videos. She's not 
+logs into her Wistia account and starts uploading their new videos. She's not
+looking to spend a ton of time in her Wistia account, or hear all about our new
+features. 
 
 **The Heavy Ass Weights**
 
