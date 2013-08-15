@@ -6,12 +6,50 @@ working in support, or community, or customer experience. That makes me really
 nervous and excited to talk to you today, since you are all so smart and
 experienced. So here goes nothing.
 
+--- Which Story is a better opener? ---
+
+## STORY 1: VIDEO SEO FUNCTION in the Product
+
+At Wistia, our Video SEO feature is one of those big differentiators and we
+draw lots of new customers because of it.
+
+Now that’s awesome, but it’s also one of our most confusing features, because
+it requires the user to do some outside work in order to be compliant with
+Google’s restrictions.
+
+At one point, we were receiving ten to twenty emails a day with folks who were
+confused by the Video SEO feature, or had missed a step and now it wasn’t
+working.
+
+I'm sure I don't have to tell this crowd - when your product isn't working as
+the customer expects, it's a very serious problem.
+
+##SLIDE: Video in sidebar
+
+In 20 minutes, Chris and I shot a video outlining the required Video SEO
+feature steps, and then we added it to the product page with a call-to-action
+to read more in our documentation.
+
+Overnight, those emails disappeared. I'm not exaggerating or kidding when I
+say they went to zero. And there is more - smart SEO firms like Distilled
+started referring to us as a good platform for SEO for Video Marketers. That is
+a really huge deal!
+
+## SLIDE: Stats for Video SEO
+
+I pull these stats after having that video in the sidebar for few weeks. It was
+definitely getting some watches - and LOOK AT THAT: almost 30 hours of video
+watched. That is a lot of emails and support calls that were solved in a
+quicker, better way.
+
+## STORY 2: YOUNG WISTIA AND DROPPING PHONE NUM
+
 ## slide: young Wistia
 
 In early 2012, we launched a feature set that we called the SuperEmbed builder.
 It made it easy to add email gates and calls-to-action to your embedded videos.
 Almost overnight, we went from a ragtag video hosting product to a serious
-business-driving platform. Our phone lines and support inbox got hit. HARD. 
+business-driving platform. Our phone lines and support inbox got hit. HARD.
 
 For a few weeks, I did nothing but talk to people via phone and email. It was
 pretty much the same conversation each time - they would start out knowing
@@ -240,35 +278,7 @@ and empowered to get her work done.
 When she needs it, Jackie knows how to find our help docs and help videos. It
 makes her happy using our product, which makes me happy.
 
-## SLIDE: VIDEO SEO PAGE
 
-So at this point, you might be thinking "I get these resources are cool, but
-what are we talking about exactly?" Here is a really concrete example for you.
-
-Our Video SEO feature is one of those big differentiators and we draw lots of
-new customers because of it. Now that’s awesome, but it’s also one of our most
-confusing features, because it requires the user to do some outside work in
-order to be compliant with Google’s restrictions.
-
-At one point, we were receiving ten to twenty emails a day with folks who were
-confused by the Video SEO feature, or had missed a step and now it wasn’t
-working.
-
-##SLIDE: Video in sidebar
-
-In 20 minutes, Chris and I shot a video outlining the required Video SEO
-feature steps, and then we added it to the product page with a call-to-action
-to read more in our documentation.
-
-Overnight, those emails disappeared. They went to zero. That is what’s possible
-with the heavy ass weights.
-
-## SLIDE: Stats for Video SEO
-
-I pull these stats after having that video in the sidebar for few weeks. It was
-definitely getting some watches - and LOOK AT THAT: almost 30 hours of video
-watched. That is a lot of emails and support calls that were solved in a
-quicker, better way.
 
 ## SLIDE: MAKE IT FUCKING AWESOME
 
