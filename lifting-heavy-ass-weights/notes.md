@@ -34,6 +34,13 @@
   * They share videos with other new users.
   * New users learn content from training videos (and rewatch until they get it)
 
+## Slide Stuff
+
+### Color Ideas
+
+* #FF8B9A (255, 139, 154)
+# #77C3E8 (119, 195, 232)
+
 
 ## Notes from Other Talks
 
