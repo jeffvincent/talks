@@ -1,4 +1,4 @@
-## slide: JEFF FACE LOOKING DUMB
+## JEFF FACE LOOKING DUMB
 
 My first UserConf was in New York this past May. One of the things I was most
 struck by was that everyone I met was a practitioner - they were actually
@@ -6,16 +6,16 @@ working in support, or community, or customer experience. That makes me really
 nervous and excited to talk to you today, since you are all so smart and
 experienced. So here goes nothing.
 
---- Which Story is a better opener? ---
+## VIDEO SEO FUNCTION in the Product
 
-## STORY 1: VIDEO SEO FUNCTION in the Product
+I want to start with a story about our product and support.
 
-At Wistia, our Video SEO feature is one of those big differentiators and we
+At Wistia, our Video SEO feature is one of the big differentiators for us and we
 draw lots of new customers because of it.
 
 Now that’s awesome, but it’s also one of our most confusing features, because
-it requires the user to do some outside work in order to be compliant with
-Google’s restrictions.
+it requires the user to do a bunch of work and there are several moving parts
+involved.
 
 At one point, we were receiving ten to twenty emails a day with folks who were
 confused by the Video SEO feature, or had missed a step and now it wasn’t
@@ -24,27 +24,34 @@ working.
 I'm sure I don't have to tell this crowd - when your product isn't working as
 the customer expects, it's a very serious problem.
 
-##SLIDE: Video in sidebar
+## Video in sidebar
 
-In 20 minutes, Chris and I shot a video outlining the required Video SEO
-feature steps, and then we added it to the product page with a call-to-action
-to read more in our documentation.
+So in about 20 minutes, Chris and I shot a video outlining the required Video SEO
+feature steps.
+
+The script was based on the emails we were already sending, so it didn't take
+that long to whip it together.
+
+When it was ready, we added it to the Video SEO tool page inside customer accounts
+with a post-roll call-to-action to read more in our documentation.
 
 Overnight, those emails disappeared. I'm not exaggerating or kidding when I
 say they went to zero. And there is more - smart SEO firms like Distilled
-started referring to us as a good platform for SEO for Video Marketers. That is
-a really huge deal!
+started referring to us as a good platform for SEO for Video Marketers.
 
-## SLIDE: Stats for Video SEO
+## Stats for Video SEO
 
-I pull these stats after having that video in the sidebar for few weeks. It was
+I pulled these stats after having that video in the sidebar for few weeks. It was
 definitely getting some watches - and LOOK AT THAT: almost 30 hours of video
-watched. That is a lot of emails and support calls that were solved in a
-quicker, better way.
+watched.
 
+That is a lot of emails and support calls that were solved in a quicker, better way.
 
+## Ronny Coleman is really strong
 
-## slide: Ronny Coleman is really strong
+I'm here to talk about static resources - documentation, video, in-app
+help, and how to use them. To help tell you about them, I'm going to beat the heck
+out of a metaphor.
 
 Does anyone know who this is?
 
@@ -60,63 +67,73 @@ So if you want to get strong like Ronny, you have two options. You could lift
 relatively light weights a bazillion times...or you could lift really freaking
 heavy weights a few times.
 
-Now Ronny, like most successful powerlifters, subscribes to the idea of heavier
+Ronny, like most successful powerlifters, subscribes to the idea of heavier
 weights, fewer lifts. I think you see where I’m going with this.
 
-Now - how many people here send a lot of email? (HANDS)
+How many people here send a lot of email? (HANDS)
 
-The average email they receive is an easy response, something they have sent
-hundreds of times. A softball lob even I could hit!
+Lots of support people I talk to respond the same way. The average email they
+receive is an easy response, something they have sent hundreds of times.
 
-That right there is an example of a light weight! Something that isn't hard for
-you to do, but you have to spend all day lifting them to deliver value to your
-customer base.
+A softball lob even I could hit!
 
-Another example is the typical sales phone call. You’re basically reading from a
-script, just talking about the benefits of your product.
+Support emails you can write in your sleep is an example of a light weight! It's
+something that isn't hard for you to do, but you have to spend all day lifting
+them to deliver value to your customer base.
 
-Again and again, you're lifting these light weights, but you gotta lift them all
+Another example of a light-weight customer interaction is the typical sales
+phone call. You’re basically reading from a script, just talking about the
+benefits of your product.
+
+Again and again, you're lifting these light weights, and you gotta lift them all
 day in order to get the value. That is a heavy rep, light weight approach.
 
-## slide: “Lifting the Heavy Ass Weights of Support”
+## “Lifting the Heavy Ass Weights of Support”
 
-I’ve learned, and now I pass on to all of you, that it’s time to start
-approaching your job like Ronny.
+It’s time to start approaching your job like Ronny. I'm here to introduce you
+to the Heavy Ass Weights of Support.
 
-## slide: Documentation, In-App Help, Screencasts, Webinars
+## Documentation, In-App Help, Screencasts, Webinars
 
-Heavy weight support resources like documentation, in-app help, and screencasts
-may take a lot of work upfront, but pay huge, scalable dividends over time for
-you and your customers.
+I just want to stop for a second and make sure everyone is on the same page.
 
-First we're going to talk about the benefits of the Heavy Ass Weights for your
-team, then we'll talk about them from the user point-of-view, then we'll talk
-about how to make them great.
+Heavy weight support, in my definition, are resources like documentation,
+in-app help, and screencasts that may take a lot of work upfront, but pay huge,
+scalable dividends over time for you and your customers.
 
-## SLIDE: Big Slide of Progress
+First I'm going to talk through what I see as the key benefits for using this
+heavy weight approach, and then we'll talk about some of the tactical stuff we
+do to make them great.
 
-So fast forward two and a half years or so. Some of you might have seen this in
-your email. I'm really proud to show you this graph. What I also wish I could show is
-our percentage churn, which has not only stayed low, but actually decreased over
-this time.
+## Big Slide of Progress
+
+Some of you might have seen this in your email.
+
+This is the big benefit to lifting the Heavy Ass Weights of support. When you
+are on-boarding happy customers who don't require a lot of high-touch, you get
+a graph that looks like this.
 
 The top line is our new user growth, and the bottom line is our total support
 requests. We've gone from a monthly support volume that about equaled our
 customer base, to a support volume of less than 1% of our total user base.
 
-Ok, now I’m going to tell you how to get here.
+What I also wish I could show is our percentage churn, which has not only
+stayed low, but actually decreased over this time.
 
-## SLIDE: Heavy Ass Weights are empowering
+## Heavy Ass Weights are empowering
 
-So why are these heavy ass weights so important? Well customer support, no
-matter how excellent it is, just isn’t empowering.
+Why does using a heavy weight approach create happy customers? Shouldn't
+high-touch be the way to create lasting, profitable relationships?
+
+To answer this, I'd like to talk about two truths. The first is that high-touch 
+customer support, no matter how excellent it is, just isn’t empowering.
 
 As a customer, sending an email to support and waiting for a response makes them
 more dependent on you. Every time they want to try something new, they feel like
 they have to call you. Or email you. Or tweet at you. Customers are frozen with
 fear about moving forward on their own.
 
-## SLIDE: SOMETHING THEY WANTED TO DO
+## SOMETHING THEY WANTED TO DO
 
 No one got up this morning and said "I'm going to be excellent at an app!" They
 certainly didn't say that about Wistia. They have something they want to
@@ -125,7 +142,7 @@ quickly and easily as possible.
 
 Waiting for a response from your support team is just never the best way.
 
-## SLIDE: HEAVY WEIGHTS = BADASS USERS
+## HEAVY WEIGHTS = BADASS USERS
 
 Using heavy weights to drive our customer onboarding and communication, on the
 other hand, makes what Kathy Sierra calls “badass users”. Heavy weight support
@@ -139,7 +156,7 @@ real technical issues and feature requests.
 If they have a question, the heavy weight trained user knows where to look for
 the answer, and it’s not to our support email.
 
-## SLIDE: HEAVY WEIGHTS != Personal contact
+## HEAVY WEIGHTS != Personal contact
 
 The first question I hear from people is they worry that, by implementing these
 support resources, they will lose contact with their customers and lose the
@@ -151,7 +168,7 @@ comes along later, once they've really gotten to know us. They get to know our
 product and personality through our videos and other support resources, and it
 creates a personal and emotional connection.
 
-## SLIDE: EMAIL IMAGE?
+## EMAIL IMAGE?
 
 When they do have to write into support (it still happens!) they almost always
 lead off with "First, we love Wistia", and then dive into the core of their
@@ -176,7 +193,7 @@ heavy weights to cover all the basic workflows of your
 product - enough to get your users to discover the value and then reach for
 their wallets.
 
-## SLIDE: pic of crazy mercer Jordan and Max K
+## pic of crazy mercer Jordan and Max K
 
 The third question I get is about our team. After I talk about my vision for
 support, I occasionally have applicants ask me if their job is safe, if I
@@ -209,7 +226,7 @@ considering their time and helping them achieve their goals.
 In short, lifting heavy ass weights allows you to build a support experience
 your customers have probably never had before.
 
-## SLIDE: Peter and Jackie Monticup
+## Peter and Jackie Monticup
 
 I figured no presentation on users would be complete without a living,
 breathing user, so I'd like to introduce you to one of my favorite
@@ -229,7 +246,7 @@ Jackie is what Jeff Lawson from Twilio calls a **DOER**. She is not interested
 in being sold to, or having her hand held. She has a mission and she wants to
 get it done.
 
-## SLIDE: Wistia Basics page
+## Wistia Basics page
 
 When she started overhauling the MagicTricks.com website and adding Wistia
 embedded videos, she turned to our Wistia Basics video series for help.
@@ -243,7 +260,7 @@ makes her happy using our product, which makes me happy.
 
 
 
-## SLIDE: MAKE IT FUCKING AWESOME
+## MAKE IT FUCKING AWESOME
 
 At Wistia, one of our core values is “make it fucking awesome”. I like to think
 we’ve stayed true to that with our versions of the heavy ass weights.
@@ -251,7 +268,7 @@ we’ve stayed true to that with our versions of the heavy ass weights.
 For the rest of my time I want to talk about the Heavy Ass weights our team has
 created, and give you some tactical suggestions for making yours awesome.
 
-## SLIDE: Screenshot of Wistia Documentation
+## Screenshot of Wistia Documentation
 
 The first is documentation. Pretty much everyone in the room has documentation,
 right? If you are a b2b app, you need documentation.
