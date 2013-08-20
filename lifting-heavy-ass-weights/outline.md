@@ -55,13 +55,23 @@ growth, without getting buried by the volume of support?
 
 Three options as I see it:
 
-1. We can raise a bunch of money and hire lots of new folks to answer emails
-2. We can make it really hard to contact us
-3. We can create scalable, useful resources for new and current customers.
+## Piles and piles of money
 
-I'm here to talk about number 3 - using static support resources to scale your
-support presence. To help talk about this, I'm going to beat the heck out of a
-metaphor.
+We could raise a bunch of money and hire lots of new folks to answer emails.
+
+## Broken phone?
+
+We could make it really hard to contact us.
+
+## A NEW WAY
+
+Or, we could create scalable, useful resources for new and current customers.
+
+Listen: the first two are totally legit approaches - I see companies that use
+them to great effect. But the only one that *really feels* right to me is
+number three, using static support resources to scale your support presence.
+
+To properly introduce this, I'm going to beat the heck out of a metaphor.
 
 ## Ronny Coleman is really strong
 
