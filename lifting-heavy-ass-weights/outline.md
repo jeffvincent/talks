@@ -1,4 +1,4 @@
-## JEFF FACE LOOKING DUMB
+## jeff face looking dumb
 
 My first UserConf was in New York this past May. One of the things I was most
 struck by was that everyone I met was a practitioner - they were actually
@@ -6,7 +6,7 @@ working in support, or community, or customer experience. That makes me really
 nervous and excited to talk to you today, since you are all so smart and
 experienced. So here goes nothing.
 
-## VIDEO SEO FUNCTION in the Product
+## video SEO function in the Product
 
 I want to start with a story about our product and support.
 
@@ -45,13 +45,25 @@ I pulled these stats after having that video in the sidebar for few weeks. It wa
 definitely getting some watches - and LOOK AT THAT: almost 30 hours of video
 watched.
 
-That is a lot of emails and support calls that were solved in a quicker, better way.
+## How do we scale support?
+
+When a product has achieved a certain level of traction, support has to become
+a first-class citizen.
+
+As support folks, how do we encourage and get excited about strong customer
+growth, without getting buried by the volume of support?
+
+Three options as I see it:
+
+1. We can raise a bunch of money and hire lots of new folks to answer emails
+2. We can make it really hard to contact us
+3. We can create scalable, useful resources for new and current customers.
+
+I'm here to talk about number 3 - using static support resources to scale your
+support presence. To help talk about this, I'm going to beat the heck out of a
+metaphor.
 
 ## Ronny Coleman is really strong
-
-I'm here to talk about static resources - documentation, video, in-app
-help, and how to use them. To help tell you about them, I'm going to beat the heck
-out of a metaphor.
 
 Does anyone know who this is?
 
