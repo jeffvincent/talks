@@ -6,54 +6,19 @@ working in support, or community, or customer experience. That makes me really
 nervous and excited to talk to you today, since you are all so smart and
 experienced. So here goes nothing.
 
-## video SEO function in the Product
+## How to scale support?
 
-I want to start with a story about our product and support.
+My talk today is all about the challenges around scaling support alongside
+customer growth.
 
-At Wistia, our Video SEO feature is one of the big differentiators for us and we
-draw lots of new customers because of it.
-
-Now that’s awesome, but it’s also one of our most confusing features, because
-it requires the user to do a bunch of work and there are several moving parts
-involved.
-
-At one point, we were receiving ten to twenty emails a day with folks who were
-confused by the Video SEO feature, or had missed a step and now it wasn’t
-working.
-
-I'm sure I don't have to tell this crowd - when your product isn't working as
-the customer expects, it's a very serious problem.
-
-## Video in sidebar
-
-So in about 20 minutes, Chris and I shot a video outlining the required Video SEO
-feature steps.
-
-The script was based on the emails we were already sending, so it didn't take
-that long to whip it together.
-
-When it was ready, we added it to the Video SEO tool page inside customer accounts
-with a post-roll call-to-action to read more in our documentation.
-
-Overnight, those emails disappeared. I'm not exaggerating or kidding when I
-say they went to zero. And there is more - smart SEO firms like Distilled
-started referring to us as a good platform for SEO for Video Marketers.
-
-## Stats for Video SEO
-
-I pulled these stats after having that video in the sidebar for few weeks. It was
-definitely getting some watches - and LOOK AT THAT: almost 30 hours of video
-watched.
-
-## How do we scale support?
-
-When a product has achieved a certain level of traction, support has to become
-a first-class citizen.
+In early 2012, we launched a new set of customization features for videos in
+Wistia, and the customer uptake was really strong. So strong in fact, that we
+went from a slow trickle of support to a stream, to finally a monsoon.
 
 As support folks, how do we encourage and get excited about strong customer
 growth, without getting buried by the volume of support?
 
-Three options as I see it:
+As I see it, there are three options:
 
 ## Piles and piles of money
 
@@ -61,51 +26,49 @@ We could raise a bunch of money and hire lots of new folks to answer emails.
 
 ## Broken phone?
 
-We could make it really hard to contact us.
+We could make it really hard for new users to contact us.
 
 ## A NEW WAY
 
-Or, we could create scalable, useful resources for new and current customers.
+Or, we could somehow scale the number of customers that can communicate with us
+at once. We could create scalable, useful resources that customers can refer to
+again and again.
 
 Listen: the first two are totally legit approaches - I see companies that use
 them to great effect. But the only one that *really feels* right to me is
 number three, using static support resources to scale your support presence.
 
-To properly introduce this, I'm going to beat the heck out of a metaphor.
+I want to share with you my theory behind this, and to properly do that,
+I'm going to beat the heck out of a metaphor.
 
 ## Ronny Coleman is really strong
 
 Does anyone know who this is?
 
-This is Ronny Coleman. He is an American powerlifter who has won Mr. Olympia
-EIGHT TIMES. Holy shit!
+This is Ronny Coleman. Ronny is an American powerlifter who has won Mr. Olympia
+EIGHT TIMES.
 
-Ronny is also a really really funny guy. He’s become a bit of a role model in
-our office - his self-inspirational quips and quotes get yelled out quite a bit.
+Ronny is also a really funny guy. His self-inspirational quips and quotes
+get yelled out quite a bit.
 
 ** PLAY RONNY COLEMAN SOUND EFFECT **
 
 So if you want to get strong like Ronny, you have two options. You could lift
-relatively light weights a bazillion times...or you could lift really freaking
-heavy weights a few times.
+light weights a bazillion times...or you could lift really freaking heavy
+weights a few times.
 
-Ronny, like most successful powerlifters, subscribes to the idea of heavier
-weights, fewer lifts. I think you see where I’m going with this.
+Successful powerlifters like Ronny subscribe to the idea of heavier
+weights, fewer lifts.
+
+## "LIGHT WEIGHT BABY!"
 
 How many people here send a lot of email? (HANDS)
 
-Lots of support people I talk to respond the same way. The average email they
-receive is an easy response, something they have sent hundreds of times.
+So we pretty much all do. The average support response we send is probably
+pretty easy, something we've sent hundreds of times.
 
-A softball lob even I could hit!
-
-Support emails you can write in your sleep is an example of a light weight! It's
-something that isn't hard for you to do, but you have to spend all day lifting
-them to deliver value to your customer base.
-
-Another example of a light-weight customer interaction is the typical sales
-phone call. You’re basically reading from a script, just talking about the
-benefits of your product.
+Support emails you can write in your sleep is like Ronny curling a 20 pound
+dumbbell - it's a light weight!
 
 Again and again, you're lifting these light weights, and you gotta lift them all
 day in order to get the value. That is a heavy rep, light weight approach.
@@ -115,13 +78,11 @@ day in order to get the value. That is a heavy rep, light weight approach.
 It’s time to start approaching your job like Ronny. I'm here to introduce you
 to the Heavy Ass Weights of Support.
 
-## Documentation, In-App Help, Screencasts, Webinars
+I going to to stop for a second and make sure everyone is on the same page.
 
-I just want to stop for a second and make sure everyone is on the same page.
-
-Heavy weight support, in my definition, are resources like documentation,
-in-app help, and screencasts that may take a lot of work upfront, but pay huge,
-scalable dividends over time for you and your customers.
+Heavy weight support is resources like documentation, in-app help, and screencasts.
+They take a lot of work upfront, but pay huge, scalable dividends over time for
+you and your customers.
 
 First I'm going to talk through what I see as the key benefits for using this
 heavy weight approach, and then we'll talk about some of the tactical stuff we
@@ -146,7 +107,7 @@ stayed low, but actually decreased over this time.
 ## Two Truths ~~and a lie~~
 
 Why does using a heavy weight approach create happy customers? Shouldn't
-high-touch be the way to create lasting, profitable relationships?
+high-touch be the best way to create lasting, profitable relationships?
 
 To answer this, I'd like to talk about two truths. The first is that high-touch 
 customer support, no matter how excellent it is, just isn’t empowering.
@@ -215,6 +176,52 @@ real technical issues and feature requests.
 
 If they have a question, the heavy weight trained user knows where to look for
 the answer, and it’s not to our support email.
+
+---
+
+
+
+## video SEO function in the Product
+
+I want to tell you a quick story about our product and support.
+
+At Wistia, our Video SEO feature is one of the big differentiators for us and we
+draw lots of new customers because of it.
+
+Now that’s awesome, but it’s also one of our most confusing features, because
+it requires the user to do a bunch of work and there are several moving parts
+involved.
+
+At one point, we were receiving ten to twenty emails a day with folks who were
+confused by the Video SEO feature, or had missed a step and now it wasn’t
+working.
+
+I'm sure I don't have to tell this crowd - when your product isn't working as
+the customer expects, it's a very serious problem.
+
+## Video in sidebar
+
+So in about 20 minutes, Chris and I shot a video outlining the required Video SEO
+feature steps.
+
+The script was based on the emails we were already sending, so it didn't take
+that long to whip it together.
+
+When it was ready, we added it to the Video SEO tool page inside customer accounts
+with a post-roll call-to-action to read more in our documentation.
+
+Overnight, those emails disappeared. I'm not exaggerating or kidding when I
+say they went to zero.
+
+## Stats for Video SEO
+
+This is what the stats looked like for that video after a few weeks. It was
+definitely getting some watches - and almost 30 hours of video were watched.
+
+That's 30 hours of help and hand-holding we didn't have to provide.
+
+
+---
 
 
 
