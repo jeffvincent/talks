@@ -109,9 +109,10 @@ do to make them great.
 
 Some of you might have seen this in your email.
 
-This is the big benefit to lifting the Heavy Ass Weights of support. When you
-are on-boarding happy customers who don't require a lot of high-touch, you get
-a graph that looks like this.
+This is the what it looks like when you are lifting the Heavy Ass Weights of support.
+
+When you are on-boarding happy customers who don't require a lot of high-touch,
+you get a graph that looks like this. And you are happy.
 
 The top line is our new user growth, and the bottom line is our total support
 requests. We've gone from a monthly support volume that about equaled our
@@ -120,7 +121,7 @@ customer base, to a support volume of less than 1% of our total user base.
 What I also wish I could show is our percentage churn, which has not only
 stayed low, but actually decreased over this time.
 
-## Heavy Ass Weights are empowering
+## Two Truths ~~and a lie~~
 
 Why does using a heavy weight approach create happy customers? Shouldn't
 high-touch be the way to create lasting, profitable relationships?
@@ -128,35 +129,36 @@ high-touch be the way to create lasting, profitable relationships?
 To answer this, I'd like to talk about two truths. The first is that high-touch 
 customer support, no matter how excellent it is, just isn’t empowering.
 
+## Heavy Ass Weights are empowering
+
 As a customer, sending an email to support and waiting for a response makes them
 more dependent on you. Every time they want to try something new, they feel like
 they have to call you. Or email you. Or tweet at you. Customers are frozen with
 fear about moving forward on their own.
 
-## SOMETHING THEY WANTED TO DO
-
 No one got up this morning and said "I'm going to be excellent at an app!" They
-certainly didn't say that about Wistia. They have something they want to
-accomplish, and our goal as customer-focused people is to get them there, as
-quickly and easily as possible.
+certainly didn't say that about Wistia.
 
-Waiting for a response from your support team is just never the best way.
+They have something they want to accomplish, and our goal as customer-focused
+people is to get them there, as quickly and easily as possible.
 
-## HEAVY WEIGHTS = BADASS USERS
+## heavy weights = badass users
 
 Using heavy weights to drive our customer onboarding and communication, on the
 other hand, makes what Kathy Sierra calls “badass users”. Heavy weight support
 enables your users to accomplish their task, again and again, on their timetable -
 no more waiting for you and your email response.
 
-Our email volume has stayed so constant because our users have resources that
-help them learn the basics - the only questions that hit our support inbox are
-real technical issues and feature requests.
+## Quote
 
-If they have a question, the heavy weight trained user knows where to look for
-the answer, and it’s not to our support email.
+We don't create support resources for power users - we *teach* users how to
+become power users.
 
-## HEAVY WEIGHTS != Personal contact
+## Heavy Weights are Still Personal Contact
+
+So the first truth is that high-touch customer support isn't empowering. The
+second truth is that the heavy ass weights, when done properly, are still
+personal contact points.
 
 The first question I hear from people is they worry that, by implementing these
 support resources, they will lose contact with their customers and lose the
@@ -168,7 +170,7 @@ comes along later, once they've really gotten to know us. They get to know our
 product and personality through our videos and other support resources, and it
 creates a personal and emotional connection.
 
-## EMAIL IMAGE?
+## email image?
 
 When they do have to write into support (it still happens!) they almost always
 lead off with "First, we love Wistia", and then dive into the core of their
@@ -179,7 +181,22 @@ Instead of relying on the support person's mood or whim to make the strong
 connection in the first few emails, we lead with consistently bright, cheery,
 and helpful videos and documentation. No back and forth required.
 
-## WE ARE NOT AUTOMATONS
+
+
+
+
+
+
+Our email volume has stayed so constant because our users have resources that
+help them learn the basics - the only questions that hit our support inbox are
+real technical issues and feature requests.
+
+If they have a question, the heavy weight trained user knows where to look for
+the answer, and it’s not to our support email.
+
+
+
+## we are not automatons
 
 The second question I get is some riff on "are you trying to automate away all
 your support? Will the robots take over support at Wistia?" Our job is not to
