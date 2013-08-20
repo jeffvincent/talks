@@ -42,56 +42,7 @@ definitely getting some watches - and LOOK AT THAT: almost 30 hours of video
 watched. That is a lot of emails and support calls that were solved in a
 quicker, better way.
 
-## STORY 2: YOUNG WISTIA AND DROPPING PHONE NUM
 
-## slide: young Wistia
-
-In early 2012, we launched a feature set that we called the SuperEmbed builder.
-It made it easy to add email gates and calls-to-action to your embedded videos.
-Almost overnight, we went from a ragtag video hosting product to a serious
-business-driving platform. Our phone lines and support inbox got hit. HARD.
-
-For a few weeks, I did nothing but talk to people via phone and email. It was
-pretty much the same conversation each time - they would start out knowing
-nothing about our app and what it did, and when we were done they had a good
-idea of how they could use the product.
-
-I was exhausted. I was giving it my all, and we were still missing phone calls
-and emails that were coming in. On top of that, I would get totally bummed out
-when only a fifth of those conversations turned into customers. Four fifths of
-my time was totally wasted.
-
-So we had two choices. We could raise a bunch of money, hire a ton of customer
-service reps, and then stick them in a call center. That would allow us to scale
-the conversations I was having, while we worked on improving the quality of the
-leads.
-
-OR we could find another way. A call center didn’t really fit our vision for a
-company we all wanted to work in - I in particular did not want to be the
-manager of a call center, that sounded pretty awful.
-
-So we took a deep breath and removed the phone number from our marketing
-website. It was super scary for us - we had always gotten our new customer flow
-through the phone. We had always been those nice guys, who were available to
-answer any question during the day.  We were the company that answered with a
-real human being after only two rings.
-
-When we decided to drop our phone number, we knew the only way we’d continue to
-grow would be if our new customers could use static support resources, like
-documentation, to get the answers they needed.
-
-## SLIDE: Big Slide of Progress
-
-So fast forward two and a half years or so. Some of you might have seen this in
-your email. I'm really proud to show you this graph. What I also wish I could show is
-our percentage churn, which has not only stayed low, but actually decreased over
-this time.
-
-The top line is our new user growth, and the bottom line is our total support
-requests. We've gone from a monthly support volume that about equaled our
-customer base, to a support volume of less than 1% of our total user base.
-
-Ok, now I’m going to tell you how to get here.
 
 ## slide: Ronny Coleman is really strong
 
@@ -138,10 +89,22 @@ Heavy weight support resources like documentation, in-app help, and screencasts
 may take a lot of work upfront, but pay huge, scalable dividends over time for
 you and your customers.
 
-The first thing I want to talk about is why the heavy weights are so valuable
-for your users. And then once I’ve hopefully inspired you to drop everything and
-start working on support heavy weights, I want to talk about how you can make
-them excellent.
+First we're going to talk about the benefits of the Heavy Ass Weights for your
+team, then we'll talk about them from the user point-of-view, then we'll talk
+about how to make them great.
+
+## SLIDE: Big Slide of Progress
+
+So fast forward two and a half years or so. Some of you might have seen this in
+your email. I'm really proud to show you this graph. What I also wish I could show is
+our percentage churn, which has not only stayed low, but actually decreased over
+this time.
+
+The top line is our new user growth, and the bottom line is our total support
+requests. We've gone from a monthly support volume that about equaled our
+customer base, to a support volume of less than 1% of our total user base.
+
+Ok, now I’m going to tell you how to get here.
 
 ## SLIDE: Heavy Ass Weights are empowering
 
