@@ -316,37 +316,8 @@ considering their time and helping them achieve their goals.
 In short, lifting heavy ass weights allows you to build a support experience
 your customers have probably never had before.
 
-## Peter and Jackie Monticup
 
-I figured no presentation on users would be complete without a living,
-breathing user, so I'd like to introduce you to one of my favorite
-customers, Jackie Monticup. Jackie and her husband Peter run MagicTricks.com -
-it's exactly what it sounds like, a magic tricks ecommerce site. Which is
-awesome.
-
-Jackie and Peter spend their days shooting new magic trick promo videos,
-communicating with their customers, and shipping out tricks for their excited
-magician clientele.
-
-When Jackie started using Wistia, she didn’t have much experience with using web
-apps OR web video. She also couldn’t spend a ton of time waiting for us to get
-back to her with a support response.
-
-Jackie is what Jeff Lawson from Twilio calls a **DOER**. She is not interested
-in being sold to, or having her hand held. She has a mission and she wants to
-get it done.
-
-## Wistia Basics page
-
-When she started overhauling the MagicTricks.com website and adding Wistia
-embedded videos, she turned to our Wistia Basics video series for help.
-
-She was able to learn the ins-and-outs of customization and embedding, and I’m
-now proud to call her an expert. She is a happy customer who feels comfortable
-and empowered to get her work done.
-
-When she needs it, Jackie knows how to find our help docs and help videos. It
-makes her happy using our product, which makes me happy.
+---
 
 
 
