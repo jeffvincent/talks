@@ -158,7 +158,8 @@ In fact, we've got a whole Wistia Basics series that covers those actions.
 ## Takeaway 2
 
 Users will feel most empowered when they can accomplish the tasks that prove
-the value of your product on their own.
+the value of your product on their own. Empowered users are also most likely to
+reach for their wallets.
 
 (Yes, this means an intuitive product, but that is a topic for a different talk.)
 
@@ -187,15 +188,20 @@ your brand voice.
 Our support inboxes still receive lots of communication every day from our
 customers - its just more focused on more advanced actions and technical troubleshooting.
 
-Because they watch our videos and read our documentation first, they've gotten
-to know us. They get to know our product and personality through our videos and
+The robots are not going to take over support anytime soon. It's still really
+valuable to be able to connect with customers and talk about their problems.
+
+But the way we talk with them has changed. Because they watch our videos and
+read our documentation first, they've gotten to know us.
+
+They get to know our product and personality through our videos and
 other support resources, and it creates a personal and emotional connection.
 
 Instead of relying on the support person's mood or whim to make the strong
 connection in the first few emails, we lead with consistently bright, cheery,
 and helpful videos and documentation. No back and forth required.
 
-## email image?
+## email image
 
 This also creates this neat side benefit of lovely emails. We get lots of
 emails that lead with "First, we love Wistia", and then dive into the core of
@@ -230,21 +236,11 @@ you get a graph that looks like this. And you are happy.
 What I also wish I could show is our percentage churn, which has not only
 stayed low, but actually decreased over this time.
 
----
-
-## Quote
-
-We don't create support resources for power users - we *teach* users how to
-become power users.
-
-
----
-
-
 
 ## video SEO function in the Product
 
-I want to tell you a quick story about our product and support.
+So now I want to tell you a quick story about using the heavy ass weights in
+our support process.
 
 At Wistia, our Video SEO feature is one of the big differentiators for us and we
 draw lots of new customers because of it.
@@ -262,19 +258,23 @@ the customer expects, it's a very serious problem.
 
 ## Video in sidebar
 
-So in about 20 minutes, Chris and I shot a video outlining the required Video SEO
-feature steps.
+Over coffee one morning, Chris and I decided to shoot a video outlining the
+required Video SEO feature steps.
 
-The script was based on the emails we were already sending, so it didn't take
-that long to whip it together.
+We based the script on the emails we were already sending, so it didn't take
+that long to whip it together. Maybe an hour to script, setup, and shoot.
 
 When it was ready, we added it to the Video SEO tool page inside customer accounts
 with a post-roll call-to-action to read more in our documentation.
 
-Overnight, those emails disappeared. I'm not exaggerating or kidding when I
-say they went to zero.
+## Video itself
+
+Here is the video (insert video?)
 
 ## Stats for Video SEO
+
+Overnight, those emails disappeared. I'm not exaggerating or kidding when I
+say they went to zero.
 
 This is what the stats looked like for that video after a few weeks. It was
 definitely getting some watches - and almost 30 hours of video were watched.
@@ -283,22 +283,6 @@ That's 30 hours of help and hand-holding we didn't have to provide.
 
 
 ---
-
-
-
-## we are not automatons
-
-The second question I get is some riff on "are you trying to automate away all
-your support? Will the robots take over support at Wistia?" Our job is not to
-automate away all support conversations - we're realistic to
-know that isn't possible, and it is really valuable to be able to connect with
-customers around their problems.
-
-But what we do strive for is creating the smoothest path from first touch to
-experiencing the **core value** of the product. Your goal should be for your
-heavy weights to cover all the basic workflows of your
-product - enough to get your users to discover the value and then reach for
-their wallets.
 
 ## pic of crazy mercer Jordan and Max K
 
@@ -470,3 +454,18 @@ never important in the first place. All they need are clear, helpful support
 resources.
 
 Make more happy customers. Lift some heavy ass weights. Thank you.
+
+
+
+
+---
+
+## Quote
+
+We don't create support resources for power users - we *teach* users how to
+become power users.
+
+
+---
+
+
