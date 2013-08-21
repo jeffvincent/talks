@@ -281,34 +281,33 @@ definitely getting some watches - and almost 30 hours of video were watched.
 
 That's 30 hours of help and hand-holding we didn't have to provide.
 
-
----
-
 ## pic of crazy mercer Jordan and Max K
 
-The third question I get is about our team. After I talk about my vision for
-support, I occasionally have applicants ask me if their job is safe, if I
-really want to automate away more and more conversations.
+So this brings up the question of what our team does do.
 
-For those who get it, you know. The inbox is only the beginning.
+The inbox is only the beginning.
 
 Because our inbox and phone call volume is no longer directly tied to customer
 growth, we haven’t had to hire a whole bunch of recent college grads, chain them
-to a desk, and flood them with customer calls every day. Instead, I’m able to
-hire a few really smart, really talented people who improve our customer’s lives
-in so many ways.
+to a desk, and flood them with customer calls every day.
+
+Instead, I’m able to hire a few really smart, really talented people who
+improve our customer’s lives in so many ways.
 
 Max and Jordan, for example, run a weekly web show where they welcome Wistia
 newbies into the fray. The whole thing is improv, so they get to talking heavy
-metal and whiskey with our new customers more than you'd think. They always
-come out of the show laughing with really raving reviews. Contrast that to your 
-average 1 on 1 demos, and it's a great way to provide folks who need a little
-extra hand-holding a great experience without it being a time suck.
+metal and whiskey with our new customers more than you'd think.
+
+The light-weight approach is lots of 1 on 1 demos. Max and Jordan handle
+questions in bulk - which is a great way to provide folks who need a little
+extra hand-holding a great experience without it being a total time suck.
 
 Mercer is always working with the development team to identify fixes for deep
-technical problems, which delight our long-time customers. Contrast that with
-your typical bug reports and strained relationship between support and
-development.
+technical problems, which delight our long-time customers.
+
+Contrast that with the light-weight approach, which is issuing bug reports and
+creating that strained, back-and-forth relationship between support and
+development teams.
 
 With a focus on scalable resources, there is no limit to the type of things you
 can build for your customers. They will thank you (with their money) for
