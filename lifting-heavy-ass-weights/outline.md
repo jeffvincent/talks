@@ -144,15 +144,27 @@ When it comes to those early, repeated tasks - what we might call the
 onboarding tasks - getting them the help they need quickly means getting the
 heck out of the way.
 
+## Screenshot of Doc Greatest Hits
+
+So for Wistia (we're a video hosting and analytics platform),
+that means Upload, Customize, Embed, and Checking Stats.
+
+Oh look at that, we've got a Greatest Hits doc page with those actions.
+
+## Screenshot of Wistia Basics Page
+
+In fact, we've got a whole Wistia Basics series that covers those actions.
+
 ## Takeaway 2
 
-New users will feel most empowered when the tasks they need to complete to
-realize the value of the product they can accomplish on their own.
+Users will feel most empowered when they can accomplish the tasks that prove
+the value of your product on their own.
 
-Yes, this means an intuitive product, but that is a topic for a different talk.
+(Yes, this means an intuitive product, but that is a topic for a different talk.)
 
 For us, that means making sure we've got those onboarding steps well documented
-and covered in multiple media.
+and covered in multiple media. I'll cover in a bit more detail how we can do
+that in a bit.
 
 ## HAW create personal connection
 
@@ -166,28 +178,42 @@ contact with their customers and lose the personal connection they used to have.
 
 I'm here to tell you nothing could be further from the truth.
 
-We still receive lots of communication every day from our customers - it just
-comes along later, once they've really gotten to know us. They get to know our
-product and personality through our videos and other support resources, and it
-creates a personal and emotional connection.
+## Takeaway 3
 
-## email image?
+If your heavy weight support resources are crafted in your own voice and
+reflecting your brand personality, using them is actually the best way to scale
+your brand voice.
 
-When they do have to write into support (it still happens!) they almost always
-lead off with "First, we love Wistia", and then dive into the core of their
-technical issue. This makes support a lot more fun to tackle (it's amazing, and
-we're hiring - come find me later).
+Our support inboxes still receive lots of communication every day from our
+customers - its just more focused on more advanced actions and technical troubleshooting.
+
+Because they watch our videos and read our documentation first, they've gotten
+to know us. They get to know our product and personality through our videos and
+other support resources, and it creates a personal and emotional connection.
 
 Instead of relying on the support person's mood or whim to make the strong
 connection in the first few emails, we lead with consistently bright, cheery,
 and helpful videos and documentation. No back and forth required.
 
+## email image?
+
+This also creates this neat side benefit of lovely emails. We get lots of
+emails that lead with "First, we love Wistia", and then dive into the core of
+their technical issue.
+
+This makes support a lot more fun to tackle (it's amazing, and we're hiring - come find me later).
 
 
 
 ## Big Slide of Progress
 
-Some of you might have seen this in your email.
+I guess the third benefit is the most obvious. Some of you might have seen this
+in your email.
+
+Because we are lifting the heavy ass weights, we aren't slammed with the volume
+of support that a light-weight practitioner is. Our goal is to provide
+resources for everything, so that those who want self-service can do so. We'll
+still be here for technical discussions and for chatting about espresso.
 
 The top line is our new user growth, and the bottom line is our total support
 requests. Early on we were increasing total support volume by a number about
@@ -196,20 +222,13 @@ email that month.
 
 Today, our monthly support volume is less than 1% of our total user base.
 
-This is the what it looks like when you are lifting the Heavy Ass Weights of support.
+So this is the what it looks like when you are lifting the Heavy Ass Weights of support.
 
 When you are on-boarding happy customers who don't require a lot of high-touch,
 you get a graph that looks like this. And you are happy.
 
 What I also wish I could show is our percentage churn, which has not only
 stayed low, but actually decreased over this time.
-
-Our email volume has stayed so constant because our users have resources that
-help them learn the basics - the only questions that hit our support inbox are
-real technical issues and feature requests.
-
-If they have a question, the heavy weight trained user knows where to look for
-the answer, and it’s not to our support email.
 
 ---
 
