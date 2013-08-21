@@ -8,29 +8,25 @@ experienced. So here goes nothing.
 
 ## How to scale support?
 
-My talk today is all about the challenges around scaling support alongside
-customer growth.
+Today I want to talk about growing.
 
-In early 2012, we launched a new set of customization features for videos in
-Wistia, and the customer uptake was really strong. So strong in fact, that we
-went from a slow trickle of support to a stream, to finally a monsoon.
+As support people, growth can be a bit of a double-edged sword. On one hand,
+customer growth is exciting! More new people are using our tools and talking
+about our company. On the other hand, it means more inquiries, support tickets,
+and requests for "5 minutes" of our time.
 
-As support folks, how do we encourage and get excited about strong customer
-growth, without getting buried by the volume of support?
+In early 2012, we launched at Wistia a new set of features, and the customer
+uptake was really strong. We went from a slow trickle of support to a monsoon.
 
-As I see it, there are three options:
+To scale support alongside growth, you've got three basic options:
 
-## Piles and piles of money
+## 3 Options (Money, Broken Phone, NEW WAY)
 
 We could raise a bunch of money and hire lots of new folks to answer emails.
 
-## Broken phone?
-
 We could make it really hard for new users to contact us.
 
-## A NEW WAY
-
-Or, we could somehow scale the number of customers that can communicate with us
+Or, we could somehow increase the number of customers that can communicate with us
 at once. We could create scalable, useful resources that customers can refer to
 again and again.
 
@@ -38,8 +34,8 @@ Listen: the first two are totally legit approaches - I see companies that use
 them to great effect. But the only one that *really feels* right to me is
 number three, using static support resources to scale your support presence.
 
-I want to share with you my theory behind this, and to properly do that,
-I'm going to beat the heck out of a metaphor.
+I'm going to spend my time talking about number three, and to properly do that,
+I am going to beat the heck out of a metaphor.
 
 ## Ronny Coleman is really strong
 
@@ -52,6 +48,8 @@ Ronny is also a really funny guy. His self-inspirational quips and quotes
 get yelled out quite a bit.
 
 ** PLAY RONNY COLEMAN SOUND EFFECT **
+
+## Illustrate Options
 
 So if you want to get strong like Ronny, you have two options. You could lift
 light weights a bazillion times...or you could lift really freaking heavy
@@ -71,14 +69,14 @@ Support emails you can write in your sleep is like Ronny curling a 20 pound
 dumbbell - it's a light weight!
 
 Again and again, you're lifting these light weights, and you gotta lift them all
-day in order to get the value. That is a heavy rep, light weight approach.
+day in order to get the value. So that is a heavy rep, light weight approach.
 
 ## “Lifting the Heavy Ass Weights of Support”
 
 It’s time to start approaching your job like Ronny. I'm here to introduce you
 to the Heavy Ass Weights of Support.
 
-I going to to stop for a second and make sure everyone is on the same page.
+So what are heavy weights of support?
 
 Heavy weight support is resources like documentation, in-app help, and screencasts.
 They take a lot of work upfront, but pay huge, scalable dividends over time for
@@ -88,31 +86,48 @@ First I'm going to talk through what I see as the key benefits for using this
 heavy weight approach, and then we'll talk about some of the tactical stuff we
 do to make them great.
 
-## Big Slide of Progress
+## Heavy Ass Weights => Badass Users
 
-Some of you might have seen this in your email.
+The first benefit is that Heavy Weight support resources create what Kathy
+Sierra calls "badass users".
 
-This is the what it looks like when you are lifting the Heavy Ass Weights of support.
+If you haven't seen Kathy's talk on Building the Minimum Badass User from
+Business of Software 2012, go check it out after this.
 
-When you are on-boarding happy customers who don't require a lot of high-touch,
-you get a graph that looks like this. And you are happy.
+In the talk, Kathy lays out the definition of *expert*:
 
-The top line is our new user growth, and the bottom line is our total support
-requests. We've gone from a monthly support volume that about equaled our
-customer base, to a support volume of less than 1% of our total user base.
+## Given a Representative Task, experts perform in a superior way, more reliably than experienced non-experts.
 
-What I also wish I could show is our percentage churn, which has not only
-stayed low, but actually decreased over this time.
+(read definition)
 
-## Two Truths ~~and a lie~~
+There are two pieces of this. The first part is our users experience friction
+every time they want to use our app and don't know how.
 
-Why does using a heavy weight approach create happy customers? Shouldn't
-high-touch be the best way to create lasting, profitable relationships?
+## Friction Slide
 
-To answer this, I'd like to talk about two truths. The first is that high-touch 
-customer support, no matter how excellent it is, just isn’t empowering.
+They want to do something, in my world it might be customizing a video, and
+they don't know where to start. Maybe it's been a bit since they accessed their
+account.
+
+If we are coming at this from the light weight approach, the confused user has
+to drop an email to support, or call a help line, in order to move forward.
+
+If, on the other hand, we are using the heavy weight approach, the user might
+find a useful resource by searching your documentation or an in-app tool tip
+that gets them through the action. If this is an action they will be performing
+often, they might watch your screencast a few times, or bookmark the
+documentation page for future reference.
+
+## Takeaway 1
+
+This is the first part of creating badass users using the heavy weights: Heavy
+ass weight support enables your users to accomplish their task, again and
+again, on their timetable - no more waiting for you and your email response.
 
 ## Heavy Ass Weights are empowering
+
+The second piece of creating badass users using the heavy ass weights is about
+empowerment.
 
 As a customer, sending an email to support and waiting for a response makes them
 more dependent on you. Every time they want to try something new, they feel like
@@ -120,33 +135,36 @@ they have to call you. Or email you. Or tweet at you. Customers are frozen with
 fear about moving forward on their own.
 
 No one got up this morning and said "I'm going to be excellent at an app!" They
-certainly didn't say that about Wistia.
+certainly didn't say that my product, Wistia.
 
-They have something they want to accomplish, and our goal as customer-focused
+Instead, they have something they want to accomplish, and our goal as customer-focused
 people is to get them there, as quickly and easily as possible.
 
-## heavy weights = badass users
+When it comes to those early, repeated tasks - what we might call the
+onboarding tasks - getting them the help they need quickly means getting the
+heck out of the way.
 
-Using heavy weights to drive our customer onboarding and communication, on the
-other hand, makes what Kathy Sierra calls “badass users”. Heavy weight support
-enables your users to accomplish their task, again and again, on their timetable -
-no more waiting for you and your email response.
+## Takeaway 2
 
-## Quote
+New users will feel most empowered when the tasks they need to complete to
+realize the value of the product they can accomplish on their own.
 
-We don't create support resources for power users - we *teach* users how to
-become power users.
+Yes, this means an intuitive product, but that is a topic for a different talk.
 
-## Heavy Weights are Still Personal Contact
+For us, that means making sure we've got those onboarding steps well documented
+and covered in multiple media.
 
-So the first truth is that high-touch customer support isn't empowering. The
-second truth is that the heavy ass weights, when done properly, are still
-personal contact points.
+## HAW create personal connection
 
-The first question I hear from people is they worry that, by implementing these
-support resources, they will lose contact with their customers and lose the
-personal connection they used to have. I'm here to tell you nothing could be
-further from the truth.
+So the first big benefit is Heavy Ass Weights create Badass users.
+
+The second big benefit is going to be a bit counterintuitive. Heavy Ass weights
+actually create a personal connection between your team and brand and the user.
+
+When I talk about automation, lots of folks tell me they are scared of losing
+contact with their customers and lose the personal connection they used to have.
+
+I'm here to tell you nothing could be further from the truth.
 
 We still receive lots of communication every day from our customers - it just
 comes along later, once they've really gotten to know us. They get to know our
@@ -167,8 +185,24 @@ and helpful videos and documentation. No back and forth required.
 
 
 
+## Big Slide of Progress
 
+Some of you might have seen this in your email.
 
+The top line is our new user growth, and the bottom line is our total support
+requests. Early on we were increasing total support volume by a number about
+equal to our new customers, meaning for each new user we'd have another
+email that month.
+
+Today, our monthly support volume is less than 1% of our total user base.
+
+This is the what it looks like when you are lifting the Heavy Ass Weights of support.
+
+When you are on-boarding happy customers who don't require a lot of high-touch,
+you get a graph that looks like this. And you are happy.
+
+What I also wish I could show is our percentage churn, which has not only
+stayed low, but actually decreased over this time.
 
 Our email volume has stayed so constant because our users have resources that
 help them learn the basics - the only questions that hit our support inbox are
@@ -176,6 +210,14 @@ real technical issues and feature requests.
 
 If they have a question, the heavy weight trained user knows where to look for
 the answer, and it’s not to our support email.
+
+---
+
+## Quote
+
+We don't create support resources for power users - we *teach* users how to
+become power users.
+
 
 ---
 
