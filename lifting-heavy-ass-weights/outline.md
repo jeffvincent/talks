@@ -16,7 +16,11 @@ about our company. On the other hand, it means more inquiries, support tickets,
 and requests for "5 minutes" of our time.
 
 In early 2012, we launched at Wistia a new set of features, and the customer
-uptake was really strong. We went from a slow trickle of support to a monsoon.
+uptake was really strong.
+
+// expand this story a lot - *everyone experiences this* //
+
+We went from a slow trickle of support to a monsoon.
 
 To scale support alongside growth, you've got three basic options:
 
@@ -26,16 +30,15 @@ We could raise a bunch of money and hire lots of new folks to answer emails.
 
 We could make it really hard for new users to contact us.
 
-Or, we could somehow increase the number of customers that can communicate with us
+_Or, we could somehow increase the number of customers that can communicate with us
 at once. We could create scalable, useful resources that customers can refer to
 again and again.
 
-Listen: the first two are totally legit approaches - I see companies that use
-them to great effect. But the only one that *really feels* right to me is
+We all know which one *really feels* right. to me is
 number three, using static support resources to scale your support presence.
 
 I'm going to spend my time talking about number three, and to properly do that,
-I am going to beat the heck out of a metaphor.
+I am going to beat the heck out of a metaphor._
 
 ## Ronny Coleman is really strong
 
@@ -60,7 +63,7 @@ weights, fewer lifts.
 
 ## "LIGHT WEIGHT BABY!"
 
-How many people here send a lot of email? (HANDS)
+How many people here send a lot of email? (HANDS OR CLAPS)
 
 So we pretty much all do. The average support response we send is probably
 pretty easy, something we've sent hundreds of times.
@@ -93,6 +96,8 @@ Sierra calls "badass users".
 
 If you haven't seen Kathy's talk on Building the Minimum Badass User from
 Business of Software 2012, go check it out after this.
+
+(add extra pause)
 
 In the talk, Kathy lays out the definition of *expert*:
 
@@ -201,7 +206,7 @@ Instead of relying on the support person's mood or whim to make the strong
 connection in the first few emails, we lead with consistently bright, cheery,
 and helpful videos and documentation. No back and forth required.
 
-## email image
+## email images
 
 This also creates this neat side benefit of lovely emails. We get lots of
 emails that lead with "First, we love Wistia", and then dive into the core of
@@ -233,7 +238,7 @@ So this is the what it looks like when you are lifting the Heavy Ass Weights of 
 When you are on-boarding happy customers who don't require a lot of high-touch,
 you get a graph that looks like this. And you are happy.
 
-What I also wish I could show is our percentage churn, which has not only
+What's really crazy here is our percentage churn, which has not only
 stayed low, but actually decreased over this time.
 
 
@@ -316,12 +321,9 @@ considering their time and helping them achieve their goals.
 In short, lifting heavy ass weights allows you to build a support experience
 your customers have probably never had before.
 
-
 ---
 
-
-
-## MAKE IT FUCKING AWESOME
+## MAKE IT F'ing AWESOME
 
 At Wistia, one of our core values is “make it fucking awesome”. I like to think
 we’ve stayed true to that with our versions of the heavy ass weights.

@@ -83,4 +83,7 @@
   * this is why users don't read the manual first...and that is ok.
   * This is also why video is useful.
 
+## feedback
 
+* boil all the benefits up - lead with what the benefit list is, then go back
+* hit harder that more free time means more human-ness 
