@@ -294,7 +294,7 @@ That's 30 hours of help and hand-holding we didn't have to provide.
 
 ## pic of crazy mercer Jordan and Max K
 
-So this brings up the question of what our team does do.
+So this brings up the question of what our team actually does.
 
 The inbox is only the beginning.
 
@@ -324,8 +324,11 @@ With a focus on scalable resources, there is no limit to the type of things you
 can build for your customers. They will thank you (with their money) for
 considering their time and helping them achieve their goals.
 
-In short, lifting heavy ass weights allows you to build a support experience
-your customers have probably never had before.
+## Takeaway 4
+
+You will not automate away people by adopting a heavy ass weight approach.
+Instead, you will give them the headroom and the freedom to make amazing things
+and give your customers superpowers.
 
 ---
 
