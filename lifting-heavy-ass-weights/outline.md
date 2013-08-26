@@ -79,15 +79,17 @@ day in order to get the value. So that is a heavy rep, light weight approach.
 It’s time to start approaching your job like Ronny. I'm here to introduce you
 to the Heavy Ass Weights of Support.
 
+## Heavy Weight Examples
+
 So what are heavy weights of support?
 
 Heavy weight support is resources like documentation, in-app help, and screencasts.
 They take a lot of work upfront, but pay huge, scalable dividends over time for
 you and your customers.
 
-First I'm going to talk through what I see as the key benefits for using this
-heavy weight approach, and then we'll talk about some of the tactical stuff we
-do to make them great.
+## Heavy Ass Weight Key benefits
+
+
 
 ## Heavy Ass Weights => Badass Users
 
@@ -139,6 +141,8 @@ more dependent on you. Every time they want to try something new, they feel like
 they have to call you. Or email you. Or tweet at you. Customers are frozen with
 fear about moving forward on their own.
 
+## Customers want to do things!
+
 No one got up this morning and said "I'm going to be excellent at an app!" They
 certainly didn't say that my product, Wistia.
 
@@ -179,16 +183,13 @@ So the first big benefit is Heavy Ass Weights create Badass users.
 The second big benefit is going to be a bit counterintuitive. Heavy Ass weights
 actually create a personal connection between your team and brand and the user.
 
-When I talk about automation, lots of folks tell me they are scared of losing
-contact with their customers and lose the personal connection they used to have.
+Lots of folks who are considering using a more self-service approach tell me
+they are scared of losing contact with their customers and lose the personal
+connection they used to have.
 
 I'm here to tell you nothing could be further from the truth.
 
-## Takeaway 3
-
-If your heavy weight support resources are crafted in your own voice and
-reflecting your brand personality, using them is actually the best way to scale
-your brand voice.
+## We are not automatons
 
 Our support inboxes still receive lots of communication every day from our
 customers - its just more focused on more advanced actions and technical troubleshooting.
@@ -214,6 +215,11 @@ their technical issue.
 
 This makes support a lot more fun to tackle (it's amazing, and we're hiring - come find me later).
 
+## Takeaway 3
+
+If your heavy weight support resources are crafted in your own voice and
+reflecting your brand personality, using them is actually the best way to scale
+your brand voice.
 
 
 ## Big Slide of Progress
