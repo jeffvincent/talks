@@ -163,6 +163,8 @@ When it comes to those early, repeated tasks - what we might call the
 onboarding tasks - getting them the help they need quickly means getting the
 heck out of the way.
 
+// frame this better //
+
 ## Screenshot of Doc Greatest Hits
 
 So for Wistia (we're a video hosting and analytics platform),
