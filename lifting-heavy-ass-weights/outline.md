@@ -16,29 +16,39 @@ about our company. On the other hand, it means more inquiries, support tickets,
 and requests for "5 minutes" of our time.
 
 In early 2012, we launched at Wistia a new set of features, and the customer
-uptake was really strong.
+uptake was really strong. We were breaking down barriers for lots of potential
+customers we never had a shot with before.
 
-// expand this story a lot - *everyone experiences this* //
+With more people interacting with our product and marketing, the support volume
+started to increase.
 
-We went from a slow trickle of support to a monsoon.
+At first it was just a slow trickle - a typical post-launch bump, if you will.
 
-To scale support alongside growth, you've got three basic options:
+Then the phones started ringing off the hook. The support inbox was turning
+over 3 or 4 times a day, just a constant stream of questions, suggestions, and
+inquiries. We were in a support monsoon.
+
+I'm sure many of you have experienced what happened next. I was burned out,
+exhausted, and generally sick of providing early-stage support. It took me the
+next few years to climb out of that hole and share what I've learned in the
+process.
 
 ## 3 Options (Money, Broken Phone, NEW WAY)
+
+When you are thinking about scaling support alongside growth, you probably have 
+the same three options we did:
 
 We could raise a bunch of money and hire lots of new folks to answer emails.
 
 We could make it really hard for new users to contact us.
 
-_Or, we could somehow increase the number of customers that can communicate with us
+Or, we could somehow increase the number of customers that can communicate with us
 at once. We could create scalable, useful resources that customers can refer to
 again and again.
 
-We all know which one *really feels* right. to me is
-number three, using static support resources to scale your support presence.
-
-I'm going to spend my time talking about number three, and to properly do that,
-I am going to beat the heck out of a metaphor._
+In the end, there is only one that feels right. I'm going to spend my time
+talking to you about it. To properly do that, I am going to beat the heck out
+of a metaphor.
 
 ## Ronny Coleman is really strong
 
