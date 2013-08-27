@@ -1,54 +1,84 @@
 ## jeff face looking dumb
 
 My first UserConf was in New York this past May. One of the things I was most
-struck by was that everyone I met was a practitioner - they were actually
-working in support, or community, or customer experience. That makes me really
-nervous and excited to talk to you today, since you are all so smart and
-experienced. So here goes nothing.
+struck by was that everyone I met was a practitioner - meaning they were
+actually working in support, or community, or customer experience.
+
+That makes me really nervous and excited to talk to you today, since you are
+all so smart and experienced. So here goes nothing.
+
+
+Today I want to talk about growth.
+
+As support people, growth can be a bit of a double-edged sword.
+
+On one hand, customer growth is exciting! More new people are using our tools and talking
+about our company, and your mom might start to recognize what you are working on.
+
+On the other hand, it also means more inquiries, support tickets, and requests for "just 5 minutes" of our time.
+
+At Wistia, we went through our first growth experience in early 2012. We had
+released this new set of features, and for the first time our vision was really
+coming through in the product. We were breaking down barriers for lots of potential
+customers we never had a shot with before.
+
+So with more people interacting with our product and marketing, the support volume
+started to increase.
+
+Now at first it was just a small uptick, a few extra emails here or there.
+Nothing to really be too concerned about.
+
+But then the uptick turned into a sharp spike, and the spike turned into a
+deluge.
+
+The phones were ringing off the hook. The support inbox was turning
+over 3 or 4 times a day. It was just a constant stream of questions, suggestions, and
+inquiries. I was drowning in support.
+
+Many of you have probably experienced the feelings I was having. I was burned out,
+exhausted, and generally sick of answering the same questions over and over again.
 
 ## How to scale support?
 
-Today I want to talk about growing.
-
-As support people, growth can be a bit of a double-edged sword. On one hand,
-customer growth is exciting! More new people are using our tools and talking
-about our company. On the other hand, it means more inquiries, support tickets,
-and requests for "5 minutes" of our time.
-
-In early 2012, we launched at Wistia a new set of features, and the customer
-uptake was really strong. We were breaking down barriers for lots of potential
-customers we never had a shot with before.
-
-With more people interacting with our product and marketing, the support volume
-started to increase.
-
-At first it was just a slow trickle - a typical post-launch bump, if you will.
-
-Then the phones started ringing off the hook. The support inbox was turning
-over 3 or 4 times a day, just a constant stream of questions, suggestions, and
-inquiries. We were in a support monsoon.
-
-I'm sure many of you have experienced what happened next. I was burned out,
-exhausted, and generally sick of providing early-stage support. It took me the
-next few years to climb out of that hole and share what I've learned in the
-process.
+So something had to change. When we were thinking about how we could scale support:
 
 ## 3 Options (Money, Broken Phone, NEW WAY)
 
-When you are thinking about scaling support alongside growth, you probably have 
-the same three options we did:
+First, we could build a support army.
 
-We could raise a bunch of money and hire lots of new folks to answer emails.
+We could raise a bunch of money, hire a whole ton folks, and stick them in a
+call center or closet to answer emails and phone calls. They would probably hate
+their jobs, stick around for a year or so, and then leave. At some point, we
+might stop getting to know them, since there are so many of them and they don't
+stay long.
 
-We could make it really hard for new users to contact us.
+While it would be awesome to have the resources to get customers fast responses,
+this would a cultural nightmare and a really tough route to make work. None of
+us wanted to work at a company with a call center, and I really didn't want to
+manage one.
 
-Or, we could somehow increase the number of customers that can communicate with us
-at once. We could create scalable, useful resources that customers can refer to
-again and again.
+Second, we could make it impossible for any customers to contact us.
 
-In the end, there is only one that feels right. I'm going to spend my time
-talking to you about it. To properly do that, I am going to beat the heck out
-of a metaphor.
+We could remove all of our phone numbers, close support email addresses, and
+just go dark. We could probably get by like that for a while, and even make our
+product cheaper, since we wouldn't need to hire support people.
+
+Our product would probably become a power users dream - only useful to really
+experienced users. The only problem is, there wouldn't be any power users to
+enjoy it.
+
+Our third option is like a Centaur - does everyone know what a Centaur is? It's
+this hybrid creature, part horse, part man.
+
+In the Centaur option, we would somehow meld the best parts of options 1 and
+2 together.
+
+We would somehow increase the number of customers that can communicate with us AND
+present them support options BESIDES our contact info.
+
+I've been working on the Centaur option for a few years now, but I've been kinda
+struggling on a name for it until recently. To properly introduce it, however,
+I am going to need to beat the heck out of a metaphor.
 
 ## Ronny Coleman is really strong
 
@@ -92,6 +122,9 @@ to the Heavy Ass Weights of Support.
 ## Heavy Weight Examples
 
 So what are heavy weights of support?
+
+We could create scalable, useful resources that customers can refer to
+again and again.
 
 Heavy weight support is resources like documentation, in-app help, and screencasts.
 They take a lot of work upfront, but pay huge, scalable dividends over time for
