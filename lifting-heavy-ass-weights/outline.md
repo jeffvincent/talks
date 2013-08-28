@@ -7,11 +7,10 @@ actually working in support, or community, or customer experience.
 That makes me really nervous and excited to talk to you today, since you are
 all so smart and experienced. So here goes nothing.
 
-## Story Slide?
-
 Today I want to talk about growth.
 
-As support people, growth can be a bit of a double-edged sword.
+As support people, I don't think we talk about growth enough, and I think that
+is because it can be a bit of a sticky situation.
 
 On one hand, customer growth is exciting! More new people are using our tools
 and talking about our company, and your mom might start to recognize what you
@@ -19,6 +18,8 @@ are working on.
 
 On the other hand, it also means more inquiries, support tickets, and requests
 for "just 5 minutes" of our time.
+
+## Young Wistia
 
 At Wistia, we went through our first growth experience in early 2012. We had
 released this new set of features, and for the first time our vision was really
