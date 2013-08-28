@@ -200,81 +200,88 @@ With a well-designed resource they can use again and again, they *get it*. They
 weren't led by the hand by an account rep - they learned it on their own. This
 leads to more exploration, more courage, and ultimately more doing.
 
-## Takeaway 1
+## Takeaway
 
 To wrap up this point: Heavy ass weight support enables your users to
 accomplish their task, again and
 again, on their timetable - no more waiting for you and your email response.
 
-
-
 ## HAW create personal connection
 
 So the first big benefit is Heavy Ass Weights create Badass users.
 
-The second big benefit is going to be a bit counterintuitive. Heavy Ass weights
-actually create a personal connection between your team and brand and the user.
+When I'm yammering away about the Heavy Weight approach, lots of folks tell me
+they are scared a more self-service approach will lead to them losing contact
+with their customers, and losing the personal connection they used to have.
 
-Lots of folks who are considering using a more self-service approach tell me
-they are scared of losing contact with their customers and lose the personal
-connection they used to have.
+Personal connections with our customers are hugely valuable - we get stronger
+insight into our customer's struggles and better vision for what would be truly
+valuable for them long-term.
 
-I'm here to tell you nothing could be further from the truth.
+So if we move towards more self-service, we're going to lose this connection,
+right? WRONG! I'm here to tell you nothing could be further from the truth.
 
 ## We are not automatons
 
-Our support inboxes still receive lots of communication every day from our
-customers - its just more focused on more advanced actions and technical
-troubleshooting.
+The first part of creating an emotional connection is how we converse and
+connect with our customers.
 
-The robots are not going to take over support anytime soon. It's still really
-valuable to be able to connect with customers and talk about their problems.
+In a light-weight approach, high rep approach, we have to talk with them, a lot.
+We encourage them to email us often and set up systems where the customer only
+speaks to a specific rep, so we can foster that relationship.
 
-But the way we talk with them has changed. Because they watch our videos and
-read our documentation first, they've gotten to know us.
+We end up in the Support Army situation again.
+
+But in the heavy-weight approach, the power dynamic between our support folks and our customers has
+changed. Instead of us being really knowledgeable and our customer being lost, confused, and desperate for some
+sense of control, our resources have given them context and language to use
+when talking to us. No more of that timid "I'm a customer, I don't know
+anything" feeling.
+
+## images of us
+
+The other part of this is how our customers get to know us as people.
 
 They get to know our product and personality through our videos and other
-support resources, and it creates a personal and emotional connection.
+support resources. They get to know our faces in our videos and our voice in
+our documentation.
 
-Instead of relying on the support person's mood or whim to make the strong
-connection in the first few emails, we lead with consistently bright, cheery,
-and helpful videos and documentation. No back and forth required.
+Everyone in your company is awesome. Similarly, almost everyone who uses your
+app touches your onboarding resources. If your customer is only connected to your
+support people in a support context, it's a very shallow connection.
+
+Use your heavy weight resources to proactively connect with your customers,
+before they are in need of support. It will result in a stronger, more valuable
+relationship.
 
 ## email images
 
-This also creates this neat side benefit of lovely emails. We get lots of
+Neat side benefit of all this is lovely emails. We get lots of
 emails that lead with "First, we love Wistia", and then dive into the core of
 their technical issue.
 
 This makes support a lot more fun to tackle (it's amazing, and we're hiring -
 come find me later).
 
-## Takeaway 3
+## Takeaway
 
-If your heavy weight support resources are crafted in your own voice and
+So, big takeaway numero dos - If your heavy weight support resources are crafted in your own voice and
 reflecting your brand personality, using them is actually the best way to scale
 your brand voice.
 
-
 ## Big Slide of Progress
 
-I guess the third benefit is the most obvious. Some of you might have seen this
-in your email.
+I guess the third benefit is the most obvious.
 
-Because we are lifting the heavy ass weights, we aren't slammed with the volume
-of support that a light-weight practitioner is. Our goal is to provide
-resources for everything, so that those who want self-service can do so. We'll
-still be here for technical discussions and for chatting about espresso.
+Because we aren't slammed with the volume of support that a light-weight
+practitioner is, we get to build an amazing team, slowly and thoughtfully.
 
 The top line is our new user growth, and the bottom line is our total support
 requests. Early on we were increasing total support volume by a number about
 equal to our new customers, meaning for each new user we'd have another email
 that month.
 
-Today, our monthly support volume is less than 1% of our total user base.
-
-So this is the what it looks like when you are lifting the Heavy Ass Weights of
-support.
+Today, our monthly support volume is less than 5% of our total user base.
 
 When you are on-boarding happy customers who don't require a lot of high-touch,
 you get a graph that looks like this. And you are happy.
@@ -282,6 +289,7 @@ you get a graph that looks like this. And you are happy.
 What's really crazy here is our percentage churn, which has not only stayed
 low, but actually decreased over this time.
 
+## yeah buddy!
 
 ## video SEO function in the Product
 
@@ -310,12 +318,13 @@ required Video SEO feature steps.
 We based the script on the emails we were already sending, so it didn't take
 that long to whip it together. Maybe an hour to script, setup, and shoot.
 
-When it was ready, we added it to the Video SEO tool page inside customer
-accounts with a post-roll call-to-action to read more in our documentation.
+When it was ready, we added it to the Video SEO tool page inside our customer
+accounts. The video also had a post-roll call-to-action, which pointed the
+viewer to more resources in our documentation.
 
 ## Video itself
 
-Here is the video (insert video?)
+Here is the video!
 
 ## Stats for Video SEO
 
@@ -329,7 +338,7 @@ That's 30 hours of help and hand-holding we didn't have to provide.
 
 ## pic of crazy mercer Jordan and Max K
 
-So this brings up the question of what our team actually does.
+So if we aren't doing a lot of hand-holding...what the heck does our team do?
 
 The inbox is only the beginning.
 
