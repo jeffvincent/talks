@@ -52,7 +52,7 @@ support, we boiled it down to three options.
 
 First, we could build a support army.
 
-We could raise a bunch of money, hire a whole ton folks, and stick them in a
+We could raise a bunch of money, hire a whole ton of folks, and stick them in a
 call center or closet to answer emails and phone calls. They would probably
 hate their jobs, stick around for a year or so, and then leave. At some point,
 we might stop getting to know them, since there are so many of them and they
@@ -65,7 +65,7 @@ didn't want to manage one.
 
 Second, we could just make it impossible for any customers to contact us.
 
-We could remove all of our phone numbers, close support email addresses, and
+We could remove all of our phone numbers, close down support email addresses, and
 just go dark. We could probably get by like that for a while, and even make our
 product cheaper, since we wouldn't need to hire support people.
 
@@ -73,12 +73,15 @@ Our product would probably become a power users dream - only useful to really
 experienced users. The only problem is, there wouldn't be any power users to
 enjoy it.
 
-Our third option is this mythical hybrid creature. This NEW WAY.
+So those two options seemed pretty terrible. We needed a third option. A
+mythical hybrid creature. A NEW WAY.
+
+## Show me the new way
 
 We would somehow meld the best parts of options 1 and 2 together.
 
-We would somehow increase the number of customers that can communicate with us
-AND present them support options BESIDES our contact info.
+We would somehow increase the number of customers that could communicate with us
+at once AND present them support options BESIDES our contact info.
 
 I've been working on this NEW WAY for a few years now, but I've been
 kinda struggling on a name for it until recently. To properly introduce it,
@@ -94,9 +97,9 @@ EIGHT TIMES.
 Ronny is also a really funny guy. His self-inspirational quips and quotes get
 yelled out quite a bit.
 
-** PLAY RONNY COLEMAN SOUND EFFECT **
+## PLAY RONNY COLEMAN VIDEO
 
-## Illustrate Options
+## "LIGHT WEIGHT BABY!"
 
 So if you want to get strong like Ronny, you have two options. You could lift
 light weights a bazillion times...or you could lift really freaking heavy
@@ -105,7 +108,7 @@ weights a few times.
 Successful powerlifters like Ronny subscribe to the idea of heavier weights,
 fewer lifts.
 
-## "LIGHT WEIGHT BABY!"
+## “Lifting the Heavy Ass Weights of Support”
 
 How many people here send a lot of email? (HANDS OR CLAPS)
 
@@ -120,8 +123,6 @@ all day in order to get the value. So that is a heavy rep, light weight
 approach. It's exhausting, it uses up all your time, and it's not terribly
 helpful to our customers, either.
 
-## “Lifting the Heavy Ass Weights of Support”
-
 It’s time to start approaching your job more like Ronny. I'm here to introduce you
 to the Heavy Ass Weights of Support.
 
@@ -131,13 +132,13 @@ efficiently.
 
 ## Heavy Weight Examples
 
-What are some examples of this approach?
+So what the heck are the Heavy Ass Weights of support?
 
 Well they are resources you are probably all familiar with, like documentation, 
 in-app help, webinars, and screencasts.
 
 Listen, you probably all know about these things - the challenge is finding the
-time to do them well. My challenge is to convince you to do the work upfront,
+time to do them well. My job is to convince you to do the work upfront,
 rather than the light-weight equivalent, because these resources pay huge,
 scalable dividends over time for both you and your customers.
 
@@ -151,9 +152,10 @@ documentation that is thorough but has the wrong voice, and fix it up.
 The second part of my talk will be some of my tips for creating excellent
 support resources.
 
-So quick benefits overview. The heavy ass weight approach creates badass users,
-helps us connect with them at scale, and also helps us build incredibly
-talented teams. So let's get started.
+The heavy ass weight approach creates badass users, helps us connect with them
+at scale, and also helps us build incredibly talented teams.
+
+So let's get started with creating badass users.
 
 ## Heavy Ass Weights => Badass Users
 
@@ -165,47 +167,50 @@ Business of Software 2012, go check it out after this.
 
 (add extra pause)
 
-Kathy uses the term *badass* to essentially describe *experts*, which she
-thinks is a dry, overused term.
+As support folks, our end goal is to create badass users. Through all the email
+we send, we are trying to educate them to do great things with our apps.
 
-## Given a Representative Task, experts perform in a superior way, more
-reliably than experienced non-experts.
+Badass users know how to get shit done using your app, and are confident in
+doing so.  They are your strongest advocates, because they see the benefits of
+using your product and do so on a frequent basis.
 
-(read definition)
+## The Heavy Ass Weights are Empowering
 
-There are two pieces of this. The first part is our users experience friction
-every time they want to use our app and don't know how.
+So how do the heavy ass weights create more badass users?
 
-## Friction Slide
+In short, it is because the heavy ass weight approach is more empowering.
 
-They want to do something, in my world it might be customizing a video, and
-they don't know where to start. Maybe it's been a bit since they accessed their
+Let's say a customer wants to do something, so in my world it might be customizing a video, and
+they don't know where to start. Maybe it's been a while since they last accessed their
 account.
 
 If we are coming at this from the light weight approach, the confused user has
 to drop an email to support, or call a help line, in order to move forward.
+They might even have their own account rep, who is there to answer their every
+question.
 
-If, on the other hand, we are using the heavy weight approach, the user might
-find a useful resource by searching your documentation or an in-app tool tip
-that gets them through the action. If this is an action they will be performing
-often, they might watch your screencast a few times, or bookmark the
-documentation page for future reference.
+So every time they want to try something new, they have to call
+you. Or email you. Or tweet at you. Customers become frozen with fear about
+moving forward on their own.
+
+The heavy weight approach means helping the user find a useful resource by searching your documentation or an in-app tool tip
+that gets them through the action.
+
+If this is an action they will be performing often, they will happily watch
+your screencast a few times, or bookmark the documentation page for future reference.
+
+With a well-designed resource they can use again and again, they *get it*. They
+weren't led by the hand by an account rep - they 
+
+
+/////
+
 
 ## Takeaway 1
 
 This is the first part of creating badass users using the heavy weights: Heavy
 ass weight support enables your users to accomplish their task, again and
 again, on their timetable - no more waiting for you and your email response.
-
-## Heavy Ass Weights are empowering
-
-The second piece of creating badass users using the heavy ass weights is about
-empowerment.
-
-As a customer, sending an email to support and waiting for a response makes
-them more dependent on you. Every time they want to try something new, they
-feel like they have to call you. Or email you. Or tweet at you. Customers are
-frozen with fear about moving forward on their own.
 
 ## Customers want to do things!
 
