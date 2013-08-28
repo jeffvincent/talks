@@ -196,60 +196,17 @@ moving forward on their own.
 The heavy weight approach means helping the user find a useful resource by searching your documentation or an in-app tool tip
 that gets them through the action.
 
-If this is an action they will be performing often, they will happily watch
-your screencast a few times, or bookmark the documentation page for future reference.
-
 With a well-designed resource they can use again and again, they *get it*. They
-weren't led by the hand by an account rep - they 
-
-
-/////
-
+weren't led by the hand by an account rep - they learned it on their own. This
+leads to more exploration, more courage, and ultimately more doing.
 
 ## Takeaway 1
 
-This is the first part of creating badass users using the heavy weights: Heavy
-ass weight support enables your users to accomplish their task, again and
+To wrap up this point: Heavy ass weight support enables your users to
+accomplish their task, again and
 again, on their timetable - no more waiting for you and your email response.
 
-## Customers want to do things!
 
-No one got up this morning and said "I'm going to be excellent at an app!" They
-certainly didn't say that my product, Wistia.
-
-Instead, they have something they want to accomplish, and our goal as
-customer-focused people is to get them there, as quickly and easily as
-possible.
-
-When it comes to those early, repeated tasks - what we might call the
-onboarding tasks - getting them the help they need quickly means getting the
-heck out of the way.
-
-// frame this better //
-
-## Screenshot of Doc Greatest Hits
-
-So for Wistia (we're a video hosting and analytics platform), that means
-Upload, Customize, Embed, and Checking Stats.
-
-Oh look at that, we've got a Greatest Hits doc page with those actions.
-
-## Screenshot of Wistia Basics Page
-
-In fact, we've got a whole Wistia Basics series that covers those actions.
-
-## Takeaway 2
-
-Users will feel most empowered when they can accomplish the tasks that prove
-the value of your product on their own. Empowered users are also most likely to
-reach for their wallets.
-
-(Yes, this means an intuitive product, but that is a topic for a different
-talk.)
-
-For us, that means making sure we've got those onboarding steps well documented
-and covered in multiple media. I'll cover in a bit more detail how we can do
-that in a bit.
 
 ## HAW create personal connection
 
@@ -528,3 +485,41 @@ become power users.
 ---
 
 
+## Customers want to do things!
+
+No one got up this morning and said "I'm going to be excellent at an app!" They
+certainly didn't say that my product, Wistia.
+
+Instead, they have something they want to accomplish, and our goal as
+customer-focused people is to get them there, as quickly and easily as
+possible.
+
+When it comes to those early, repeated tasks - what we might call the
+onboarding tasks - getting them the help they need quickly means getting the
+heck out of the way.
+
+// frame this better //
+
+## Screenshot of Doc Greatest Hits
+
+So for Wistia (we're a video hosting and analytics platform), that means
+Upload, Customize, Embed, and Checking Stats.
+
+Oh look at that, we've got a Greatest Hits doc page with those actions.
+
+## Screenshot of Wistia Basics Page
+
+In fact, we've got a whole Wistia Basics series that covers those actions.
+
+## Takeaway 2
+
+Users will feel most empowered when they can accomplish the tasks that prove
+the value of your product on their own. Empowered users are also most likely to
+reach for their wallets.
+
+(Yes, this means an intuitive product, but that is a topic for a different
+talk.)
+
+For us, that means making sure we've got those onboarding steps well documented
+and covered in multiple media. I'll cover in a bit more detail how we can do
+that in a bit.
