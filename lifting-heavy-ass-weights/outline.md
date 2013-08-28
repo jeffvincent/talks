@@ -7,23 +7,26 @@ actually working in support, or community, or customer experience.
 That makes me really nervous and excited to talk to you today, since you are
 all so smart and experienced. So here goes nothing.
 
+## Story Slide?
 
 Today I want to talk about growth.
 
 As support people, growth can be a bit of a double-edged sword.
 
-On one hand, customer growth is exciting! More new people are using our tools and talking
-about our company, and your mom might start to recognize what you are working on.
+On one hand, customer growth is exciting! More new people are using our tools
+and talking about our company, and your mom might start to recognize what you
+are working on.
 
-On the other hand, it also means more inquiries, support tickets, and requests for "just 5 minutes" of our time.
+On the other hand, it also means more inquiries, support tickets, and requests
+for "just 5 minutes" of our time.
 
 At Wistia, we went through our first growth experience in early 2012. We had
 released this new set of features, and for the first time our vision was really
-coming through in the product. We were breaking down barriers for lots of potential
-customers we never had a shot with before.
+coming through in the product. We were breaking down barriers for lots of
+potential customers we never had a shot with before.
 
-So with more people interacting with our product and marketing, the support volume
-started to increase.
+So with more people interacting with our product and marketing, the support
+volume started to increase.
 
 Now at first it was just a small uptick, a few extra emails here or there.
 Nothing to really be too concerned about.
@@ -31,33 +34,35 @@ Nothing to really be too concerned about.
 But then the uptick turned into a sharp spike, and the spike turned into a
 deluge.
 
-The phones were ringing off the hook. The support inbox was turning
-over 3 or 4 times a day. It was just a constant stream of questions, suggestions, and
+The phones were ringing off the hook. The support inbox was turning over 3 or 4
+times a day. It was just a constant stream of questions, suggestions, and
 inquiries. I was drowning in support.
 
-Many of you have probably experienced the feelings I was having. I was burned out,
-exhausted, and generally sick of answering the same questions over and over again.
+Many of you have probably experienced the feelings I was having. I was burned
+out, exhausted, and generally sick of answering the same questions over and
+over again.
 
 ## How to scale support?
 
-So something had to change. When we were thinking about how we could scale support:
+So something had to change. When we were thinking about how we could scale
+support, we boiled it down to three options.
 
 ## 3 Options (Money, Broken Phone, NEW WAY)
 
 First, we could build a support army.
 
 We could raise a bunch of money, hire a whole ton folks, and stick them in a
-call center or closet to answer emails and phone calls. They would probably hate
-their jobs, stick around for a year or so, and then leave. At some point, we
-might stop getting to know them, since there are so many of them and they don't
-stay long.
+call center or closet to answer emails and phone calls. They would probably
+hate their jobs, stick around for a year or so, and then leave. At some point,
+we might stop getting to know them, since there are so many of them and they
+don't stay long.
 
-While it would be awesome to have the resources to get customers fast responses,
-this would a cultural nightmare and a really tough route to make work. None of
-us wanted to work at a company with a call center, and I really didn't want to
-manage one.
+While it would be awesome to have the resources to get customers fast
+responses, this would a cultural nightmare and a really tough route to make
+work. None of us wanted to work at a company with a call center, and I really
+didn't want to manage one.
 
-Second, we could make it impossible for any customers to contact us.
+Second, we could just make it impossible for any customers to contact us.
 
 We could remove all of our phone numbers, close support email addresses, and
 just go dark. We could probably get by like that for a while, and even make our
@@ -67,18 +72,16 @@ Our product would probably become a power users dream - only useful to really
 experienced users. The only problem is, there wouldn't be any power users to
 enjoy it.
 
-Our third option is like a Centaur - does everyone know what a Centaur is? It's
-this hybrid creature, part horse, part man.
+Our third option is this mythical hybrid creature. This NEW WAY.
 
-In the Centaur option, we would somehow meld the best parts of options 1 and
-2 together.
+We would somehow meld the best parts of options 1 and 2 together.
 
-We would somehow increase the number of customers that can communicate with us AND
-present them support options BESIDES our contact info.
+We would somehow increase the number of customers that can communicate with us
+AND present them support options BESIDES our contact info.
 
-I've been working on the Centaur option for a few years now, but I've been kinda
-struggling on a name for it until recently. To properly introduce it, however,
-I am going to need to beat the heck out of a metaphor.
+I've been working on this NEW WAY for a few years now, but I've been
+kinda struggling on a name for it until recently. To properly introduce it,
+however, I am going to need to beat the heck out of a metaphor.
 
 ## Ronny Coleman is really strong
 
@@ -87,8 +90,8 @@ Does anyone know who this is?
 This is Ronny Coleman. Ronny is an American powerlifter who has won Mr. Olympia
 EIGHT TIMES.
 
-Ronny is also a really funny guy. His self-inspirational quips and quotes
-get yelled out quite a bit.
+Ronny is also a really funny guy. His self-inspirational quips and quotes get
+yelled out quite a bit.
 
 ** PLAY RONNY COLEMAN SOUND EFFECT **
 
@@ -98,8 +101,8 @@ So if you want to get strong like Ronny, you have two options. You could lift
 light weights a bazillion times...or you could lift really freaking heavy
 weights a few times.
 
-Successful powerlifters like Ronny subscribe to the idea of heavier
-weights, fewer lifts.
+Successful powerlifters like Ronny subscribe to the idea of heavier weights,
+fewer lifts.
 
 ## "LIGHT WEIGHT BABY!"
 
@@ -111,28 +114,45 @@ pretty easy, something we've sent hundreds of times.
 Support emails you can write in your sleep is like Ronny curling a 20 pound
 dumbbell - it's a light weight!
 
-Again and again, you're lifting these light weights, and you gotta lift them all
-day in order to get the value. So that is a heavy rep, light weight approach.
+Again and again, you're lifting these light weights, and you gotta lift them
+all day in order to get the value. So that is a heavy rep, light weight
+approach. It's exhausting, it uses up all your time, and it's not terribly
+helpful to our customers, either.
 
 ## “Lifting the Heavy Ass Weights of Support”
 
-It’s time to start approaching your job like Ronny. I'm here to introduce you
+It’s time to start approaching your job more like Ronny. I'm here to introduce you
 to the Heavy Ass Weights of Support.
+
+The heavy ass weights are useful resources that customers can refer to again
+and again. They help you scale your message and reach more customers
+efficiently.
 
 ## Heavy Weight Examples
 
-So what are heavy weights of support?
+What are some examples of this approach?
 
-We could create scalable, useful resources that customers can refer to
-again and again.
+Well they are resources you are probably all familiar with, like documentation, 
+in-app help, webinars, and screencasts.
 
-Heavy weight support is resources like documentation, in-app help, and screencasts.
-They take a lot of work upfront, but pay huge, scalable dividends over time for
-you and your customers.
+Listen, you probably all know about these things - the challenge is finding the
+time to do them well. My challenge is to convince you to do the work upfront,
+rather than the light-weight equivalent, because these resources pay huge,
+scalable dividends over time for both you and your customers.
 
 ## Heavy Ass Weight Key benefits
 
+So the first part of my talk today is to highlight the big benefits of the
+heavy ass weight approach. I'm looking to inspire you to find one piece of your
+product or service that could be better documented, or find one piece of
+documentation that is thorough but has the wrong voice, and fix it up.
 
+The second part of my talk will be some of my tips for creating excellent
+support resources.
+
+So quick benefits overview. The heavy ass weight approach creates badass users,
+helps us connect with them at scale, and also helps us build incredibly
+talented teams. So let's get started.
 
 ## Heavy Ass Weights => Badass Users
 
@@ -144,9 +164,11 @@ Business of Software 2012, go check it out after this.
 
 (add extra pause)
 
-In the talk, Kathy lays out the definition of *expert*:
+Kathy uses the term *badass* to essentially describe *experts*, which she
+thinks is a dry, overused term.
 
-## Given a Representative Task, experts perform in a superior way, more reliably than experienced non-experts.
+## Given a Representative Task, experts perform in a superior way, more
+reliably than experienced non-experts.
 
 (read definition)
 
@@ -179,18 +201,19 @@ again, on their timetable - no more waiting for you and your email response.
 The second piece of creating badass users using the heavy ass weights is about
 empowerment.
 
-As a customer, sending an email to support and waiting for a response makes them
-more dependent on you. Every time they want to try something new, they feel like
-they have to call you. Or email you. Or tweet at you. Customers are frozen with
-fear about moving forward on their own.
+As a customer, sending an email to support and waiting for a response makes
+them more dependent on you. Every time they want to try something new, they
+feel like they have to call you. Or email you. Or tweet at you. Customers are
+frozen with fear about moving forward on their own.
 
 ## Customers want to do things!
 
 No one got up this morning and said "I'm going to be excellent at an app!" They
 certainly didn't say that my product, Wistia.
 
-Instead, they have something they want to accomplish, and our goal as customer-focused
-people is to get them there, as quickly and easily as possible.
+Instead, they have something they want to accomplish, and our goal as
+customer-focused people is to get them there, as quickly and easily as
+possible.
 
 When it comes to those early, repeated tasks - what we might call the
 onboarding tasks - getting them the help they need quickly means getting the
@@ -200,8 +223,8 @@ heck out of the way.
 
 ## Screenshot of Doc Greatest Hits
 
-So for Wistia (we're a video hosting and analytics platform),
-that means Upload, Customize, Embed, and Checking Stats.
+So for Wistia (we're a video hosting and analytics platform), that means
+Upload, Customize, Embed, and Checking Stats.
 
 Oh look at that, we've got a Greatest Hits doc page with those actions.
 
@@ -215,7 +238,8 @@ Users will feel most empowered when they can accomplish the tasks that prove
 the value of your product on their own. Empowered users are also most likely to
 reach for their wallets.
 
-(Yes, this means an intuitive product, but that is a topic for a different talk.)
+(Yes, this means an intuitive product, but that is a topic for a different
+talk.)
 
 For us, that means making sure we've got those onboarding steps well documented
 and covered in multiple media. I'll cover in a bit more detail how we can do
@@ -237,7 +261,8 @@ I'm here to tell you nothing could be further from the truth.
 ## We are not automatons
 
 Our support inboxes still receive lots of communication every day from our
-customers - its just more focused on more advanced actions and technical troubleshooting.
+customers - its just more focused on more advanced actions and technical
+troubleshooting.
 
 The robots are not going to take over support anytime soon. It's still really
 valuable to be able to connect with customers and talk about their problems.
@@ -245,8 +270,8 @@ valuable to be able to connect with customers and talk about their problems.
 But the way we talk with them has changed. Because they watch our videos and
 read our documentation first, they've gotten to know us.
 
-They get to know our product and personality through our videos and
-other support resources, and it creates a personal and emotional connection.
+They get to know our product and personality through our videos and other
+support resources, and it creates a personal and emotional connection.
 
 Instead of relying on the support person's mood or whim to make the strong
 connection in the first few emails, we lead with consistently bright, cheery,
@@ -258,7 +283,8 @@ This also creates this neat side benefit of lovely emails. We get lots of
 emails that lead with "First, we love Wistia", and then dive into the core of
 their technical issue.
 
-This makes support a lot more fun to tackle (it's amazing, and we're hiring - come find me later).
+This makes support a lot more fun to tackle (it's amazing, and we're hiring -
+come find me later).
 
 ## Takeaway 3
 
@@ -279,18 +305,19 @@ still be here for technical discussions and for chatting about espresso.
 
 The top line is our new user growth, and the bottom line is our total support
 requests. Early on we were increasing total support volume by a number about
-equal to our new customers, meaning for each new user we'd have another
-email that month.
+equal to our new customers, meaning for each new user we'd have another email
+that month.
 
 Today, our monthly support volume is less than 1% of our total user base.
 
-So this is the what it looks like when you are lifting the Heavy Ass Weights of support.
+So this is the what it looks like when you are lifting the Heavy Ass Weights of
+support.
 
 When you are on-boarding happy customers who don't require a lot of high-touch,
 you get a graph that looks like this. And you are happy.
 
-What's really crazy here is our percentage churn, which has not only
-stayed low, but actually decreased over this time.
+What's really crazy here is our percentage churn, which has not only stayed
+low, but actually decreased over this time.
 
 
 ## video SEO function in the Product
@@ -298,8 +325,8 @@ stayed low, but actually decreased over this time.
 So now I want to tell you a quick story about using the heavy ass weights in
 our support process.
 
-At Wistia, our Video SEO feature is one of the big differentiators for us and we
-draw lots of new customers because of it.
+At Wistia, our Video SEO feature is one of the big differentiators for us and
+we draw lots of new customers because of it.
 
 Now that’s awesome, but it’s also one of our most confusing features, because
 it requires the user to do a bunch of work and there are several moving parts
@@ -320,8 +347,8 @@ required Video SEO feature steps.
 We based the script on the emails we were already sending, so it didn't take
 that long to whip it together. Maybe an hour to script, setup, and shoot.
 
-When it was ready, we added it to the Video SEO tool page inside customer accounts
-with a post-roll call-to-action to read more in our documentation.
+When it was ready, we added it to the Video SEO tool page inside customer
+accounts with a post-roll call-to-action to read more in our documentation.
 
 ## Video itself
 
@@ -329,8 +356,8 @@ Here is the video (insert video?)
 
 ## Stats for Video SEO
 
-Overnight, those emails disappeared. I'm not exaggerating or kidding when I
-say they went to zero.
+Overnight, those emails disappeared. I'm not exaggerating or kidding when I say
+they went to zero.
 
 This is what the stats looked like for that video after a few weeks. It was
 definitely getting some watches - and almost 30 hours of video were watched.
@@ -344,8 +371,8 @@ So this brings up the question of what our team actually does.
 The inbox is only the beginning.
 
 Because our inbox and phone call volume is no longer directly tied to customer
-growth, we haven’t had to hire a whole bunch of recent college grads, chain them
-to a desk, and flood them with customer calls every day.
+growth, we haven’t had to hire a whole bunch of recent college grads, chain
+them to a desk, and flood them with customer calls every day.
 
 Instead, I’m able to hire a few really smart, really talented people who
 improve our customer’s lives in so many ways.
