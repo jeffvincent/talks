@@ -205,39 +205,53 @@ To wrap up this point: Heavy weight support enables your users to accomplish
 their task, again and again, on their timetable - no more waiting for you and
 your email response.
 
-## Everyone needs love!
+## badass users want self-service help
 
 So the first big benefit of the Heavy Ass Weights is they create Badass users.
 
-The second is a little less intuitive. I think a perceived disadvantage of the
-Heavy Weight approach is it will lead to us losing contact with our customers.
+Now that we've created all these badass users, how do we connect with them?
 
-The fear is that self-service will lead to a disconnect with our loving
-customers, which is super valuable.
+Now that they've been empowered, badass users doesn't need hand-holding from an
+account rep, and they don't want to sit on hold waiting for your support team.
 
-I'm here to tell you nothing could be further from the truth.
+Instead, they want helpful resources they can refer to again and again.
 
-## Trust
+OK, in adopting the Heavy Weight approach, I want you to repeat this mantra,
+each night before you go to bed:
 
-Let's take a look at the two components of building a connection with our
-customers. I'm going to illustrate for you how the Heavy Weights can actually
-strengthen it.
+## The Best Support is No Support
 
-The first component is trust. Trust, in the support context, is built on
-setting good expectations and then following through with them.
+The best support is no support.
 
-In a light-weight, high rep approach, expectations are set by the customer via
-email. For the most part, this means we can do no wrong *until* we fall short.
-With nowhere else to look for help *but* support, they come to us confused,
-frustrated, maybe a little hungry. When we let them down, they are already at
-the end of their rope.
+The fear is that self-service support will lead to a disconnect with our loving
+customers.
 
-Their emails might contain things like:
+Nothing could be further from the truth.
 
-"I just need to know if ya'll provide SEO for squirrel videos! I've
-looked everywhere and I can't find anything!"
+## the inbox is a terrible place to meet people.
 
-to which we have to reply:
+Too often, our customer's first experience with us is in support.
+
+And the support context is a terrible place to meet people! The customer is
+stressed, the support person has a queue out the door - it's a recipe for
+disaster.
+
+What if instead of waiting for them, we created resources that walked them
+through the getting started workflows, and then started adding frequently asked
+questions to those resources?
+
+Suddenly our conversations go from being reactive, from having to reset
+expectations and beg for forgiveness, to being valuable and insightful.
+
+Let's look at a quick fictional example. Let's say the customer writes in and
+asks:
+
+"I just need to know if ya'll provide SEO for squirrel videos! I've looked
+everywhere and I can't find anything! I bought this darn thing because I
+thought you supported squirrel video SEO!"
+
+If we don't have resources to point to, we're in reactive mode. We have to
+reply:
 
 "Sorry about that! We actually don't provide SEO support for squirrel videos!"
 
@@ -245,16 +259,13 @@ To which they reply very angrily.
 
 You'd be surprised how much your customers will research before they ever reach
 out. And it's no surprise! No one wants to email the know-it-alls in support
-and feel all dumb.
+and feel dumb.
 
-So if we don't have thorough resources that handle frequently asked questions
-and set expectations for our customers, in support we stuck in a reactive mode. 
+You can't solve all the questions like this, but the Heavy Weight approach
+means if you identify this as a frequently asked question, you create
+documentation for it, or include it in your onboarding resources.
 
-There is certainly a connection being made here, but it's not a positive one.
-
-If by contrast we had good SEO documentation, perhaps with a frequently asked
-question section that covered squirrel video SEO, the conversation might go
-more like:
+This leads to a much better conversation:
 
 "Hey, I've checked your documentation, and I see you don't provide SEO support
 for squirrel videos. Can you please do this in the future?"
@@ -264,19 +275,13 @@ and we end up in a valuable conversation.
 
 ## images of us
 
-The other important part of creating a personal connection with our customer is
-their emotional connection to us as people.
+The other thing we don't want is to limit the people we connect with to just
+those high-touch customers that reach out in support.
 
-In the light-weight approach, a more talkative customer might forge a bond with
-their Account rep over time. Support ends up being the only part of the company
-that has any connection with the customer.
-
-The support context is also a terrible place to meet people. The customer is stressed, the support person has a queue
-out the door - it's a recipe for disaster.
-
-And what about all the other prospective customers? What about the customers
-that don't want to email support? They end up without a connection, and they
-bounce.
+In the light-weight approach, customers that don't email support, don't connect
+with us. We might even encourage them to contact us, to make sure they get the
+personal touch. This is making the focus all about us, instead of about what
+the customer needs.
 
 The Heavy Weight approach caters to self-service customers with resources
 crafted in our own voice. We've produced video that shows off the faces of
@@ -404,9 +409,19 @@ and give your customers superpowers.
 For the rest of my time I want to talk about the Heavy Ass weights our team has
 created, and give you some tactical suggestions for making yours awesome.
 
+## Patrick McKenzie & Normandy
+
+Our number one goal with our heavy weights has been to improve the very
+first-run experience our customers have. This quote by Patrick McKenzie sums it
+up pretty darn well.
+
+So if you are looking for a place to start with all of this, start with the
+initial workflows - the things that prove the value of your product and get
+prospective customers reaching for their wallets.
+
 ## Screenshot of Wistia Documentation
 
-The first is documentation. Pretty much everyone in the room has documentation,
+OK cool on to the examples! The first is documentation. Pretty much everyone in the room has documentation,
 right? If you are a b2b app, you need documentation.
 
 ## Screenshot 2
@@ -509,10 +524,9 @@ That first time your customer uses your app is the most important. They will
 form an opinion of you in the first run that will be *extremely* hard to
 change.
 
-So if they run into trouble, you're screwed!
-Make sure your customer has ready access to resources that can get them through
-the most important steps in your application. In preparing those resources,
-think about showing off your entire company. You get the double benefit of
-customers having a smoother experience, and giving them a chance to get to know
-the people behind the product.
+So if they run into trouble, you're screwed!  Make sure your customer has ready
+access to resources that can get them through the most important steps in your
+application. In preparing those resources, think about showing off your entire
+company. You get the double benefit of customers having a smoother experience,
+and giving them a chance to get to know the people behind the product.
 
