@@ -126,75 +126,73 @@ helpful to our customers, either.
 It’s time to start approaching your job more like Ronny. I'm here to introduce you
 to the Heavy Ass Weights of Support.
 
-The heavy ass weights are useful resources that customers can refer to again
-and again. They help you scale your message and reach more customers
-efficiently.
+Heavy weight support is an approach - it is systematically looking at the
+friction points and rough spots in our customer's experience and creating
+useful resources to help educate our customers and get them going again.
 
 ## Heavy Weight Examples
 
-So what the heck are the Heavy Ass Weights of support?
-
-Well they are resources you are probably all familiar with, like documentation, 
+The heavy weight resources are things you are probably all familiar with, like documentation,
 in-app help, webinars, and screencasts.
 
-Listen, you probably all know about these things - the challenge is finding the
-time to do them well. My job is to convince you to do the work upfront,
+You know these things can help your customers - the challenge is prioritizing
+them and doing them well. My job is to convince you to do the work upfront,
 rather than the light-weight equivalent, because these resources pay huge,
 scalable dividends over time for both you and your customers.
 
 ## Heavy Ass Weight Key benefits
 
 So the first part of my talk today is to highlight the big benefits of the
-heavy ass weight approach. I'm looking to inspire you to find one piece of your
+heavy ass weight approach.
+
+The second part will be some of my tips for creating excellent
+support resources.
+
+My hope is to inspire you to go back to work, find one piece of your
 product or service that could be better documented, or find one piece of
 documentation that is thorough but has the wrong voice, and fix it up.
 
-The second part of my talk will be some of my tips for creating excellent
-support resources.
-
-The heavy ass weight approach creates badass users, helps us connect with them
+I've boiled my view on the benefits down to three key ones: The heavy weight
+approach creates badass users, helps us connect with them
 at scale, and also helps us build incredibly talented teams.
 
 So let's get started with creating badass users.
 
 ## Heavy Ass Weights => Badass Users
 
-The first benefit is that Heavy Weight support resources create what Kathy
-Sierra calls "badass users".
-
-If you haven't seen Kathy's talk on Building the Minimum Badass User from
-Business of Software 2012, go check it out after this.
+Kathy Sierra coined this term in her talk at Business of Software 2012, Building
+the Minimum Badass User. After UserConf, you should totally go check it out.
 
 (add extra pause)
 
-As support folks, our end goal is to create badass users. Through all the email
-we send, we are trying to educate them to do great things with our apps.
+When she said "badass", she was using it as a synonym for "expert". Badass
+users know how to get shit done using your app, and are confident using it.
+Creating badass users means getting over trying to impress customers, and
+instead help them impress others.
 
-Badass users know how to get shit done using your app, and are confident in
-doing so.  They are your strongest advocates, because they see the benefits of
-using your product and do so on a frequent basis.
+As support folks, our end goal has always been to create badass users. We are
+educators and map builders, guiding our customers to creating awesome.
 
 ## The Heavy Ass Weights are Empowering
 
-So how do the heavy ass weights create more badass users?
+So why do the heavy ass weights create more badass users than any other approach?
 
-In short, it is because the heavy ass weight approach is more empowering.
+Because the heavy ass weight approach is more empowering.
 
 Let's say a customer wants to do something, so in my world it might be customizing a video, and
 they don't know where to start. Maybe it's been a while since they last accessed their
 account.
 
-If we are coming at this from the light weight approach, the confused user has
-to drop an email to support, or call a help line, in order to move forward.
+In the light weight approach, the confused user has to drop an email to support, or call a help line, in order to move forward.
 They might even have their own account rep, who is there to answer their every
 question.
 
 So every time they want to try something new, they have to call
 you. Or email you. Or tweet at you. Customers become frozen with fear about
-moving forward on their own.
+trying something new. They have no forward momentum.
 
-The heavy weight approach means helping the user find a useful resource by searching your documentation or an in-app tool tip
-that gets them through the action.
+The heavy weight approach provides an easy way to search your documentation for 
+help, or an in-app tool tip that gets them through the action.
 
 With a well-designed resource they can use again and again, they *get it*. They
 weren't led by the hand by an account rep - they learned it on their own. This
@@ -203,8 +201,7 @@ leads to more exploration, more courage, and ultimately more doing.
 ## Takeaway
 
 To wrap up this point: Heavy ass weight support enables your users to
-accomplish their task, again and
-again, on their timetable - no more waiting for you and your email response.
+accomplish their task, again and again, on their timetable - no more waiting for you and your email response.
 
 ## HAW create personal connection
 
@@ -340,9 +337,7 @@ That's 30 hours of help and hand-holding we didn't have to provide.
 
 So if we aren't doing a lot of hand-holding...what the heck does our team do?
 
-The inbox is only the beginning.
-
-Because our inbox and phone call volume is no longer directly tied to customer
+Well in the light weight approach, our inbox and phone call volume is no longer directly tied to customer
 growth, we haven’t had to hire a whole bunch of recent college grads, chain
 them to a desk, and flood them with customer calls every day.
 
