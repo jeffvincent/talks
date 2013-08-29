@@ -7,6 +7,13 @@ actually working in support, or community, or customer experience.
 That makes me really nervous and excited to talk to you today, since you are
 all so smart and experienced. So here goes nothing.
 
+## Wistia Sign
+
+My name is Jeff, I work at Wistia. We're a video hosting and analytics platform
+for business. We also have cute dogs.
+
+## Growth Slide
+
 Today I want to talk about growth.
 
 As support people, we don't talk about growth enough, and I think that is
