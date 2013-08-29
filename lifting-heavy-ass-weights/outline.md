@@ -34,15 +34,16 @@ lots of potential customers we never had a shot with before.
 At first, the support increase was just a small uptick, a few extra emails here
 or there.  Nothing to really be concerned about.
 
-But slowly the uptick turned a full-on deluge.
+## oh yeah, we did
 
-The phones were ringing off the hook. The support inbox was turning over 3 or 4
-times a day. It was just a constant stream of questions, suggestions, and
-inquiries. I was drowning in support.
+But slowly the uptick turned into a full-on monsoon.
 
-Many of you have probably experienced the feelings I was having. I was burned
-out, exhausted, and generally sick of answering the same questions over and
-over again.
+The phones were ringing off the hook. The support inbox was just a constant
+stream of questions, suggestions, and inquiries. I was drowning in support.
+
+Many of you have probably experienced what I was feeling at that time. I was
+burned out, exhausted, and generally sick of answering the same questions over
+and over again.
 
 ## How to scale support?
 
@@ -106,7 +107,7 @@ weights a few times.
 Successful powerlifters like Ronny subscribe to the idea of heavier weights,
 fewer lifts.
 
-## “Lifting the Heavy Ass Weights of Support”
+## Lifting the Heavy Ass Weights of Support
 
 How many people here send a lot of email? (HANDS OR CLAPS)
 
@@ -267,7 +268,8 @@ for squirrel videos. Can you please do this in the future?"
 Ah, much better. We make our customer feel better, and set better expectations,
 and we end up in a valuable conversation.
 
-## Moar Connections = Moar Customers
+## Everyone wanna be a bodybuilder, but no one want to lift those heavy ass
+weights
 
 The other thing we don't want is to limit the people we connect with to just
 those high-touch customers that reach out in support. Customers that connect
@@ -408,7 +410,7 @@ amazing people who will push your customer experience even further.
 Customers, in turn, will thank you (with their money) for considering their
 time and helping them achieve their goals.
 
-## Takeaway 4
+## Takeaway 3
 
 You will not automate away people by adopting a heavy ass weight approach.
 Instead, you will give them the headroom and the freedom to make amazing things
@@ -429,22 +431,24 @@ better.
 
 ## Screenshot 2
 
-First, how do we use documentation? Let me count the ways. We include a link to it in support emails, to train your customers to start looking
-in the docs. We also place a link to it prominently in your app, so users looking to
+First, how do we use documentation? Let me count the ways. We include a link to
+it in support emails, to train your customers to start looking in the docs. We
+also place a link to it prominently in your app, so users looking to
 self-service can find it without any trouble.
 
 ## Heavy Hittin' Docs
 
 So what are my heavy hitting doc tips?
 
-First, use your normal language, not robot speak. Look at emails you are already
-sending that work, and pull out parts of that language for your documentation.
+First, use your normal language, not robot speak. Look at emails you are
+already sending that work, and pull out parts of that language for your
+documentation.
 
 Second, use lots of real interface images, and make the images as large as you
 can. Help put your readers in the context of the app.
 
-Make absolutely certain there is search functionality, and monitor
-common searches for more ways to improve. In our app, we have a link to the
+Make absolutely certain there is search functionality, and monitor common
+searches for more ways to improve. In our app, we have a link to the
 documentation in our header bar, and we also provide a way to search the
 documentation from inside the application as well.
 
@@ -454,7 +458,9 @@ our docs, always trying to get better. My favorite docs right now are Githubs.
 
 ## Support Video
 
-Ok, video is a a little less obvious of an example. While screencasting software has made it a lot easier to create help videos, it is still hard to do well.
+Ok, video is a a little less obvious of an example. While screencasting
+software has made it a lot easier to create help videos, it is still hard to do
+well.
 
 We have a whole getting started series on video...
 
@@ -464,7 +470,8 @@ We have a whole getting started series on video...
 
 ## Screenshot 3
 
-We also have lots of videos sprinkled around the popular pages in our documentation.
+We also have lots of videos sprinkled around the popular pages in our
+documentation.
 
 Video does the best job of connecting the interface with the support. The
 viewer gets to watch you complete the actions they are looking to do, which
@@ -479,10 +486,10 @@ what we want to avoid.
 
 Here are some tips for creating excellent support videos:
 
-First, keep it focused. No one likes a super long and boring walkthrough. No one. We
-set a goal in advance for what we will cover, and who it is for. If it is for
-first-time users, then keep it to the basics. You can always supplement with an
-expert-level video later.
+First, keep it focused. No one likes a super long and boring walkthrough. No
+one. We set a goal in advance for what we will cover, and who it is for. If it
+is for first-time users, then keep it to the basics. You can always supplement
+with an expert-level video later.
 
 Second, get your face on there! We use live-action bumpers with our videos to
 increase engagement and connection. Remember, when done well, heavy weight
@@ -498,9 +505,9 @@ Getting Started series.
 
 ## In-App Tool Tips
 
-Next up are tool tips. Tool tips are the best for providing a little *nudge*
-to keep your users going. We provide them in lots of little *friction* areas in the account,
-hidden under the nifty question mark icons.
+Next up are tool tips. Tool tips are the best for providing a little *nudge* to
+keep your users going. We provide them in lots of little *friction* areas in
+the account, hidden under the nifty question mark icons.
 
 ## Heavy Hittin' Tool Tips
 
