@@ -464,34 +464,26 @@ that away and go get stuff done in their accounts. It's awesome.
 
 ## Reminder: Your Time is Valuable
 
-I want to close with a little bit more about you. And your time.
+I want to close out by saying something that I don't think gets said enough.
 
-The **hero** support person is well known. They are awesome - spending endless
-hours communicating with customers, walking them through the product,
-communicating their requests to the product team, issuing bugs on their behalf.
+## YOU ARE AWESOME
 
-We all love and respect the support hero. But here's what happens - that person
-has all the front-line feedback and communications in their head, and no time
-to get deep on sharing it.
+You are awesome. As support people, you spend countless hours communicating with
+customers, walking them through our product, and documenting their requests for
+the product team.
 
-The support hero doesn't have time to participate in new product walkthroughs,
-or provide thoughtful feedback on new feature iterations. As a result, the
-product goes out absent of context - it may solve customer problems, but
-perhaps not in the way they'd like to use it. That creates more support, which
-further buries our hero. It's a crappy, never ending cycle and no one wins!
+You are the front-line heros that make-or-break your company's future.
 
-I beg of you, if you only take one thing away from this talk: your time is
+So I beg of you, if you only take one thing away from this talk: your time is
 important. When you see something that is draining your time and preventing you
-from doing next level work for your customers, find a way to automate it away.
-Don't be afraid that just because you aren't personally interfacing with your
-customer's, they will be angry with you. For most, that personal touch was
-never important in the first place. All they need are clear, helpful support
-resources.
+from doing next level work for your customers, automate it away.
+
+Your customers don't need hand holding, and they don't need coddling. All they
+need are clear, helpful support resources.
 
 Make more happy customers. Lift some heavy ass weights. Thank you.
 
-
-
+## Ain't Nothin But a Peanut!
 
 ---
 
