@@ -9,8 +9,8 @@ all so smart and experienced. So here goes nothing.
 
 Today I want to talk about growth.
 
-As support people, I don't think we talk about growth enough, and I think that
-is because it can be a bit of a sticky situation.
+As support people, we don't talk about growth enough, and I think that is
+because it can be a bit of a sticky situation.
 
 On one hand, customer growth is exciting! More new people are using our tools
 and talking about our company, and your mom might start to recognize what you
@@ -22,18 +22,14 @@ for "just 5 minutes" of our time.
 ## Young Wistia
 
 At Wistia, we went through our first growth experience in early 2012. We had
-released this new set of features, and for the first time our vision was really
-coming through in the product. We were breaking down barriers for lots of
-potential customers we never had a shot with before.
+released this new set of features, and for the first time we were really
+separating ourselves from the competition. We were breaking down barriers for
+lots of potential customers we never had a shot with before.
 
-So with more people interacting with our product and marketing, the support
-volume started to increase.
+At first, the support increase was just a small uptick, a few extra emails here
+or there.  Nothing to really be concerned about.
 
-Now at first it was just a small uptick, a few extra emails here or there.
-Nothing to really be too concerned about.
-
-But then the uptick turned into a sharp spike, and the spike turned into a
-deluge.
+But slowly the uptick turned a full-on deluge.
 
 The phones were ringing off the hook. The support inbox was turning over 3 or 4
 times a day. It was just a constant stream of questions, suggestions, and
@@ -45,8 +41,8 @@ over again.
 
 ## How to scale support?
 
-So something had to change. When we were thinking about how we could scale
-support, we boiled it down to three options.
+So something had to change. In figuring out how we could scale support, we
+evaluated three basic options.
 
 ## 3 Options (Money, Broken Phone, NEW WAY)
 
@@ -54,20 +50,17 @@ First, we could build a support army.
 
 We could raise a bunch of money, hire a whole ton of folks, and stick them in a
 call center or closet to answer emails and phone calls. They would probably
-hate their jobs, stick around for a year or so, and then leave. At some point,
-we might stop getting to know them, since there are so many of them and they
-don't stay long.
+hate their jobs, stick around for a year or so, and then leave.
 
-While it would be awesome to have the resources to get customers fast
-responses, this would a cultural nightmare and a really tough route to make
+This would have been a cultural nightmare and a really tough route to make
 work. None of us wanted to work at a company with a call center, and I really
-didn't want to manage one.
+didn't want to manage one. So that one was out.
 
 Second, we could just make it impossible for any customers to contact us.
 
-We could remove all of our phone numbers, close down support email addresses, and
-just go dark. We could probably get by like that for a while, and even make our
-product cheaper, since we wouldn't need to hire support people.
+We could remove all of our phone numbers, close down support email addresses,
+and just go dark. We could probably get by like that for a while, and even make
+our product cheaper, since we wouldn't need to hire support people.
 
 Our product would probably become a power users dream - only useful to really
 experienced users. The only problem is, there wouldn't be any power users to
@@ -80,12 +73,13 @@ mythical hybrid creature. A NEW WAY.
 
 We would somehow meld the best parts of options 1 and 2 together.
 
-We would somehow increase the number of customers that could communicate with us
-at once AND present them support options BESIDES our contact info.
+We would increase the number of customers that could communicate with us at
+once AND present them self-service support options to reach for BESIDES our
+contact info.
 
-I've been working on this NEW WAY for a few years now, but I've been
-kinda struggling on a name for it until recently. To properly introduce it,
-however, I am going to need to beat the heck out of a metaphor.
+I've been working on this NEW WAY for a few years now, but I've been kinda
+struggling on a name for it until recently. To properly introduce it, however,
+I am going to need to beat the heck out of a metaphor.
 
 ## Ronny Coleman is really strong
 
@@ -119,108 +113,104 @@ Support emails you can write in your sleep is like Ronny curling a 20 pound
 dumbbell - it's a light weight!
 
 Again and again, you're lifting these light weights, and you gotta lift them
-all day in order to get the value. So that is a heavy rep, light weight
+all day in order to get the value. That is a light weight, heavy repetition
 approach. It's exhausting, it uses up all your time, and it's not terribly
 helpful to our customers, either.
 
-It’s time to start approaching your job more like Ronny. I'm here to introduce you
-to the Heavy Ass Weights of Support.
+It’s time to start viewing your job more like Ronny. It's time to start using
+the Heavy Ass Weights of Support.
 
-Heavy weight support is an approach - it is systematically looking at the
-friction points and rough spots in our customer's experience and creating
-useful resources to help educate our customers and get them going again.
+Heavy weight support is an approach - it is systematically looking at the those
+support conversations we have again and again - those frough spots in our
+customer's experience - and creating useful resources to help educate our
+customers and get them going again.
 
 ## Heavy Weight Examples
 
-The heavy weight resources are things you are probably all familiar with, like documentation,
-in-app help, webinars, and screencasts.
+The heavy weight resources are things you are probably all familiar with, like
+documentation, in-app help, webinars, and screencasts.
 
 You know these things can help your customers - the challenge is prioritizing
-them and doing them well. My job is to convince you to do the work upfront,
-rather than the light-weight equivalent, because these resources pay huge,
-scalable dividends over time for both you and your customers.
+them and doing them well. My job is to convince you to do the work on these up
+front, rather than the easy light-weight equivalent, because these resources
+pay huge, scalable dividends over time for you and your customers.
 
 ## Heavy Ass Weight Key benefits
 
 So the first part of my talk today is to highlight the big benefits of the
 heavy ass weight approach.
 
-The second part will be some of my tips for creating excellent
-support resources.
+Then, the second part will be some of my tips for creating excellent support
+resources.
 
-My hope is to inspire you to go back to work, find one piece of your
-product or service that could be better documented, or find one piece of
-documentation that is thorough but has the wrong voice, and fix it up.
+I've boiled my perspective on this approach down to three key benefits:
 
-I've boiled my view on the benefits down to three key ones: The heavy weight
-approach creates badass users, helps us connect with them
-at scale, and also helps us build incredibly talented teams.
+The heavy weight approach creates badass users, helps us connect with them at
+scale, and also helps us build incredibly talented teams.
 
 So let's get started with creating badass users.
 
 ## Heavy Ass Weights => Badass Users
 
-Kathy Sierra coined this term in her talk at Business of Software 2012, Building
-the Minimum Badass User. After UserConf, you should totally go check it out.
+Kathy Sierra coined this term in her talk at Business of Software 2012,
+Building the Minimum Badass User. After UserConf, you should totally go check
+that talk out, if you haven't already.
 
 (add extra pause)
 
 When she said "badass", she was using it as a synonym for "expert". Badass
 users know how to get shit done using your app, and are confident using it.
 Creating badass users means getting over trying to impress customers, and
-instead help them impress others.
+instead help customers impress their end user.
 
 As support folks, our end goal has always been to create badass users. We are
-educators and map builders, guiding our customers to creating awesome.
+educators and map builders, guiding our customers to creating awesome things.
 
 ## The Heavy Ass Weights are Empowering
 
-So why do the heavy ass weights create more badass users than any other approach?
+But the heavy weight approach creates more badass users, faster than the light
+weight approach because it is a more empowering experience.
 
-Because the heavy ass weight approach is more empowering.
+Let's say a customer wants to do something common, so in my world it might be
+customizing a video, and they don't know where to start.
 
-Let's say a customer wants to do something, so in my world it might be customizing a video, and
-they don't know where to start. Maybe it's been a while since they last accessed their
-account.
+In the light weight approach, the confused user has to drop an email to
+support, or call a help line, in order to move forward.  They might even have
+their own account rep, who is there to answer their every question.
 
-In the light weight approach, the confused user has to drop an email to support, or call a help line, in order to move forward.
-They might even have their own account rep, who is there to answer their every
-question.
+Customers get conditioned that when they want to try something new, they have
+to call you. Or email you. Or tweet at you. Customers become frozen with fear
+about trying something new. They have no forward momentum.
 
-So every time they want to try something new, they have to call
-you. Or email you. Or tweet at you. Customers become frozen with fear about
-trying something new. They have no forward momentum.
+With the heavy weight approach, we would identify customizing as an important
+workflow to learn. We would make sure there was a prominent link in our
+documentation for help, and an in-app tool tip that gets them through the action.
 
-The heavy weight approach provides an easy way to search your documentation for 
-help, or an in-app tool tip that gets them through the action.
+The thing is, our customers don't learn by being held by the hand. They learn
+by tinkering, by understanding how the pieces fit together.
 
-With a well-designed resource they can use again and again, they *get it*. They
-weren't led by the hand by an account rep - they learned it on their own. This
-leads to more exploration, more courage, and ultimately more doing.
+Using a well-designed, thorough resource means they learned it on their own.
+This leads to more confidence, which leads to more exploration and ultimately more doing.
 
 ## Takeaway
 
-To wrap up this point: Heavy ass weight support enables your users to
-accomplish their task, again and again, on their timetable - no more waiting for you and your email response.
+To wrap up this point: Heavy weight support enables your users to
+accomplish their task, again and again, on their timetable - no more waiting
+for you and your email response.
 
 ## HAW create personal connection
 
-So the first big benefit is Heavy Ass Weights create Badass users.
+So the first big benefit of the Heavy Ass Weights is they create Badass users.
 
-When I'm yammering away about the Heavy Weight approach, lots of folks tell me
+The second is a little less intuitive. When I'm yammering away about the Heavy Weight approach, lots of folks tell me
 they are scared a more self-service approach will lead to them losing contact
-with their customers, and losing the personal connection they used to have.
+with their customers.
 
-Personal connections with our customers are hugely valuable - we get stronger
-insight into our customer's struggles and better vision for what would be truly
-valuable for them long-term.
-
-So if we move towards more self-service, we're going to lose this connection,
-right? WRONG! I'm here to tell you nothing could be further from the truth.
+I'm here to tell you nothing could be further from the truth.
 
 ## We are not automatons
 
-Let's take a quick look at how we converse and connect with our customers.
+Let's take a quick look at how we create this connection with our customers.
 
 In a light-weight, high rep approach, we the support people have all the power.
 This means customers will come to us confused, frustrated, maybe a little
@@ -234,13 +224,10 @@ to which we have to reply:
 "Sorry about that! We actually don't provide SEO support for squirrel videos!"
 
 To which they reply very angrily. Because we don't have resources that set
-expectations for them, we are stuck in a reactive mode.
+expectations for them, we are stuck in a reactive mode. There is a connection
+being made here, but it's not a positive one.
 
-You'd be surprised how much your customers will research before they ever reach
-out. And it's no surprise! No one wants to email the know-it-alls in support
-and feel all dumb.
-
-So if by contrast we had good SEO documentation, perhaps with a frequently
+If by contrast we had good SEO documentation, perhaps with a frequently
 asked question section that covered squirrel video SEO, the conversation might
 go more like:
 
@@ -250,13 +237,18 @@ for squirrel videos. Can you please do this in the future?"
 Ah, much better. We make our customer feel better, and set better expectations,
 and we end up in a valuable conversation.
 
+You'd be surprised how much your customers will research before they ever reach
+out. And it's no surprise! No one wants to email the know-it-alls in support
+and feel all dumb.
+
 ## images of us
 
-The other important part of creating a personal connection with is customer is
+The other important part of creating a personal connection with our customer is
 how they get to know us as people.
 
 That first time your customer uses your app is the most important. They will
-form an opinion of you in the first run that will be *extremely* hard to change.
+form an opinion of you in the first run that will be *extremely* hard to
+change.
 
 So if they run into trouble, you're screwed! The support context is a terrible
 place to meet people. The customer is stressed, the support person has a queue
@@ -265,28 +257,17 @@ out the door - it's a recipe for disaster.
 Make sure your customer has ready access to resources that can get them through
 the most important steps in your application. In preparing those resources,
 think about showing off your entire company. You get the double benefit of
-customers having a smoother experience, and getting to know the people and
-faces behind the product.
+customers having a smoother experience, and giving them a chance to get to know the people behind the product.
 
 Use your heavy weight resources to proactively connect with your customers,
 before they are in need of support. It will result in a stronger, more valuable
 relationship.
 
-## email images
-
-Neat side benefit of all this is lovely emails. We get lots of emails that lead 
-with "First, we love Wistia", and then dive into the core of their technical
-issue.
-
-Here's a look at a real email, one that doesn't include squirrel SEO. This makes
-support a lot more fun to tackle (it's amazing, and we're hiring -
-come find me later).
-
 ## Takeaway
 
-So, big takeaway numero dos - If your heavy weight support resources are crafted in your own voice and
-reflecting your brand personality, using them is actually the best way to scale
-your brand voice.
+So, big takeaway numero dos - If your heavy weight support resources are
+crafted in your own voice and reflecting your brand personality, using them is
+actually the best way to scale your brand voice.
 
 ## Big Slide of Progress
 
@@ -428,8 +409,8 @@ We have a whole getting started series on video...
 
 ..and we link to it from every page of our app.
 
-Video takes the personal touch you've been providing via support for
-years, and scales it up. Awesome.
+Video takes the personal touch you've been providing via support for years, and
+scales it up. Awesome.
 
 SECOND: video takes the least investment for the consumer. It leaves your users
 with plenty of energy to GO DO the thing they came to do. Ever read a huge
@@ -446,8 +427,8 @@ folks NOT to use your app. Video bridges that gap. You should make it.
 Keep it nice and short. No one likes a super long and boring walkthrough. No
 one.
 
-Second, get your face on there! Make it personal - people love that
-personal connection.
+Second, get your face on there! Make it personal - people love that personal
+connection.
 
 Third, make it easy to update. Things will change in your app - keep the
 original edit around, so you can drop in new screencasts when a button or menu
@@ -476,9 +457,9 @@ I want to close out by saying something that I don't think gets said enough.
 
 ## YOU ARE AWESOME
 
-You are awesome. As support people, you spend countless hours communicating with
-customers, walking them through our product, and documenting their requests for
-the product team.
+You are awesome. As support people, you spend countless hours communicating
+with customers, walking them through our product, and documenting their
+requests for the product team.
 
 You are the front-line heros that make-or-break your company's future.
 
