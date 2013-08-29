@@ -424,26 +424,37 @@ created, and give you some tactical suggestions for making yours awesome.
 ## Screenshot of Wistia Documentation
 
 Let's get to the examples! The first is documentation. Pretty much everyone in
-the room has documentation, right? If you are a b2b app, you need
-documentation.
+the room has documentation, and I'm hoping one of my tips will help you make it
+better.
 
 ## Screenshot 2
 
-Include a link to it in your emails, to train your customers to start looking
-in the docs. Place the link to it prominently in your app, so users looking to
-self-service can find it without trouble.
+First, how do we use documentation? Let me count the ways. We include a link to it in support emails, to train your customers to start looking
+in the docs. We also place a link to it prominently in your app, so users looking to
+self-service can find it without any trouble.
 
 ## Heavy Hittin' Docs
 
-Keep it simple, use lots of pictures, and make the language friendly.
+So what are my heavy hitting doc tips?
+
+First, use your normal language, not robot speak. Look at emails you are already
+sending that work, and pull out parts of that language for your documentation.
+
+Second, use lots of real interface images, and make the images as large as you
+can. Help put your readers in the context of the app.
+
+Make absolutely certain there is search functionality, and monitor
+common searches for more ways to improve. In our app, we have a link to the
+documentation in our header bar, and we also provide a way to search the
+documentation from inside the application as well.
 
 Think about who ends up in the documentation - lost folks who might be
-frustrated. Set good context and help them!!
+frustrated. Set good context and help them!! I think we do a pretty good job in
+our docs, always trying to get better. My favorite docs right now are Githubs.
 
 ## Support Video
 
-Next, of course, is video. This one is a little less common, although
-screencasting software has made it a lot easier. Still hard to do well.
+Ok, video is a a little less obvious of an example. While screencasting software has made it a lot easier to create help videos, it is still hard to do well.
 
 We have a whole getting started series on video...
 
@@ -451,35 +462,44 @@ We have a whole getting started series on video...
 
 ..and we link to it from every page of our app.
 
-Video takes the personal touch you've been providing via support for years, and
-scales it up. Awesome.
+## Screenshot 3
 
-SECOND: video takes the least investment for the consumer. It leaves your users
+We also have lots of videos sprinkled around the popular pages in our documentation.
+
+Video does the best job of connecting the interface with the support. The
+viewer gets to watch you complete the actions they are looking to do, which
+provides them a clear roadmap to how to get it done.
+
+Video also takes the least investment for the consumer. It leaves your users
 with plenty of energy to GO DO the thing they came to do. Ever read a huge
 block, and then need a snack and a nap in order to do anything else? OK that's
 what we want to avoid.
 
-Finally, video does the best job of connecting the interface with the support.
-Reading documentation outside of your product is totally confusing and useless.
-Having big blocks of text inside your interface is a good way to encourage
-folks NOT to use your app. Video bridges that gap. You should make it.
-
 ## Heavy Hittin' Video
 
-Keep it nice and short. No one likes a super long and boring walkthrough. No
-one.
+Here are some tips for creating excellent support videos:
 
-Second, get your face on there! Make it personal - people love that personal
-connection.
+First, keep it focused. No one likes a super long and boring walkthrough. No one. We
+set a goal in advance for what we will cover, and who it is for. If it is for
+first-time users, then keep it to the basics. You can always supplement with an
+expert-level video later.
 
-Third, make it easy to update. Things will change in your app - keep the
+Second, get your face on there! We use live-action bumpers with our videos to
+increase engagement and connection. Remember, when done well, heavy weight
+resources scale that personal connection better than email.
+
+Finally, make it easy to update. Things will change in your app - keep the
 original edit around, so you can drop in new screencasts when a button or menu
 changes.
 
+I think MailChimp are the gold standard when it comes to support videos - they
+have so many and they are well produced. I've also included a link to our
+Getting Started series.
+
 ## In-App Tool Tips
 
-Tool tips are the best for providing that little *nudge* that keeps your users
-going. We provide them in lots of little *friction* areas in the account,
+Next up are tool tips. Tool tips are the best for providing a little *nudge*
+to keep your users going. We provide them in lots of little *friction* areas in the account,
 hidden under the nifty question mark icons.
 
 ## Heavy Hittin' Tool Tips
