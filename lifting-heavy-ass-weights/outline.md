@@ -220,20 +220,35 @@ right? WRONG! I'm here to tell you nothing could be further from the truth.
 
 ## We are not automatons
 
-The first part of creating an emotional connection is how we converse and
-connect with our customers.
+Let's take a quick look at how we converse and connect with our customers.
 
-In a light-weight approach, high rep approach, we have to talk with them, a lot.
-We encourage them to email us often and set up systems where the customer only
-speaks to a specific rep, so we can foster that relationship.
+In a light-weight, high rep approach, we the support people have all the power.
+This means customers will come to us confused, frustrated, maybe a little
+hungry. They might say things like:
 
-We end up in the Support Army situation again.
+"Dangit! I just need to know if ya'll provide SEO for squirrel videos! I've
+looked everywhere and I can't find anything!"
 
-But in the heavy-weight approach, the power dynamic between our support folks and our customers has
-changed. Instead of us being really knowledgeable and our customer being lost, confused, and desperate for some
-sense of control, our resources have given them context and language to use
-when talking to us. No more of that timid "I'm a customer, I don't know
-anything" feeling.
+to which we have to reply:
+
+"Sorry about that! We actually don't provide SEO support for squirrel videos!"
+
+To which they reply very angrily. Because we don't have resources that set
+expectations for us, we are stuck in a reactive mode.
+
+You'd be surprised how much your customers will research before they ever reach
+out. And it's no surprise! No one wants to email the know-it-alls in support
+and feel all dumb.
+
+Now if by contrast we had good SEO documentation, perhaps with a frequently
+asked question section that covered squirrel video SEO, the conversation might
+go more like:
+
+"Hey, I've checked your documentation, and I see you don't provide SEO support
+for squirrel videos. Can you please do this in the future?"
+
+Ah, much better. We make our customer feel better, and set better expectations,
+and we end up with a valuable conversation.
 
 ## images of us
 
