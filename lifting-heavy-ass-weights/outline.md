@@ -234,13 +234,13 @@ to which we have to reply:
 "Sorry about that! We actually don't provide SEO support for squirrel videos!"
 
 To which they reply very angrily. Because we don't have resources that set
-expectations for us, we are stuck in a reactive mode.
+expectations for them, we are stuck in a reactive mode.
 
 You'd be surprised how much your customers will research before they ever reach
 out. And it's no surprise! No one wants to email the know-it-alls in support
 and feel all dumb.
 
-Now if by contrast we had good SEO documentation, perhaps with a frequently
+So if by contrast we had good SEO documentation, perhaps with a frequently
 asked question section that covered squirrel video SEO, the conversation might
 go more like:
 
@@ -248,19 +248,25 @@ go more like:
 for squirrel videos. Can you please do this in the future?"
 
 Ah, much better. We make our customer feel better, and set better expectations,
-and we end up with a valuable conversation.
+and we end up in a valuable conversation.
 
 ## images of us
 
-The other part of this is how our customers get to know us as people.
+The other important part of creating a personal connection with is customer is
+how they get to know us as people.
 
-They get to know our product and personality through our videos and other
-support resources. They get to know our faces in our videos and our voice in
-our documentation.
+That first time your customer uses your app is the most important. They will
+form an opinion of you in the first run that will be *extremely* hard to change.
 
-Everyone in your company is awesome. Similarly, almost everyone who uses your
-app touches your onboarding resources. If your customer is only connected to your
-support people in a support context, it's a very shallow connection.
+So if they run into trouble, you're screwed! The support context is a terrible
+place to meet people. The customer is stressed, the support person has a queue
+out the door - it's a recipe for disaster.
+
+Make sure your customer has ready access to resources that can get them through
+the most important steps in your application. In preparing those resources,
+think about showing off your entire company. You get the double benefit of
+customers having a smoother experience, and getting to know the people and
+faces behind the product.
 
 Use your heavy weight resources to proactively connect with your customers,
 before they are in need of support. It will result in a stronger, more valuable
@@ -268,11 +274,12 @@ relationship.
 
 ## email images
 
-Neat side benefit of all this is lovely emails. We get lots of
-emails that lead with "First, we love Wistia", and then dive into the core of
-their technical issue.
+Neat side benefit of all this is lovely emails. We get lots of emails that lead 
+with "First, we love Wistia", and then dive into the core of their technical
+issue.
 
-This makes support a lot more fun to tackle (it's amazing, and we're hiring -
+Here's a look at a real email, one that doesn't include squirrel SEO. This makes
+support a lot more fun to tackle (it's amazing, and we're hiring -
 come find me later).
 
 ## Takeaway
@@ -305,8 +312,8 @@ low, but actually decreased over this time.
 
 ## video SEO function in the Product
 
-So now I want to tell you a quick story about using the heavy ass weights in
-our support process.
+I thought I would tell you a quick anecdote that illustrates how we've kept
+support requests low.
 
 At Wistia, our Video SEO feature is one of the big differentiators for us and
 we draw lots of new customers because of it.
@@ -343,36 +350,37 @@ Here is the video!
 Overnight, those emails disappeared. I'm not exaggerating or kidding when I say
 they went to zero.
 
-This is what the stats looked like for that video after a few weeks. It was
-definitely getting some watches - and almost 30 hours of video were watched.
+This is what the stats looked like for that video after a few weeks. Over two
+thousand views, and almost 30 hours of video watched.
 
-That's 30 hours of help and hand-holding we didn't have to provide.
+Think about that - that's 30 hours of help and hand-holding we didn't have to
+provide.
 
 ## pic of crazy mercer Jordan and Max K
 
 So if we aren't doing a lot of hand-holding...what the heck does our team do?
 
-Well in the light weight approach, our inbox and phone call volume is no longer directly tied to customer
-growth, we haven’t had to hire a whole bunch of recent college grads, chain
-them to a desk, and flood them with customer calls every day.
+Good question!
 
-Instead, I’m able to hire a few really smart, really talented people who
-improve our customer’s lives in so many ways.
+## The Inbox is Only the Beginning
+
+When you adopt the heavy weight approach, the inbox is only the beginning.
+
+Our small team is full of really smart, really talented people who improve our
+customer’s lives in so many ways.
+
+## Max and Jordan pics
 
 Max and Jordan, for example, run a weekly web show where they welcome Wistia
 newbies into the fray. The whole thing is improv, so they get to talking heavy
 metal and whiskey with our new customers more than you'd think.
 
-The light-weight approach is lots of 1 on 1 demos. Max and Jordan handle
-questions in bulk - which is a great way to provide folks who need a little
-extra hand-holding a great experience without it being a total time suck.
+## Mercer
 
-Mercer is always working with the development team to identify fixes for deep
-technical problems, which delight our long-time customers.
+This is Mercer. Mercer is always working with the development team to identify
+fixes for deep technical problems, which delight our long-time customers.
 
-Contrast that with the light-weight approach, which is issuing bug reports and
-creating that strained, back-and-forth relationship between support and
-development teams.
+## The Inbox is Only the Beginning
 
 With a focus on scalable resources, there is no limit to the type of things you
 can build for your customers. They will thank you (with their money) for
@@ -388,9 +396,6 @@ and give your customers superpowers.
 
 ## MAKE IT F'ing AWESOME
 
-At Wistia, one of our core values is “make it fucking awesome”. I like to think
-we’ve stayed true to that with our versions of the heavy ass weights.
-
 For the rest of my time I want to talk about the Heavy Ass weights our team has
 created, and give you some tactical suggestions for making yours awesome.
 
@@ -399,26 +404,32 @@ created, and give you some tactical suggestions for making yours awesome.
 The first is documentation. Pretty much everyone in the room has documentation,
 right? If you are a b2b app, you need documentation.
 
-**How do you use it?**
+## Screenshot 2
 
 Include a link to it in your emails, to train your customers to start looking
 in the docs. Place the link to it prominently in your app, so users looking to
 self-service can find it without trouble.
 
-**How do you make it awesome?**
+## Heavy Hittin' Docs
 
-Keep it simple, use lots of pictures, and make the language friendly. Think
-about who ends up in the documentation - lost folks who might be frustrated.
-Set good context and help them!!
+Keep it simple, use lots of pictures, and make the language friendly.
+
+Think about who ends up in the documentation - lost folks who might be
+frustrated. Set good context and help them!!
+
+## Support Video
 
 Next, of course, is video. This one is a little less common, although
-screencasting software has made the dreaded slow walkthrough of death more
-popular. So I thought I'd sell you a bit more on creating video as part of your
-support.
+screencasting software has made it a lot easier. Still hard to do well.
 
-FIRST: video takes the personal touch you've been providing via support for
-years, and scales it up. Awesome. We use lots of real-people faces to build a
-connection with those interested in support.
+We have a whole getting started series on video...
+
+## Screenshot 2
+
+..and we link to it from every page of our app.
+
+Video takes the personal touch you've been providing via support for
+years, and scales it up. Awesome.
 
 SECOND: video takes the least investment for the consumer. It leaves your users
 with plenty of energy to GO DO the thing they came to do. Ever read a huge
@@ -430,37 +441,34 @@ Reading documentation outside of your product is totally confusing and useless.
 Having big blocks of text inside your interface is a good way to encourage
 folks NOT to use your app. Video bridges that gap. You should make it.
 
-**How do you use video?**
-
-Include links to it in your support emails. Have a place for it to live (ours
-lives in our documentation) and make it a first-class option for your new
-users.  Remember, no one woke up this morning and wants to become an expert at
-your app.  Video seems like a low-investment option for them to figure out what
-they want to do.
-
-**How do you make it awesome?**
+## Heavy Hittin' Video
 
 Keep it nice and short. No one likes a super long and boring walkthrough. No
-one.  Second, get your face on there! Make it personal - people love that
+one.
+
+Second, get your face on there! Make it personal - people love that
 personal connection.
 
-The final Heavy Ass Weight I want to cover here is our Web Show.
+Third, make it easy to update. Things will change in your app - keep the
+original edit around, so you can drop in new screencasts when a button or menu
+changes.
 
-A few years ago, one of our big drains was *demo time*. Who here does demos?
-(hands) Yeah they aren't the most fun thing in the world, totally light
-weights.  They cover a lot of the same stuff over and again. Whenever you spot
-that - good time to find something more efficient.
+## In-App Tool Tips
 
-Our Customer Champions Max and Jordan took on the concept of a weekly Web Show
-for our newest users. Attendees get a quick walkthrough the major flows in our
-app, and then they get some higher-level tips on using video marketing
-effectively.
+Tool tips are the best for providing that little *nudge* that keeps your users
+going. We provide them in lots of little *friction* areas in the account,
+hidden under the nifty question mark icons.
 
-For me, the most important part of their web show is that it's FUN! They crack
-a lot of jokes, take any and all questions live, and encourage lots of
-participation. Instead of a dreaded hour of boring walkthrough of our app, it's
-transformed into something that puts a smile on our customer's faces. They take
-that away and go get stuff done in their accounts. It's awesome.
+## Heavy Hittin' Tool Tips
+
+So three tips for making great tool-tips:
+
+* format them for clarity: if they are just a block of text, people won't read
+  them.
+* link out to relevant documentation. since these by nature have to be short,
+  they won't cover everything. Include a link for more info.
+* Use support speak, not marketing speak. People are trying to get things done
+  in here.
 
 ## Reminder: Your Time is Valuable
 
