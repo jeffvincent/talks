@@ -442,7 +442,8 @@ So what are my heavy hitting doc tips?
 
 First, use your normal language, not robot speak. Look at emails you are
 already sending that work, and pull out parts of that language for your
-documentation.
+documentation. Also keep it readable in chunks - we don't have any doc pages
+that are more than a 10 minute read.
 
 Second, use lots of real interface images, and make the images as large as you
 can. Help put your readers in the context of the app.
