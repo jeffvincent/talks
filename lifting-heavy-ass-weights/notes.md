@@ -41,6 +41,35 @@
 * #FF8B9A (255, 139, 154)
 # #77C3E8 (119, 195, 232)
 
+### Notes from Evan
+
+* Slides should be 4x3
+* Sara Hatter will do a light intro, but nothing serious
+* Don't forget to talk about product
+* Get away from the Speaker Notes
+* Show growth chart early on - extra slide
+* "Raise your hand if you..." question
+* "Customers that connect, stay longer"
+* Slides need to be bette
+
+### Notes from Carolyn
+
+* Hiring college grads might not be a support nightmare
+* Use a Ronny quote in the intro
+* Better frame the getting stronger approach
+* Provide volume stats if I can
+* Make it more conditional as far as no one wants to do reach out to support
+* Add that videos can be scrappy / crappy, remove if it was well produced
+
+### Notes from Chase(s)
+
+* Color scheme might be tough to see
+* Presentation version and sharing version
+
+## TODO
+
+* Run through/clean up
+* Add Wistia Basics stats section
 
 ## Notes from Other Talks
 
