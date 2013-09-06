@@ -41,6 +41,16 @@
 * #FF8B9A (255, 139, 154)
 # #77C3E8 (119, 195, 232)
 
+### Notes from UserVoice Breakfast (NYC)
+**Jeff from Etsy**
+* Action steps are very ambitious for some teams
+* Might want to do more on identifying issues
+* More ideas for what people can do (maybe what we're planning?)
+
+**Tracey from Foursquare**
+* People get lost in really small fires, hard to remember the larger important
+  stuff.
+
 ### Notes from Evan
 
 * Slides should be 4x3
