@@ -158,7 +158,7 @@ So let's get started with creating badass users.
 
 ## Heavy Ass Weights => Badass Users
 
-I'm stealing a Kathy Sierra term on this one. When she said "badass", she was
+I'm stealing directly from Kathy Sierra on this one. When she said "badass", she was
 using it as a synonym for "expert". Badass users (or experts) know how to get
 shit done using your app, and are confident using it.
 
@@ -308,7 +308,7 @@ support videos, and documentation.
 ## Pictures of us
 
 We also don't want our customers to only connect with our support folks - there
-are a lot of people who put their time and passion into building it, and we
+are a lot of people who put their time and passion into building our product, and we
 want our customers to get to know them as well.
 
 Our onboarding and support videos show off the faces from all around the
