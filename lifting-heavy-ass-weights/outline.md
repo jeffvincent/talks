@@ -10,7 +10,13 @@ all so smart and experienced. So here goes nothing.
 ## Wistia Sign
 
 My name is Jeff, I work at Wistia. We're a video hosting and analytics platform
-for business. We also have cute dogs.
+for business.
+
+## Wistia Sign w Arrow
+
+We also have cute dogs.
+
+## Growth Hurts
 
 Today I want to talk about growth.
 
@@ -48,36 +54,46 @@ and over again.
 ## How to scale support?
 
 So something had to change. In figuring out how we could scale support, we
-evaluated three basic options.
+evaluated two basic options.
 
-## 3 Options (Money, Broken Phone, NEW WAY)
+## Build a Support Army
 
 First, we could build a support army.
 
 We could raise a bunch of money, hire a ton of new folks, and stick them in a
 closet to do nothing but answer emails and phone calls.
 
-This, for us, would have been a cultural nightmare. So that option was out.
+For us, this was getting away from the way we wanted to build the business. We
+had envisioned a smaller team, run our way, where everyone was close to both
+the vitals of the business AND the customer. Building a support army did not
+fit that mold.
 
-Second, we could just make it impossible for any customers to contact us.
+## Red X
+
+So that option was out.
+
+## Go Dark
+
+Another option we considered was to just "go dark".
 
 We could remove all of our phone numbers, close down support email addresses,
-and just go dark. We could probably get by like that for a while, but one of
-the true joys of my life at Wistia is being able to problem solve for our
-customers.
+and just stop talking so darn much to our customers.
 
-So neither of those options worked for us. We needed a third one - this
-mythical, hybrid creature.
+We could probably get by like that for a while, but one of the true joys of my
+life is being able to problem solve for our customers.
 
-We needed a NEW WAY.
+So neither of those options worked for us. We needed a NEW WAY.
 
 ## Show me the new way
 
-This new way would have to increase the number of customers that could
-communicate with us at once AND present them support options BESIDES our
-contact info.
+Our major goals for the new way were to:
 
-We've been working with this new approach for a few years now, and I'm really
+* increase the number of customers we could communicate with at once
+* begin transitioning away from our contact info being option #1
+* not lose touch with our current customers (ie not start providing them a
+  shitty experience)
+
+We've been working on this new approach for a few years now, and I'm really
 excited to tell you about it today. But first, I want to introduce my inspiration.
 
 ## Ronny Coleman is really strong
