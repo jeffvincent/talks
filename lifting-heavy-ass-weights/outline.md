@@ -243,13 +243,19 @@ Now that we've created all these badass users, how do we connect with them?
 
 In my experience, badass users aren't looking for hand-holding when they run
 into a problem. Instead, they are looking for helpful resources they can refer
-to again and again.
+to on their own time.
 
-So what might hold us back from adopting this approach?
+So what might hold us back from creating more helpful resources?
 
-The fear, I think, is that self-service support will lead to a disconnect with
-our loving customers. I'm here to tell you that nothing could be further from
-the truth.
+Well one big reason for sure is that a lot of people are still in the
+"underwater" phase, too many light weight reps going on.
+
+But there is also this underlying fear, I think, which is that self-service
+support will lead to a disconnect with our loving customers. I'm here to tell
+you that nothing could be further from the truth.
+
+First, let's look at how we are currently creating a connection with our new
+customers.
 
 ## the inbox is a terrible place to meet people.
 
@@ -260,12 +266,14 @@ But the support context is a terrible place to meet people! The customer is
 stressed, the support person has a queue out the door - it's a recipe for
 disaster.
 
-What if instead of waiting for them, we created resources that walked them
+So what if instead of waiting for them, we created resources that walked them
 through the getting started workflows, and then started adding frequently asked
 questions to those resources?
 
 Suddenly our conversations go from being reactive, from having to reset
 expectations and beg for forgiveness, to being valuable and insightful.
+
+## Fictional Conversation 1
 
 Let's look at a quick fictional example. Let's say the customer writes in and
 asks:
@@ -281,9 +289,11 @@ reply:
 
 To which they reply very angrily.
 
+## No One Wants to Feel like a Dummy
+
 I spent a lot of time researching how our users got started with the app and
-how they overcame hurdles. I was really surprised how much our customers will
-research before they reach out to support.
+how they overcame hurdles. I was really surprised to find how much our customers
+will research before they reach out to our support team.
 
 But when you think about it, it's not actually all that surprising. After all,
 no one wants to feel like a dummy when they email the support experts.
@@ -291,6 +301,8 @@ no one wants to feel like a dummy when they email the support experts.
 Now you can't resolve all the questions like this, but the Heavy Weight approach
 means if you identify this as a frequently asked question, you create
 documentation for it, or include it in your onboarding resources.
+
+## Fictional Conversation 2
 
 This leads to a much better conversation:
 
@@ -305,9 +317,13 @@ so we end up in a valuable conversation.
 The other thing we don't want to do is to limit the people we connect with to
 just those high-touch customers that reach out in support.
 
-In our case, our brand, and the connections we make with our customers, are one
-of the big reasons they stay instead of trying a competitor. I'd bet your
-customers feel the same way as well.
+In our research, we're again and again finding that one of the big reasons our
+customers use us and not a competitor are the connections they make with us. We
+have a product that helps them accomplish things they want to do, and they have
+this positive feeling associated with working with us.
+
+I don't think we're special in this regard - I'd bet your customers feel the
+same way as well.
 
 But in the light-weight approach, customers that don't email support, don't
 connect with us. So we might even "cold email" them, practically beg them to
@@ -323,9 +339,9 @@ support videos, and documentation.
 
 ## Pictures of us
 
-We also don't want our customers to only connect with our support folks - there
-are a lot of people who put their time and passion into building our product, and we
-want our customers to get to know them as well.
+We also don't want our customers to connect only with our support folks - there
+are a lot of people who put their time and passion into building our product,
+and we want our customers to get to know them as well.
 
 Our onboarding and support videos show off the faces from all around the
 company (the slides behind me). These are included in the heavy weight resources
@@ -401,8 +417,19 @@ heavy weight approach. Because we aren't spending our time regurgitating
 answers, we can identify the core issues our customers face and find ways to
 resolve their confusion BEFORE it starts.
 
-We also have the time to look critically at what we're spending our time doing,
-so that we can constantly improve.
+We talk each week about conversations that are getting repetitive, or parts of
+the app that are confusing, and how we can fix them. This lowers overall email
+volume, which gives us more time to spend with high-touch customers. It's a win
+for everyone.
+
+As a team, we take the time to look critically at what we're doing, so
+that we can constantly improve. Believe me, we've tried a LOT of support
+experiments that failed, like the time Ben and I took out a Google Ad that
+pointed to a live video support chat.
+
+But for me the key is, we're not going to do things the way we did yesterday.
+Because of this constant evolution, I'm confident we're going to invent the
+future of support.
 
 ## The Inbox is Only the Beginning
 
@@ -412,7 +439,8 @@ as you grow, the heavy weight approach lets you branch out and start attacking
 them in ways outside the inbox.
 
 Our small team is full of really smart, really talented people who improve our
-customer’s lives in so many ways. Let me introduce you to some of them.
+customer’s lives in so many ways. Let me introduce you to them and some of the
+projects they are working on.
 
 ## Max and Jordan pics
 
@@ -429,26 +457,27 @@ of time doing 1-on-1 demos, and is a lot more fun for customers too.
 This is Mercer. Mercer puts together a weekly email she calls the Inbox
 Inventory, which lets our entire team know what happened in support that week.
 She runs through the support volume, major issues, and questions she thinks
-need resolving. This has led to a lot of whole team involvement in solving
-our big support problems.
+need resolving. Because our big support problems touch all parts of the company,
+this email has led to a lot of whole team involvement and conversations.
 
 ## Otters!
 
-I really just wanted an excuse to put otters on a slide.
+Sorry, I just really wanted an excuse to put otters on a slide. I just love
+this image - look how cute they are!
 
 I think that because we aren't slammed with the volume of support that a
 light-weight practitioner is, we get to build an amazing team, slowly and
 thoughtfully. We get to identify potential team members with special interests
 and skills that can make our customers more awesome.
 
-When you do that, customers will thank you (with their money) for considering their time in
-helping them achieve their goals.
+When you do that, customers will thank you (with their money) for considering
+their time in helping them achieve their goals.
 
 ## Takeaway 3
 
-You will not automate away people by adopting a heavy ass weight approach.
-Instead, you will give them the headroom and the freedom to make amazing things
-and give your customers superpowers.
+Take-away number 3: You will not automate away people by adopting a heavy ass
+weight approach.  Instead, you will give them the headroom and the freedom to
+make amazing things and give your customers superpowers.
 
 ---
 
@@ -507,7 +536,8 @@ Finally, think about who ends up in the documentation - lost folks who might be
 frustrated. Set good context and help them!! I think we do a pretty good job in
 our docs, but we're always trying to get better.
 
-My favorite docs right now are the Github docs, which I reference here.
+If you are looking for an example of excellent docs - my favorite docs right
+now are the Github docs.
 
 ## Support Video
 
@@ -590,13 +620,13 @@ Get started creating clear, friendly documentation and energetic screencasts
 for those initial workflows - the things that prove the value of your product and get
 prospective customers reaching for their wallets.
 
-## Reminder: Your Time is Valuable
+## YOU ARE AWESOME
 
 I want to close out by saying something that I don't think gets said enough.
 
-## YOU ARE AWESOME
+**You are awesome.**
 
-You are awesome. As support people, you spend countless hours communicating
+As support people, you spend countless hours communicating
 with customers, walking them through our product, and documenting their
 requests for the product team.
 
@@ -606,20 +636,11 @@ So I beg of you, if you only take one thing away from this talk: your time is
 important. When you see something that is draining your time and preventing you
 from doing next level work for your customers, automate it away.
 
+## Ain't Nothin But a Peanut!
+
 Your customers don't need hand holding, and they don't need coddling. All they
 need are clear, helpful support resources.
 
 Make more happy customers. Lift some heavy ass weights. Thank you.
 
-## Ain't Nothin But a Peanut!
-
-
-
-
-## Everyone wanna be a bodybuilder, but no one want to lift those heavy ass
-weights
-
-
-The lower email volume means high-touch customers get better
-attention from our support team. It's a win for all.
-
+## Ciao
