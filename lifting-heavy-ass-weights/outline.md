@@ -163,8 +163,8 @@ your customers.
 ## Heavy Ass Weight Key benefits
 
 So the first part of my talk today is to highlight the big benefits of this
-approach. Then, the second part will be some of my tips for creating excellent
-support resources.
+approach. Then, the second part will be a more tactical look at how the Heavy
+Ass Weight approach manifests itself.
 
 So a high-level view the big benefits: lifting heavy ass weights creates badass
 users, it helps us connect with them at scale, and also helps us build
