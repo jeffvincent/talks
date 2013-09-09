@@ -407,29 +407,20 @@ provide.
 
 ## pic of crazy mercer Jordan and Max K
 
-So if we aren't doing a lot of hand-holding...what the heck does this crazy
-group do?
-
-Good question!
+So if we aren't doing a lot of hand-holding...what the heck does a team that
+adopts the Heavy Weight approach do?
 
 From a high level, the customer support role changes dramatically under the
 heavy weight approach. Because we aren't spending our time regurgitating
 answers, we can identify the core issues our customers face and find ways to
 resolve their confusion BEFORE it starts.
 
-We talk each week about conversations that are getting repetitive, or parts of
-the app that are confusing, and how we can fix them. This lowers overall email
-volume, which gives us more time to spend with high-touch customers. It's a win
-for everyone.
+We spend time each week analyzing support issues that are getting coming up
+again and again. More times than not, this points to a part of the app that is
+confusing, or some way we failed to set proper expectations.
 
-As a team, we take the time to look critically at what we're doing, so
-that we can constantly improve. Believe me, we've tried a LOT of support
-experiments that failed, like the time Ben and I took out a Google Ad that
-pointed to a live video support chat.
-
-But for me the key is, we're not going to do things the way we did yesterday.
-Because of this constant evolution, I'm confident we're going to invent the
-future of support.
+Fixing these issues lowers overall email volume, which gives us more time to
+spend with high-touch customers. It's this great self-feeding process.
 
 ## The Inbox is Only the Beginning
 
