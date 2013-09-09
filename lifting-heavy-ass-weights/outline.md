@@ -410,28 +410,38 @@ provide.
 So if we aren't doing a lot of hand-holding...what the heck does a team that
 adopts the Heavy Weight approach do?
 
-From a high level, the customer support role changes dramatically under the
-heavy weight approach. Because we aren't spending our time regurgitating
-answers, we can identify the core issues our customers face and find ways to
-resolve their confusion BEFORE it starts.
+The focus of the customer support role changes pretty significantly under the
+heavy weight approach.
 
-We spend time each week analyzing support issues that are getting coming up
-again and again. More times than not, this points to a part of the app that is
-confusing, or some way we failed to set proper expectations.
+While we still send a lot of email, the focus used to be on emptying the inbox.
+If that was done, our team was doing a good job.
 
-Fixing these issues lowers overall email volume, which gives us more time to
-spend with high-touch customers. It's this great self-feeding process.
+Now it's a level deeper. We spend time each week analyzing support issues that
+are getting coming up again and again. These issues point to parts of our app
+that is confusing, or some way we failed to set proper expectations.
 
 ## The Inbox is Only the Beginning
 
-When you adopt the heavy weight approach, the inbox is only the beginning. When
-you are early on, the inbox is the best way to get to know your customers. But
-as you grow, the heavy weight approach lets you branch out and start attacking
-them in ways outside the inbox.
+This is sort of my new mantra. When you adopt the heavy weight approach, the
+inbox is only the beginning.
 
-Our small team is full of really smart, really talented people who improve our
-customer’s lives in so many ways. Let me introduce you to them and some of the
-projects they are working on.
+Early on, when the company is small and fighting for each customer, the inbox
+is the best way to get to know your users.
+
+But as you grow, the heavy weight approach lets you branch out and start
+attacking big issues in more proactive ways than just answering a support
+request. Instead of answering the same question over and over again, we are
+trying to resolve confusion **before it starts**.
+
+Fixing these big issues lowers overall email volume, which gives our support
+team more time to spend with high-touch customers. It's this great
+self-feeding process.
+
+I feel like no presentation from me would be complete without introducing you
+to the characters that make all this possible. Our small support team is full
+of really smart, really talented people who improve our customer’s lives in so
+many ways. Let me introduce you to them and some of the projects they are
+working on.
 
 ## Max and Jordan pics
 
@@ -611,11 +621,11 @@ Get started creating clear, friendly documentation and energetic screencasts
 for those initial workflows - the things that prove the value of your product and get
 prospective customers reaching for their wallets.
 
+OK, now I want to close out by saying something that I don't think gets said enough.
+
 ## YOU ARE AWESOME
 
-I want to close out by saying something that I don't think gets said enough.
-
-**You are awesome.**
+**You. are. awesome.**
 
 As support people, you spend countless hours communicating
 with customers, walking them through our product, and documenting their
