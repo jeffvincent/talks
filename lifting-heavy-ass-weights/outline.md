@@ -242,64 +242,31 @@ experts who can do amazing things with your product.
 ## badass users want self-service help
 
 So the first big benefit of the Heavy Ass Weights is they create more badass
-users.
+users using scalable resources.
 
-///
+Now I want to turn to how we are connecting with our customers.
 
-So how do we connect with users that don't want to talk with us?
+In the light weight approach, the connection we create with our customers
+originates in the support inbox.
 
-///
+But in my experience badass users aren't really looking to chat with a
+customer service representative. Instead, they are looking for helpful
+resources they can refer to on their own time.
 
+Here's big benefit #2 - really good resources are better than the support inbox
+when it comes to connecting with our customers.
 
+Early on, one of my fears was that if we weren't speaking with as many
+customers, we would lose that connection we had spent years to build.
 
-Now that we've created all these badass users, how do we connect with them?
-
-In my experience, badass users aren't looking to chat with a customer service
-representative when they run into a problem. Instead, they are looking for
-helpful resources they can refer to on their own time.
-
-## good place for Carolyn discussion
-
-Actually, let's talk about this for a second, because I got some feedback on
-this when I was practicing - what about the people that do actually want hand
-holding? What about the people that write in and demand to talk to someone?
-
-OK, I'm probably going to grossly oversimplify in my response, but I see these
-requests breaking into two categories.
-
-The first are people that use this approach with every product they sign up
-for. They just believe they deserve better support than anyone else. Being
-realistic, at our price points we can't serve this folks all that well
-long-term. So we very rarely give in on this request.
-
-The second group are folks who really want to make your service work, and they
-are just overwhelmed by the whole on-boarding experience. They normally think
-they aren't "techie" enough to figure out how to make it work for them. I see
-this as evidence that we need to make our resources friendlier and more
-approachable.
-
-## OK we're back.
-
-
-
-
-So what might hold us back from creating more helpful resources?
-
-Well a big reason for sure is that a lot of people are still in the
-"underwater" phase, too many light weight reps going on.
-
-But there is also this underlying fear, I think, that self-service support will
-lead to a disconnect with our loving customers. I'm here to tell you that
-nothing could be further from the truth.
+I'm here now to tell you that nothing could be further from the truth.
 
 ## the inbox is a terrible place to meet people.
 
-Look at it this way - most of the time the connection we create with our
-customers originates in the support inbox.
-
-But the support context is a terrible place to meet people! The customer is
-stressed, the support person has a queue out the door - it's a recipe for
-disaster.
+As I mentioned, at this time we're mostly connecting with our customers through
+the support inbox. But the support context is a terrible place to meet people!
+The customer is stressed, the support person has a queue out the door - it's a
+recipe for disaster.
 
 So what if instead of waiting for them, we created resources that walked them
 through the getting started workflows, and then started adding their frequently
@@ -314,8 +281,7 @@ Let's look at a quick fictional example. Let's say the customer writes in and
 asks:
 
 "I just need to know if ya'll provide SEO for squirrel videos! I've looked
-everywhere and I can't find anything! I bought this darn thing because I
-thought you supported squirrel video SEO!"
+everywhere and I can't find anything!"
 
 If we don't have resources to point to, we're in reactive mode. We have to
 reply:
@@ -326,16 +292,16 @@ To which they reply very angrily.
 
 ## No One Wants to Feel like a Dummy
 
-I spent a lot of time researching how our users got started with the app and
-how they overcame hurdles. I was really surprised to find how much our
-customers will research before they reach out to our support team.
+I spent a lot of time researching how our users got started and how they
+overcame early hurdles. I was surprised to find how much they will research
+before they ever reach out to support.
 
-But when you think about it, it's not actually all that surprising. After all,
+But when you think about it, it's not much of a surprise. After all,
 no one wants to feel like a dummy when they email the support experts.
 
 Now you can't resolve all the questions like this, but the Heavy Weight
 approach means if you identify this as a frequently asked question, you create
-documentation for it, or include it in your on-boarding resources.
+documentation for it and include it in your on-boarding resources.
 
 ## Fictional Conversation 2
 
@@ -349,13 +315,13 @@ so we end up in a more valuable conversation.
 
 ## Customers that connect with us, stay longer.
 
-The other thing we don't want to do is to limit the people we connect with to
-just those high-touch customers that reach out in support.
+Connecting outside the inbox also means we connect with customers beyond the
+high-touch ones that end up in support.
 
-In our research, we're again and again finding that one of the big reasons our
-customers use us and not a competitor are the connections they make with us.
+In our research, we're finding that connection to our team and our brand is one
+of the big reasons customers use us over a competitor.
 
-I don't think we're special in this regard - I'd bet your customers feel the
+And I don't think we're special in this regard - I'd bet your customers feel the
 same way as well.
 
 But in the light-weight approach, customers that don't email support, don't
@@ -381,11 +347,11 @@ company (the slides behind me). These are included in the heavy weight
 resources our new users have access to from minute one, before they are in need
 of support.
 
-It results in a stronger, more valuable relationship.
+It results in a stronger relationship.
 
 ## Takeaway
 
-So, big takeaway numero dos - If your heavy weight support resources are
+So, big takeaway two - If your heavy weight support resources are
 crafted in your own voice and reflect your brand personality, using them is
 actually the best way to scale your ability to connect.
 
@@ -397,25 +363,20 @@ Weight approach will result in happier customers AND fewer support emails.
 At Wistia, our Video SEO feature is one of the big differentiators for us and
 we draw lots of new customers because of it.
 
-Now that’s awesome, but it’s also one of our most confusing features, because
-it requires the user to do a bunch of work and there are several moving parts
-involved.
+But it's also one of our most confusing features, because it requires the user
+to do a bunch of work and there are several moving parts involved.
 
 At one point, we were receiving twenty emails a day with folks who were
-confused by the Video SEO feature, or had missed a step and now it wasn’t
-working. While I can't give you exact user numbers for reference, let's just
-say it's a lot fewer than we have now.
-
-I'm sure I don't have to tell this crowd - when your product isn't working as
-the customer expects, it's a serious problem.
+confused by the Video SEO feature. I'm sure I don't have to tell this crowd -
+when your product isn't working as the customer expects, it's a serious problem.
 
 ## Video in sidebar
 
 So over coffee one morning, Chris and I decided to shoot a video outlining the
 required Video SEO feature steps.
 
-We based the script on the emails we were already sending, so it didn't take
-that long to whip it together. Maybe an hour to script, setup, and shoot.
+We based the script on the emails we were already sending, so it didn't really
+take that long to whip together. Maybe an hour to script, setup, and shoot.
 
 ## Red Arrow!
 
@@ -428,10 +389,10 @@ Here is what the video looked like.
 
 ## Stats for Video SEO
 
-That video also linked to the SEO doc page, which had a more in-depth
+That video also linked to the Video SEO doc page, which had a more in-depth
 screencast and answers to frequently asked questions.
 
-Overnight, those emails disappeared. I promise you I am not exaggerating.
+Overnight, those emails disappeared.
 
 This is what the stats looked like for that video after a few weeks. Over two
 thousand views, and almost 30 hours of video watched.
@@ -693,3 +654,24 @@ need are clear, helpful support resources.
 Make more happy customers. Lift some heavy ass weights. Thank you.
 
 ## Ciao
+
+
+## good place for Carolyn discussion
+
+Actually, let's talk about this for a second, because I got some feedback on
+this when I was practicing - what about the people that do actually want hand
+holding? What about the people that write in and demand to talk to someone?
+
+OK, I'm probably going to grossly oversimplify in my response, but I see these
+requests breaking into two categories.
+
+The first are people that use this approach with every product they sign up
+for. They just believe they deserve better support than anyone else. Being
+realistic, at our price points we can't serve this folks all that well
+long-term. So we very rarely give in on this request.
+
+The second group are folks who really want to make your service work, and they
+are just overwhelmed by the whole on-boarding experience. They normally think
+they aren't "techie" enough to figure out how to make it work for them. I see
+this as evidence that we need to make our resources friendlier and more
+approachable.
