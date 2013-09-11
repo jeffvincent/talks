@@ -115,29 +115,29 @@ So quick survey - how many people here send a lot of email? (HANDS OR CLAPS)
 So you'll probably be familiar with the situation I'm talking about - you're
 responding to a support email, and you're having this dreaded deja vu feeling.
 
-You've sent that exact email before. You might even be using some sort of
-canned response, because g'dang you are just so sick of sending that exact
-email.
+You've definitely sent that exact email before. It's like groundhog day - every
+day you are responding to support requests you've handled dozens or even hundreds
+of times before.
 
-Support emails you can write in your sleep is like Ronny curling a 20 pound
-dumbbell - it's a light weight!
+Support emails you can write in your sleep, is like Ronny curling a 20 pound
+dumbbell!
 
 Again and again, you're lifting these light weights, and you gotta lift them
-all day in order to get the value. That is a light weight, heavy rep approach.
-It's exhausting, it uses up all your time, and it's not terribly helpful to our
+all day in order to get the value.
+
+It's exhausting, it uses up all your time, and it's not terribly helpful to your
 customers, either.
 
 Heavy weight support, by contrast, means systematically looking at the those
 support conversations we have again and again and creating useful resources to
-help educate our customers and get them going again.
+help educate our customers and get them going.
 
-I just want to pause for a second and clarify that heavy weight support is not
-purely self-service. We still send lots of emails and we even have phone
-support!
+But heavy weight support is not purely self-service. We still send lots of
+emails and we even have phone support!
 
-The Heavy Weight approach is all about creating alternates to the higher-touch
+Instead, it's all about creating alternates to the higher-touch
 routes, so they are not the first option for a stuck customer. Think of it as
-having a first line of defense.
+a first line of defense.
 
 ## Heavy Weight Examples
 
@@ -169,17 +169,18 @@ So let's get started with creating badass users.
 
 I'm stealing directly from Kathy Sierra on this one. When she said "badass",
 she was using it as a synonym for "expert". Badass users (or experts) know how
-to get shit done using your app, and are confident using it.
+to get shit done using your app, and are confident doing it.
 
-All of you know that that the goal has always wanted to create badass users.
+Our goal as support people has always been to create badass users.
 We are the educators and map builders for our customers, guiding them to
 creating awesome things.
 
 ## The Heavy Ass Weights are Empowering
 
-But the heavy weight approach creates **more** badass users **faster** than the
+The heavy weight approach creates **more** badass users **faster** than the
 light weight alternative for one simple reason - it is a more empowering. It
-gives our customers all the tools to be successful without any help from us.
+gives our customers all the tools they need to be successful without direct
+help from us.
 
 Let's take a look at how this works. Let's say a customer wants to do something
 common, so in my world it might be customizing a video, and they don't know
@@ -194,11 +195,6 @@ Over time, they get conditioned - when they want to try something new, they
 have to call you. Or email you. They become frozen with fear about trying
 something new.
 
-This isn't good - I mean I don't think we learn best by being held by the hand. 
-
-
-## Train harder and grow bigger
-
 With the heavy weight approach, a common activity like this would get a
 prominent, well-thought out doc page guiding them through the process. We might
 shoot a screencast for it, or include an in-app tool tip that gets stuck users
@@ -207,7 +203,7 @@ going again.
 I believe we learn by tinkering, by having the confidence to try something out
 on our own and see the results. By giving our customers the ability to
 reference a resource whenever they want, they get to really learn it on their
-own. They can watch a video one hundred times in a row, if it will help.
+own. They can watch a video one hundred times in a row, if that will help.
 
 They end up feeling more comfortable and confident using our apps, which
 ultimately results in more doing awesome things.
@@ -229,15 +225,13 @@ Today, our monthly support volume is less than 5% of our total user base. This
 is due to lots of incremental improvements - more and better resources and
 updates to our app to reduce friction.
 
-Today, the majority of our support emails are of the 'weird and unique' kind -
-they might involve some technical sleuthing or problem solving. This presents
-an awesome challenge to our support team, and more fun than what I consider to
-be the typical support role.
+The majority of the support emails we handle now are 'weird and unique' -
+not common and basic. This presents a better challenge to our support team
+than what I consider to be the typical support role.
 
 ## yeah buddy!
 
-That gets a "yeah buddy". What's crazy is that our percentage churn has
-actually decreased over that period as well.
+That gets a "yeah buddy".
 
 ## Takeaway
 
@@ -247,13 +241,22 @@ experts who can do amazing things with your product.
 
 ## badass users want self-service help
 
-So the first big benefit of the Heavy Ass Weights is they create Badass users.
+So the first big benefit of the Heavy Ass Weights is they create more badass
+users.
+
+///
+
+So how do we connect with users that don't want to talk with us?
+
+///
+
+
 
 Now that we've created all these badass users, how do we connect with them?
 
-In my experience, badass users aren't looking for hand-holding when they run
-into a problem. Instead, they are looking for helpful resources they can refer
-to on their own time.
+In my experience, badass users aren't looking to chat with a customer service
+representative when they run into a problem. Instead, they are looking for
+helpful resources they can refer to on their own time.
 
 ## good place for Carolyn discussion
 
@@ -276,6 +279,9 @@ this as evidence that we need to make our resources friendlier and more
 approachable.
 
 ## OK we're back.
+
+
+
 
 So what might hold us back from creating more helpful resources?
 
