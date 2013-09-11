@@ -20,25 +20,27 @@ We also have cute dogs. This is Lenny.
 
 Today I want to talk about growth.
 
-As support people, I don't think we talk about growth enough. I think that is
-because it can be a bit of a double-edged sword.
+As support people, I don't think we talk about growth enough. My thinking is
+this is because growth can be a bit of a double-edged sword.
 
-On one hand, customer growth is exciting! More new people are using our tools
-and talking about our company, and our friends and family might even approve of
-what we're working on.
+On one hand, customer growth is exciting! Growth means more new people using
+our tools and talking about our company, and our friends and family might even
+recognize what we're working on.
 
-On the other hand, growth also means more support tickets, more feature requests,
-and more requests for "just 5 minutes" of our time.
+But, on the other hand, growth also means more support tickets, more feature
+requests, and more requests for "just 5 minutes" of our time.
 
 ## Young Wistia
 
 At Wistia, we went through our first growth spurt in early 2012. We had
 released this new set of features, and for the first time we were really
-separating ourselves from the competition. We were breaking down barriers for
-lots of potential customers we never had a shot with before.
+separating ourselves from the competition. We were breaking down barriers and
+getting interest from lots of potential customers we never had a shot with
+before.
 
-At first, the support increase was just a small uptick, a few extra emails here
-or there.  Nothing to really be concerned about.
+At first, the support increase that went along with this release was just a
+small uptick, a few extra emails here or there. Nothing to really be concerned
+about.
 
 ## oh yeah, we did
 
@@ -53,15 +55,15 @@ and over again.
 
 ## How to scale support?
 
-So something had to change. In figuring out how we could scale support, we
+So something had to change. In figuring out how we could scale support, I first
 evaluated two basic options.
 
 ## Build a Support Army
 
 First, we could build a support army.
 
-We could raise a bunch of money, hire a ton of new folks, and stick them in a
-closet to do nothing but answer emails and phone calls.
+We could raise a bunch of money, hire a ton of new support folks, and stick
+them in a closet to do nothing but answer emails and phone calls.
 
 For us, this was getting away from the way we wanted to build the business. We
 had envisioned a smaller team, run our way, where everyone was close to both
@@ -93,8 +95,12 @@ Our major goals for the new way were to:
 * not lose touch with our current customers (ie not start providing them a
   shitty experience)
 
-We've been working on this new approach for a few years now, and I'm really
-excited to tell you about it today. But first, I want to introduce my inspiration.
+So the approach we ended up with has some of the best parts of both of the
+earlier options, and some other benefits as well. We've been working on this
+new approach for a few years now, and I'm really excited to tell you about it
+today.
+
+But first, I want to introduce you to my inspiration.
 
 ## Ronny Coleman is really strong
 
@@ -125,10 +131,12 @@ So I've started calling my approach the Heavy Ass Weights of Support.
 
 So quick survey - how many people here send a lot of email? (HANDS OR CLAPS)
 
-So here's the situation I'm talking about - you're responding to a support
-email, and you're having this dreaded deja vu feeling. You've sent that exact
-email before. You might even be using some sort of canned response, because
-g'dang you are sick of sending that exact email.
+So you'll probably be familiar with the situation I'm talking about - you're
+responding to a support email, and you're having this dreaded deja vu feeling.
+
+You've sent that exact email before. You might even be using some sort of
+canned response, because g'dang you are just so sick of sending that exact
+email.
 
 Support emails you can write in your sleep is like Ronny curling a 20 pound
 dumbbell - it's a light weight!
@@ -142,17 +150,19 @@ Heavy weight support, by contrast, means systematically looking at the those
 support conversations we have again and again and creating useful resources to
 help educate our customers and get them going again.
 
+I just want to pause for a second and clarify that heavy weight support is not
+purely self-service. We still send lots of emails and we even have phone
+support!
 
-Just to clarify, heavy weight support is not purely self-service. We still send
-lots of emails and we even have phone support! The Heavy Weight approach is all
-about creating alternates to the higher-touch routes, so they are not the first
-option for a stuck customer.
+The Heavy Weight approach is all about creating alternates to the higher-touch
+routes, so they are not the first option for a stuck customer. Think of it as
+having a first line of defense.
 
 ## Heavy Weight Examples
 
-Heavy Weight resources are nothing new - they are things like documentation,
-in-app help, webinars, and screencasts. Pretty much everyone is familiar with
-these.
+And heavy Weight resources are nothing new - they are things like documentation,
+in-app help, webinars, and screencasts. I'm sure pretty much everyone is
+familiar with these.
 
 The challenge is prioritizing them, and doing them well. Too often we decide to
 just do the light weight work, answering frequently asked questions, or just
@@ -180,14 +190,15 @@ I'm stealing directly from Kathy Sierra on this one. When she said "badass",
 she was using it as a synonym for "expert". Badass users (or experts) know how
 to get shit done using your app, and are confident using it.
 
-We've always wanted to create badass users. We are the educators and map
-builders for our customers, guiding them to creating awesome things.
+All of you know that that the goal has always wanted to create badass users.
+We are the educators and map builders for our customers, guiding them to
+creating awesome things.
 
 ## The Heavy Ass Weights are Empowering
 
 But the heavy weight approach creates **more** badass users **faster** than the
-light weight alternative because it is a more empowering. It gives our
-customers all the tools to be successful without any extra help from us.
+light weight alternative for one simple reason - it is a more empowering. It
+gives our customers all the tools to be successful without any help from us.
 
 Let's take a look at how this works. Let's say a customer wants to do something
 common, so in my world it might be customizing a video, and they don't know
@@ -198,12 +209,12 @@ where to start.
 In the light weight approach, the confused person has to drop an email to
 support, or call a help line, in order to move forward.
 
-Over time, this leads to conditioning - when they want to try something new,
-they have to call you. Or email you. They become frozen with fear about trying
+Over time, they get conditioned - when they want to try something new, they
+have to call you. Or email you. They become frozen with fear about trying
 something new.
 
-I don't think we learn best by being held by the hand. I believe we learn by
-tinkering, by understanding how all the pieces fit together.
+This isn't good - I mean I don't think we learn best by being held by the hand. 
+
 
 ## Train harder and grow bigger
 
@@ -212,11 +223,13 @@ prominent, well-thought out doc page guiding them through the process. We might
 shoot a screencast for it, or include an in-app tool tip that gets stuck users
 going again.
 
-By giving our customers the ability to reference this whenever they want, on
-their own time, they learn it on their own. They can watch a video one hundred
-times in a row, if it will help. They feel more comfortable tinkering, trying
-out new and advanced features. This leads to more confidence, which results
-ultimately in more doing.
+I believe we learn by tinkering, by having the confidence to try something out
+on our own and see the results. By giving our customers the ability to
+reference a resource whenever they want, they get to really learn it on their
+own. They can watch a video one hundred times in a row, if it will help.
+
+They end up feeling more comfortable and confident using our apps, which
+ultimately results in more doing awesome things.
 
 ## Big Slide of Progress
 
@@ -281,32 +294,29 @@ they aren't "techie" enough to figure out how to make it work for them. I see
 this as evidence that we need to make our resources friendlier and more
 approachable.
 
-OK we're back.
+## OK we're back.
 
 So what might hold us back from creating more helpful resources?
 
 Well a big reason for sure is that a lot of people are still in the
 "underwater" phase, too many light weight reps going on.
 
-But there is also this underlying fear, I think, which is that self-service
-support will lead to a disconnect with our loving customers. I'm here to tell
-you that nothing could be further from the truth.
-
-First, let's look at how we are currently creating a connection with our new
-customers.
+But there is also this underlying fear, I think, that self-service support will
+lead to a disconnect with our loving customers. I'm here to tell you that
+nothing could be further from the truth.
 
 ## the inbox is a terrible place to meet people.
 
-Too often, the connection we are currently creating with our customers
-originates in the support inbox.
+Look at it this way - most of the time the connection we create with our
+customers originates in the support inbox.
 
 But the support context is a terrible place to meet people! The customer is
 stressed, the support person has a queue out the door - it's a recipe for
 disaster.
 
 So what if instead of waiting for them, we created resources that walked them
-through the getting started workflows, and then started adding frequently asked
-questions to those resources?
+through the getting started workflows, and then started adding their frequently
+asked questions to those resources?
 
 Suddenly our conversations go from being reactive, from having to reset
 expectations and beg for forgiveness, to being valuable and insightful.
@@ -338,17 +348,17 @@ no one wants to feel like a dummy when they email the support experts.
 
 Now you can't resolve all the questions like this, but the Heavy Weight
 approach means if you identify this as a frequently asked question, you create
-documentation for it, or include it in your onboarding resources.
+documentation for it, or include it in your on-boarding resources.
 
 ## Fictional Conversation 2
 
-This leads to a much better conversation:
+Having that information up front leads to a much better conversation:
 
 "Hey, I've checked your documentation, and I see you don't provide SEO support
 for squirrel videos. Can you please do this in the future?"
 
 Ah, much better. We make our customer feel better, and set better expectations,
-so we end up in a valuable conversation.
+so we end up in a more valuable conversation.
 
 ## Customers that connect with us, stay longer.
 
@@ -356,9 +366,7 @@ The other thing we don't want to do is to limit the people we connect with to
 just those high-touch customers that reach out in support.
 
 In our research, we're again and again finding that one of the big reasons our
-customers use us and not a competitor are the connections they make with us. We
-have a product that helps them accomplish things they want to do, and they have
-this positive feeling associated with working with us.
+customers use us and not a competitor are the connections they make with us.
 
 I don't think we're special in this regard - I'd bet your customers feel the
 same way as well.
@@ -406,10 +414,10 @@ Now that’s awesome, but it’s also one of our most confusing features, becaus
 it requires the user to do a bunch of work and there are several moving parts
 involved.
 
-At one point, we were receiving no fewer than twenty emails a day with folks
-who were confused by the Video SEO feature, or had missed a step and now it
-wasn’t working. While I can't give you exact user numbers for reference, let's
-just say it's a lot fewer than we have now.
+At one point, we were receiving twenty emails a day with folks who were
+confused by the Video SEO feature, or had missed a step and now it wasn’t
+working. While I can't give you exact user numbers for reference, let's just
+say it's a lot fewer than we have now.
 
 I'm sure I don't have to tell this crowd - when your product isn't working as
 the customer expects, it's a serious problem.
@@ -436,7 +444,7 @@ Here is what the video looked like.
 That video also linked to the SEO doc page, which had a more in-depth
 screencast and answers to frequently asked questions.
 
-Overnight, those emails disappeared. I promise I'm not exaggerating.
+Overnight, those emails disappeared. I promise you I am not exaggerating.
 
 This is what the stats looked like for that video after a few weeks. Over two
 thousand views, and almost 30 hours of video watched.
@@ -449,7 +457,7 @@ provide.
 So if we aren't doing a lot of hand-holding...what the heck does a team that
 adopts the Heavy Weight approach do?
 
-The focus of the customer support role changes pretty significantly under the
+The focus of the team has changed pretty significantly since we adopted the
 heavy weight approach.
 
 While we still send a lot of email, the focus used to be on emptying the inbox.
@@ -465,7 +473,7 @@ This is sort of my new mantra. When you adopt the heavy weight approach, the
 inbox is only the beginning.
 
 Early on, when the company is small and fighting for each customer, the inbox
-is the best way to get to know your users.
+is definitely the best way to get to know your users.
 
 But as you grow, the heavy weight approach lets you branch out and start
 attacking big issues in more proactive ways than just answering a support
@@ -654,14 +662,15 @@ where to start.
 
 For us, the very first step was removing the phone number from our marketing
 website. We replaced it with more prominent links to our documentation and
-support resources. This directly attacked our first bottleneck, which was phone
-time. In the short term, it led to more emails, as our customers put in words
+support resources. This attacked our first bottleneck, which was phone time.
+
+In the short term, it led to more emails, as our customers put in words
 what issues they were running into.
 
 Then we let the Heavy Weight approach do it's thing.
 
 We combed our email archive for common friction spots, and started building
-strong resources to address them. This, for example, led to our onboarding
+strong resources to address them. This, for example, led to our on-boarding
 video series, which has had a HUGE increase in the percentage of new users that
 complete those early workflows.
 
