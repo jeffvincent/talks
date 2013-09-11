@@ -20,34 +20,34 @@ We also have cute dogs. This is Lenny.
 
 Today I want to talk about growth.
 
-As support people, I don't think we talk about growth enough. My thinking is
+We talk a lot about growth in other contexts - there are growth hackers and
+whole growth conferences, but as support people, I don't think we talk about growth enough. My thinking is
 this is because growth can be a bit of a double-edged sword.
 
-On one hand, customer growth is exciting! Growth means more new people using
-our tools and talking about our company, and our friends and family might even
-recognize what we're working on.
-
-But, on the other hand, growth also means more support tickets, more feature
+On one hand, customer growth is exciting! Growth means more people using
+our apps and talking about our company. But on the other hand, growth also
+means more support tickets, more feature
 requests, and more requests for "just 5 minutes" of our time.
 
 ## Young Wistia
 
 At Wistia, we went through our first growth spurt in early 2012. We had
 released this new set of features, and for the first time we were really
-separating ourselves from the competition. We were breaking down barriers and
-getting interest from lots of potential customers we never had a shot with
-before.
+separating ourselves from the competition. We were getting interest from
+potential customers we never had a shot with before.
 
-At first, the support increase that went along with this release was just a
-small uptick, a few extra emails here or there. Nothing to really be concerned
-about.
+At first, the related support increase just felt like a typical launch bump,
+and I was thinking "this will subside, no big deal."
 
 ## oh yeah, we did
 
-But slowly the uptick turned into a full-on monsoon.
+Boy was I wrong.
 
-The phones were ringing off the hook. The support inbox was filling up faster
-than I could clean it out. I was drowning in support.
+Before long, support felt like some game of twisted whack-a-mole. I'd answer
+and email, and three more would spring up in it's place! I'd hang up from a
+call, and the phone would start ringing again!
+
+I was drowning in support.
 
 Many of you have probably experienced what I was feeling at that time. I was
 burned out, exhausted, and generally sick of answering the same questions over
@@ -55,50 +55,31 @@ and over again.
 
 ## How to scale support?
 
-So something had to change. In figuring out how we could scale support, I first
-evaluated two basic options.
+So something had to change. In looking at most of the requests, they weren't
+anything new - it was just that pure volume that had increased.
 
-## Build a Support Army
+Many of these questions were product issues - places where a young app like
+ours just wasn't fully polished. As you all know, we can't just fix all the
+product problems in one fell swoop. That takes time.
 
-First, we could build a support army.
+But we could start answering these questions in other ways, besides forcing our
+customers to contact us for the answer.
 
-We could raise a bunch of money, hire a ton of new support folks, and stick
-them in a closet to do nothing but answer emails and phone calls.
-
-For us, this was getting away from the way we wanted to build the business. We
-had envisioned a smaller team, run our way, where everyone was close to both
-the vitals of the business AND the customer. Building a support army did not
-fit that mold.
-
-## Red X
-
-So that option was out.
-
-## Go Dark
-
-Another option we considered was to just "go dark".
-
-We could remove all of our phone numbers, close down support email addresses,
-and just stop talking so darn much to our customers.
-
-We could probably get by like that for a while, but one of the true joys of my
-life is being able to problem solve for our customers.
-
-So neither of those options worked for us. We needed a NEW WAY.
+We decided we would find a NEW WAY to provide more scalable support.
 
 ## Show me the new way
 
-Our major goals for the new way were to:
+Our major goals for this new way were:
 
-* increase the number of customers we could communicate with at once
-* begin transitioning away from our contact info being option #1
-* not lose touch with our current customers (ie not start providing them a
-  shitty experience)
+Firstly, to scale what we were doing in support to reach more customers. We
+weren't planning to hire a huge support team, so we had to find a way to
+amplify our message.
 
-So the approach we ended up with has some of the best parts of both of the
-earlier options, and some other benefits as well. We've been working on this
-new approach for a few years now, and I'm really excited to tell you about it
-today.
+Secondly, to not let the quality of support we'd always provided waver.
+Basically, we weren't OK with giving our loyal customers a shitty experience.
+
+We've been working on this new approach for a few years now, and I'm really
+excited to walk you through it today.
 
 But first, I want to introduce you to my inspiration.
 
