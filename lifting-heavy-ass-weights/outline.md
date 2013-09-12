@@ -133,10 +133,10 @@ Heavy weight support, by contrast, means systematically looking at the those
 support conversations we have again and again and creating useful resources to
 help educate our customers and get them going.
 
-But heavy weight support is not purely self-service. We still send lots of
-emails and we even have phone support!
+Now just to be clear: heavy weight support is not purely self-service. We still
+send lots of emails and we even have phone support!
 
-Instead, it's all about creating alternates to the higher-touch routes, so they
+It's all about creating alternates to the higher-touch routes, so they
 are not the first option for a stuck customer. Think of it as a first line of
 defense.
 
@@ -201,13 +201,18 @@ prominent, well-thought out doc page guiding them through the process. We might
 shoot a screencast for it, or include an in-app tool tip that gets stuck users
 going again.
 
-I believe we learn by tinkering, by having the confidence to try something out
-on our own and see the results. By giving our customers the ability to
-reference a resource whenever they want, they get to really learn it on their
-own. They can watch a video one hundred times in a row, if that will help.
+-- pause -- (or slide of children learning?)
 
-They end up feeling more comfortable and confident using our apps, which
-ultimately results in more doing awesome things.
+I've gotten pretty into studying how we as learn best, and how that relates to
+the way we as support people teach.
+
+It seems pretty conclusive at this time that we learn by tinkering, by having
+the confidence to try something out on our own and see the results. Static
+resources can enable that - our customers can watch a video one hundred times
+in a row, if that will help them get the concept.
+
+People who are really learning become more comfortable and confident using our
+apps, which ultimately results in more doing of awesome things.
 
 ## Big Slide of Progress
 
@@ -223,12 +228,8 @@ another email or phone call that month.
 ## Annotated Big Slide
 
 Today, our monthly support volume is less than 5% of our total user base. This
-is due to lots of incremental improvements - more and better resources and
-updates to our app to reduce friction.
-
-The majority of the support emails we handle now are 'weird and unique' - not
-common and basic. This presents a better challenge to our support team than
-what I consider to be the typical support role.
+is due to lots of the incremental improvements I note here - things like more
+and better resources and updates to our app to reduce friction.
 
 ## yeah buddy!
 
@@ -240,34 +241,20 @@ Ok so let's wrap up this point: Heavy weight support enables your users to
 accomplish their task, again and again, on their timetable. It creates more
 experts who can do amazing things with your product.
 
-## badass users want self-service help
+
+## the inbox is a terrible place to meet people.
 
 So the first big benefit of the Heavy Ass Weights is they create more badass
 users using scalable resources.
 
 Now I want to turn to how we are connecting with our customers.
 
-In the light weight approach, the connection we create with our customers
-originates in the support inbox.
+In the light weight approach, most of the time the connection we create with
+our customers originates in the support inbox.
 
-But in my experience badass users aren't really looking to chat with a customer
-service representative. Instead, they are looking for helpful resources they
-can refer to on their own time.
-
-Here's big benefit #2 - really good resources are better than the support inbox
-when it comes to connecting with our customers.
-
-Early on, one of my fears was that if we weren't speaking with as many
-customers, we would lose that connection we had spent years to build.
-
-I'm here now to tell you that nothing could be further from the truth.
-
-## the inbox is a terrible place to meet people.
-
-As I mentioned, at this time we're mostly connecting with our customers through
-the support inbox. But the support context is a terrible place to meet people!
-The customer is stressed, the support person has a queue out the door - it's a
-recipe for disaster.
+But the support context is a terrible place to meet people! The customer is
+stressed, the support person has a queue out the door - it's a recipe for
+disaster.
 
 So what if instead of waiting for them, we created resources that walked them
 through the getting started workflows, and then started adding their frequently
@@ -316,21 +303,25 @@ so we end up in a more valuable conversation.
 
 ## Customers that connect with us, stay longer.
 
-Connecting outside the inbox also means we connect with customers beyond the
-high-touch ones that end up in support.
-
 In our research, we're finding that connection to our team and our brand is one
 of the big reasons customers use us over a competitor.
 
 And I don't think we're special in this regard - I'd bet your customers feel
 the same way as well.
 
+Early on, one of my fears was that if we weren't speaking with as many
+customers, we would lose this connection, which we'd spent years to build.
+
+Now I'm going to walk you through how misplaced I think that fear was.
+
+## Focus on Them, Not Us
+
 But in the light-weight approach, customers that don't email support, don't
 connect with us. So we might even "cold email" them, practically beg them to
 talk to us, just to make sure they get the personal touch.
 
 This is making the focus all about us, instead of about what the customer
-needs.
+actually needs.
 
 The Heavy Weight approach, instead, connects with even self-service customers
 with resources crafted in our own voice. Even if they never email us for
@@ -348,7 +339,11 @@ company (the slides behind me). These are included in the heavy weight
 resources our new users have access to from minute one, before they are in need
 of support.
 
-It results in a stronger relationship.
+Seeing these faces and interacting with their personalities means our customers
+now feel more involved in our lives. Our support emails reference team members
+by name, and customers might even send gifts addressed to a specific team
+member for their help. The relationships we're creating using scalable
+resources are stronger and more personal than ever before.
 
 ## Takeaway
 
@@ -398,6 +393,8 @@ Overnight, those emails disappeared.
 
 This is what the stats looked like for that video after a few weeks. Over two
 thousand views, and almost 30 hours of video watched.
+
+## 30 Hours!
 
 Think about that - that's 30 hours of help and hand-holding we didn't have to
 provide.
@@ -610,26 +607,17 @@ So three tips for making great tool-tips:
 Ok, I know I've thrown a lot at you. I want to help focus your thinking on
 where to start.
 
-For us, the very first step was removing the phone number from our marketing
-website. We replaced it with more prominent links to our documentation and
-support resources. This attacked our first bottleneck, which was phone time.
+For us, it started with mining our support emails to find where our new users
+were having the most trouble.
 
-In the short term, it led to more emails, as our customers put in words what
-issues they were running into.
+Once we had some friction points, we updated our documentation and in-app help
+to attack those bottlenecks. That has made our customer's lives, and our
+support teams lives, much better. We've been pretty much off to the races ever
+since.
 
-Then we let the Heavy Weight approach do it's thing.
-
-We combed our email archive for common friction spots, and started building
-strong resources to address them. This, for example, led to our on-boarding
-video series, which has had a HUGE increase in the percentage of new users that
-complete those early workflows.
-
-You can get started on this right now. Start by looking at your initial
-workflows - the actions and features that prove the value of your product and
-get prospective customers reaching for their wallets.
-
-Mine your support emails to find issues lots of new customers have to slog
-through. Start making their life, and your support team's lives, better.
+So get started on right now. I'd recommend looking at your initial workflows -
+the actions and features that prove the value of your product and get
+prospective customers reaching for their wallets.
 
 OK, now I want to close out by saying something that I don't think gets said
 enough.
