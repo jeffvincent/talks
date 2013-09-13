@@ -22,8 +22,7 @@ Today I want to talk about growth.
 
 We talk a lot about growth in other contexts - there are growth hackers and
 whole growth conferences, but as support people, I don't think we talk about
-growth enough. My thinking is this is because growth can be a bit of a
-double-edged sword.
+growth much, which is probably because growth can be a sticky situation for us.
 
 On one hand, customer growth is exciting! Growth means more people using our
 apps and talking about our company. But on the other hand, growth also means
@@ -644,6 +643,7 @@ need are clear, helpful support resources.
 Make more happy customers. Lift some heavy ass weights. Thank you.
 
 ## Ciao
+
 
 
 ## good place for Carolyn discussion
