@@ -1,16 +1,21 @@
 ## jeff face looking dumb
 
-My first UserConf was in New York this past May. One of the things I was most
-struck by was that everyone I met was a practitioner - meaning they were
-actually working in support, or community, or customer experience.
+What's up you guys? My name is Jeff Vincent, and I'm the head of the Customer
+Happiness team at Wistia.
 
-That makes me really nervous and excited to talk to you today, since you are
+My first UserConf was in New York this past May. One of the things I was most
+struck by was that everyone was actually working in support, or community, or
+customer experience. There were so many top notch perspectives and opinions.
+I'm hoping you'll use my twitter handle to give me feedback and include me in
+conversations around this stuff. Learning is awesome.
+
+So I am really nervous and excited to talk to you today, since you are
 all so smart and experienced. So here goes nothing.
 
 ## Wistia Sign
 
-My name is Jeff, I work at Wistia. We're a video hosting and analytics platform
-for business.
+So anyway back to my intro. I work at Wistia, and we're a video hosting and
+analytics platform for business. Anyone know who we are?
 
 ## Wistia Sign w Arrow
 
@@ -22,10 +27,10 @@ Today I want to talk about growth.
 
 We talk a lot about growth in other contexts - there are growth hackers and
 whole growth conferences, but as support people, I don't think we talk about
-growth much, which is probably because growth can be a sticky situation for us.
+growth much, which is probably because we're like the debbie downer of growth.
 
-On one hand, customer growth is exciting! Growth means more people using our
-apps and talking about our company. But on the other hand, growth also means
+In most ways growth is exciting! Growth means more people using our
+apps and talking about our company. But to support, growth can mean
 more support tickets, more feature requests, and more requests for "just 5
 minutes" of our time.
 
@@ -110,9 +115,9 @@ So I started calling my approach the Heavy Ass Weights of Support.
 So quick survey - how many people here send a lot of email? (HANDS OR CLAPS)
 
 So you'll probably be familiar with the situation I'm talking about - you're
-responding to a support email, and you're having this dreaded deja vu feeling.
+responding to a support email, and you're having this deja vu feeling.
 
-You've definitely sent that exact email before. It's like groundhog day - every
+You've definitely sent that exact email before. Every
 day you are responding to support requests you've handled dozens or even
 hundreds of times before.
 
@@ -122,16 +127,21 @@ a 20 pound dumbbell!
 Again and again, you're lifting these light weights, and you gotta lift them
 all day in order to get the value.
 
-Heavy weight support, by contrast, means systematically looking at the those
+Now Heavy weight support, means systematically looking at the those
 support conversations we have again and again and creating useful resources to
 help educate our customers and get them going.
 
-That being said, heavy weight support is not purely self-service. We still
+But heavy weight support is also not purely self-service. At Wistia we still
 send lots of emails and we even have phone support!
 
-It's all about creating alternates to the higher-touch routes, so they
-are not the first option for a stuck customer. Think of it as a first line of
-defense.
+It's really about raising the level of discourse in our inboxes. So instead
+of our new customers saying "I'm so excited for Step 1...how do I do step 1?",
+we normally don't hear from them until more advanced stages, or until we break
+something.
+
+Heavy weight support is about creating alternates to the higher-touch routes, so
+they are not the first option for a stuck customer. Think of it as a first line
+of defense.
 
 ## Heavy Weight Examples
 
@@ -176,56 +186,76 @@ Let's take a look at how this works. Let's say a customer wants to do something
 common, so in my world it might be embedding a video, and they don't know
 where to start.
 
+## Alyce looking confused
+
 In the light weight approach, the confused person has to drop an email to
 support, or call a help line, in order to move forward.
+
+As awesome support people, we want to do our best to respond to them as quickly
+as possible. But the next time they need help, where are they going to go
+first? Right back to the inbox.
 
 Over time, they get conditioned - when they want to try something new, they
 have to call you. Or email you. They become frozen with fear about trying
 something new.
 
-The immediate cost of reaching out to support outweighs the potential benefit
-they may get from using your app to the fullest. That is bad!!
+Sometimes, the cost of contacting support and waiting for a response will
+outweigh the perceived benefit of using your app to the fullest. And that' bad!
+That's when you start losing customers.
+
+## Screenshot of Embedding Doc
 
 With the heavy weight approach, a common activity like this would get a
 prominent, well-thought out doc page guiding them through the process. We might
 shoot a screencast for it, or include an in-app tool tip that gets stuck users
 going again.
 
--- pause -- (or slide of children learning?)
+## Jim with Coke and Mentos
 
-If you look at research on how people learn best, it's pretty conclusive that
-we learn by tinkering, by having the confidence to try something out on our own
-and see the results. 
+This all goes back to my believe that we learn best by tinkering, by having
+the confidence to try something out on our own and see the results.
 
-Static resources can enable that - our customers can watch a video one hundred 
-times in a row, if that will help them get the concept.
+Direct or manual support, no matter how fast and friendly, does not engender a
+culture of tinkerers. But static resources can - our customers can watch a
+video on embedding one hundred times in a row, if that will help them get the
+concept.
 
 People who are really empowered to learn become more comfortable and confident
 using our apps, which ultimately results in the doing of more awesome things.
 
+## 40%
+
+When I talk about our experience using this approach to create badass users,
+this is the number I want to start with talking about.
+
+When we got started, our support volume was roughly equal to 40% of our
+user base each month. Each new user we added meant another email or phone call
+that month. I mean it's not horrible, but it's certainly tough to
+scale with a small team.
+
+So let's see how we did.
+
 ## Big Slide of Progress
 
-So here is how I illustrate the growth of our badass users.
+Ok so what are we looking at here. The top line here is our new user growth,
+and the bottom line is our total support requests. The far left side here
+represents our 40%.
 
 When you are on-boarding happy customers and giving them lots of good
 resources, you get a graph that looks like this. And you are happy.
 
-The top line here is our new user growth, and the bottom line is our total
-support requests. Early on, you can see that each new user we added meant
-another email or phone call that month. Our support volume was also equal to
-roughly 40% of our total user base at that time. Phew.
-
-In May of 2012, as we were prepping to launch a Wistia free plan, I was totally
-freaked out. How could we possible handle the onslaught of new Wistia users
-that it would bring? Turns out our approach held steady, with lots of new free
-users checking out the resources on their first run.
 
 ## Annotated Big Slide
 
-Today, our monthly support volume is less than 5% of our total user base. This
-is not due to any one event - it's lots of incremental improvements, like the 
-ones I note here - things like more resources and updates to our app to
-reduce friction.
+Here's an annotated look at that same graph. Today, our monthly support volume
+is less than 5% of our total user base. This is not due to any one event - it's
+lots of incremental improvements, like the ones I note here - things like more
+resources and updates to our app to reduce friction.
+
+Here, in May 2012, I was freaking out. We were about to launch a Free Plan,
+which would have a much higher uptick than our previous free trial. While it
+wasn't an automatic thing, and took some work, we've succeeded so far in getting new
+users the resources they needed to make onboarding a breeze.
 
 ## yeah buddy!
 
@@ -237,13 +267,25 @@ Ok so let's wrap up this point: Heavy weight support enables your users to
 accomplish their task, again and again, on their timetable. It creates more
 experts who can do amazing things with your product.
 
-
-## the inbox is a terrible place to meet people.
+## Customers that connect with us, stay longer.
 
 So the first big benefit of the Heavy Ass Weights is they create more badass
 users using scalable resources.
 
 Now I want to turn to how we are connecting with our customers.
+
+Early on, my biggest fear with moving to the Heavy Ass Weight approach was that if we
+weren't actually speaking with as many customers, we would lose our connection with
+them, which we'd spent years to build. As you all know, connections are so
+valuable in the support context - instead of a customer giving you a hard time
+or threatening to quit your service, the connection or relationship means they
+are reaching out to give you the heads up there is an issue, or offering really
+useful and insightful feedback on a new feature.
+
+We'd always been the cool guys, who you could call on the phone and we'd always
+pick up. Now we were looking to move away from that, and I was definitely scared.
+
+## the inbox is a terrible place to meet people.
 
 In the light weight approach, most of the time the connection we create with
 our customers originates in the support inbox.
@@ -252,12 +294,9 @@ But the support context is a terrible place to meet people! The customer is
 stressed, the support person has a queue out the door - it's a recipe for
 disaster.
 
-So what if instead of waiting for them, we created resources that walked them
-through the getting started workflows, and then started adding their frequently
-asked questions to those resources?
-
-Suddenly our conversations go from being reactive, from having to reset
-expectations and beg for forgiveness, to being valuable and insightful.
+By the time a communication ends up in the support inbox, we're also WAY behind
+the 8-ball. By this point the user is already pretty frustrated and we haven't
+set great expectations.
 
 ## Fictional Conversation 1
 
@@ -286,12 +325,12 @@ like a dummy when they email the support experts.
 
 ## Fictional Conversation 2
 
-Now you can't resolve all the questions like this, but the Heavy Weight
-approach means that if you identify this as a frequently asked question, you 
-would create documentation for it and include it in your on-boarding resources.
+The Heavy Weight approach means that if you identify this as a frequently asked
+question, you would create documentation for it and include it in your
+on-boarding resources.
 
-Having that information up front and easily accessible leads to a much better
-conversation:
+Suddenly our conversations go from being reactive, from having to reset
+expectations and beg for forgiveness, to being valuable and insightful.
 
 "Hey, I've checked your documentation, and I see you don't provide SEO support
 for squirrel videos. Can you please do this in the future?"
@@ -299,46 +338,46 @@ for squirrel videos. Can you please do this in the future?"
 Ah, much better. We make our customer feel better, and set better expectations,
 so we end up in a more valuable conversation.
 
-Now I know what you're thinking - yes, some people don't look or research their
-questions. But the volume we've cut down on more than offsets this number.
-
-## Customers that connect with us, stay longer.
-
-Early on, one of my fears with the Heavy Ass Weight approach was that if we
-weren't speaking with as many customers, we would lose our connection with 
-them, which we'd spent years to build.
-
-In our research, we're finding that connection to our team and our brand is one
-of the big reasons customers choose us.
-
-And I don't think we're special in this regard - I'd bet your customers feel
-the same way as well.
-
-So now I want to show you how you can use the Heavy Weight approach to actually
-improve the connections you are making with your customers.
-
 ## Focus on Them, Not Us
 
-In the light-weight approach, customers that don't email support, don't
-connect with us. So we might even "cold email" them, practically beg them to
-talk to us, just to make sure they get the personal touch.
+One of the major flaws with the light-weight approach is that it's possible
+that customers that don't email support, don't connect with us. So we might
+even "cold email" them, practically beg them to talk to us, just to make sure
+they get the personal touch.
 
 This is making the focus all about us, instead of about what the customer
 actually needs.
 
-The Heavy Weight approach, instead, connects with even self-service customers
-with resources crafted in our own voice. Even if they never email us for
-support, they get to know our personality and brand through our webinars,
-support videos, and documentation.
+## It is possible to scale connections
+
+The big turning point, or change in my thinking, was the discovery that making
+a connection doesn't have to be a manual process. Connections are being created
+when new customers use our support resources, because those are forms of
+communication!
+
+So we started focusing on the connection points we were creating in our support
+process, and starting thinking about how we could both scale and improve those.
+
+## Welcome to Wistia video
+
+This is where we started. After a new user signs up, they are presented with
+this video, which introduces each member of the team.
+
+## Welcome Video Stats
+
+These are the stats for that video (we recently replaced it, because our tiny
+team has been growing). So this means that 30% of the new free accounts that
+sign up get an introduction to all of us before they EVER touch the product.
 
 ## Pictures of us
 
-We also don't want our customers to connect only with our support folks - there
-are a lot of people who put their time and passion into building our product,
-and we want our customers to get to know them as well.
+In the past, the actual relationship with the customer has solely existed with
+the support team. But we wanted to branch out beyond that. There are a lot of
+people who put their time and passion into building our product, and we want
+our customers to get to know them as well.
 
-Our onboarding and support videos show off the faces from all around the
-company (the slides behind me). These are included in the heavy weight
+So incorporating faces from all around the company into our videos has been
+hugely important. (the slides behind me) These are included in the heavy weight
 resources our new users have access to from minute one, before they are in need
 of support.
 
@@ -348,6 +387,17 @@ by name, and customers might even send gifts addressed to a specific team
 member for their help. The relationships we're creating using scalable
 resources are stronger and more personal than ever before.
 
+## Julie Zhuo Quote
+
+I love this quote. This is from Julie Zhuo (ZOW), who is product design director at
+Facebook. This is the game changer when it comes to using Heavy Weight
+resources. It is really easy to get blindly angry at a faceless corporation.
+But when you know who the nerdy people are who pour their hearts and time into
+making an experience, you want to help.
+
+I believe our support conversations get a huge positive **boost** because our
+customers get to know us long before they run into trouble.
+
 ## Takeaway
 
 So, big takeaway two - If your heavy weight support resources are crafted in
@@ -356,7 +406,7 @@ best way to scale your ability to connect.
 
 ## Mining For New Resources
 
-I want to tell you a story that I think illustrates the Heavy Weight approach
+Now I want to tell you a story that I think illustrates the Heavy Weight approach
 in action.
 
 At Wistia, our Video SEO feature is one of the big differentiators for us and
@@ -410,8 +460,8 @@ adopts the Heavy Weight approach do?
 While we still send a lot of email, the focus used to be on emptying the inbox.
 If that was done, our team was doing a good job.
 
-The heavy weight approach now lets us branch out and attack big issues in more 
-proactive ways than just answering a support email. 
+The heavy weight approach now lets us branch out and attack big issues in more
+proactive ways than just answering a support email.
 
 Instead of answering the same question over and over again, we are
 trying to resolve confusion **before it starts**.
@@ -425,13 +475,9 @@ process.
 This is sort of my new mantra. When you adopt the heavy weight approach, the
 inbox is only the beginning.
 
-My team at Wistia is called Customer Happiness, not Customer Support. It's
-because we shouldn't just be limited to the inbox when it comes to helping our
-customers.
-
-Instead of just yammering on about it at a high level, I want to tell you more 
-about what our team is up to. Our small support team is full of really smart, 
-really talented people who improve our customer’s lives in so many ways. 
+Instead of just yammering on about it at a high level, I want to tell you more
+about what our team is up to. Our small support team is full of really smart,
+really talented people who improve our customer’s lives in so many ways.
 
 Let me introduce you to them and some of the projects they are working on.
 
@@ -450,7 +496,7 @@ of time doing 1-on-1 demos, and is a lot more fun for customers too.
 This is Mercer. Mercer puts together a weekly email she calls the Inbox
 Inventory, which lets our entire team know what happened in support that week.
 She runs through the support volume, major issues, and questions she thinks
-need resolving. 
+need resolving.
 
 Now our big support problems get circulated to all parts of the company, which 
 has led to a lot of whole team involvement and conversations.
@@ -492,54 +538,48 @@ don't worry about getting any of these points down.
 ## Screenshot of Wistia Documentation
 
 So let's get to some examples! The first heavy weight resources I want to talk
-about is documentation. I'm betting pretty much everyone in the room has
-documentation, and I'm hoping one of my tips will help you make it better.
+about is documentation. I'm sure everyone in this room has documentation of
+some kind. The big risk, when it comes to using documentation in the Heavy Ass
+Weights setup, is that no one will read it.
 
 ## Screenshot 2
 
-At Wistia, we use documentation in a whole bunch of ways.
-
-We include a link to the relevant documentation in our support emails. This
-saves our customers from having to search for info themselves, and it also
-makes them more comfortable when they need to consult the docs for help.
+The first way we combat that is by including relevant links in our support
+email. So if you email in with a question that could be answered using the
+docs, we will email you an answer, and include the fact we're referencing the
+doc (with a link to that resource). We hope folks will check the doc, and find
+it easy to use.
 
 We also place a link to it prominently in your app, so users looking to
 self-service can find it without any trouble.
 
 ## Heavy Hittin' Docs
 
-So that's how we use documentation, how about some tips?
+Remember, in terms of making our doc heavy weight, we want to find more ways to
+get users to read it. So here are some tips for accomplishing that!
 
 First, use your normal language, not robot speak. Look at emails you are
 already sending that work, and pull out parts of that language for your
-documentation.
-
-Also keep it readable in chunks - we don't have any doc pages that are more
-than a 10 minute read.
+documentation. When you send folks in support a link to the docs, they will
+feel comfortable once they are there because they'll recognize the voice.
 
 Second, use lots of real interface images, and make the images as large as you
-can. Images help put your readers in the context of the app.
+can. Images help put your readers in the context of the app, so it makes it
+easier to follow along.
 
 Third, it is really good to have search functionality in your documentation.
 We provide a way to search the documentation from inside customer accounts.  We
 also monitor common searches for more ways to improve.
-
-If you are looking for an example of excellent docs - my favorite docs right
-now are the Github docs, check them out.
 
 ## Support Video
 
 The next example is video. While videos are not as ubiquitous as documentation,
 screencasting software has started making them a lot easier to create.
 
-Video does the best job of connecting the interface with the support. The
-viewer gets to watch you complete the actions they are looking to do, which
-provides them a clear roadmap to how to get it done.
-
+Who here has ever read a huge text block, and then needed a snack and a nap in
+order to do anything else? OK, that is what video is really good at solving.
 Video also takes the least investment for the consumer. It leaves your users
-with plenty of energy to GO DO the thing they came to do. Ever read a huge
-text block, and then need a snack and a nap in order to do anything else? OK
-that's what we want to avoid.
+with plenty of energy to GO DO the thing they came to do.
 
 We have a whole getting started series on video, which you're seeing here...
 
@@ -555,15 +595,18 @@ pajamas.
 
 ## Heavy Hittin' Video
 
-Here are some tips for creating excellent support videos:
+So how do we make our videos heavy weight? To me, the most critical thing is
+they exist, and they aren't super long and boring. No one likes one of those
+super long screencasts. No one, not even the person recording it.
+
+Beyond that, here are some of tips I've learned for making excellent videos:
 
 First, don't be afraid to make it scrappy. No one is a video professional on
 their first try. Your customers are more focused on the content than they are
 the production value. Sure, some day down the line you might re-do them, but
 for now it's just important that they exist!
 
-Second, keep it focused. No one likes a super long and boring walkthrough. No
-one. We set a goal in advance for what we will cover, and who it is for. If it
+Second, keep it focused. We set a goal in advance for what we will cover, and who it is for. If it
 is for first-time users, then keep it to the basics. You can always supplement
 with an expert-level video later.
 
@@ -602,14 +645,10 @@ where to start.
 For us, it started with mining our support emails to find where our new users
 were having the most trouble.
 
-Once we had some friction points, we updated our documentation and in-app help
-to attack those bottlenecks. That has made our customer's lives, and our
-support teams lives, much better. We've been pretty much off to the races ever
-since.
-
-So to get started, I'd recommend looking at your initial workflows -
-the actions and features that prove the value of your product and get
-prospective customers reaching for their wallets.
+Once we had some friction points in mind, we updated our documentation and
+in-app help to attack those bottlenecks. That has made our customer's lives,
+and our support teams lives, much better. We've been pretty much off to the
+races ever since.
 
 ---
 
