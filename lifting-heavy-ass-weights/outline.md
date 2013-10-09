@@ -201,7 +201,7 @@ something new.
 
 Sometimes, the cost of contacting support and waiting for a response will
 outweigh the perceived benefit of using your app to the fullest. And that' bad!
-That's when you start losing customers.
+That's when customers start looking somewhere else.
 
 ## Screenshot of Embedding Doc
 
@@ -210,9 +210,12 @@ prominent, well-thought out doc page guiding them through the process. We might
 shoot a screencast for it, or include an in-app tool tip that gets stuck users
 going again.
 
+A link to these resources would be included during the onboarding process, so
+that new users know exactly where to go when they get stuck.
+
 ## Jim with Coke and Mentos
 
-This all goes back to my believe that we learn best by tinkering, by having
+And this all goes back to my believe that we learn best by tinkering, by having
 the confidence to try something out on our own and see the results.
 
 Direct or manual support, no matter how fast and friendly, does not engender a
@@ -233,24 +236,36 @@ user base each month. Each new user we added meant another email or phone call
 that month. I mean it's not horrible, but it's certainly tough to
 scale with a small team.
 
-So let's see how we did.
+So we adopted this new approach, under the idea that new users using static
+resources would mean more awesome doing, and fewer emails. So let's see how we
+did.
 
 ## Big Slide of Progress
 
-Ok so what are we looking at here. The top line here is our new user growth,
-and the bottom line is our total support requests. The far left side here
-represents our 40%.
+Ok so what are we looking at here. The top line here is our new user growth -
+those are total active accounts, not just signups - and the bottom line is our
+total support requests.
 
 When you are on-boarding happy customers and giving them lots of good
 resources, you get a graph that looks like this. And you are happy.
 
+## Underwater annotation
 
-## Annotated Big Slide
+So the far left side here represents our underwater excursion, our 40%.
 
-Here's an annotated look at that same graph. Today, our monthly support volume
-is less than 5% of our total user base. This is not due to any one event - it's
-lots of incremental improvements, like the ones I note here - things like more
-resources and updates to our app to reduce friction.
+## Add 5%
+
+Today, our monthly support volume is less than 5% of our total user base. So
+we've grown total active users 35x, and we've only grown support volume 3x.
+Absolutely crazy awesome.
+
+## Incremental Change
+
+This is not due to any one event - it's lots of incremental improvements, like
+updated docs and new and better resources. But it all starts when we adopted
+the Heavy Weights approach.
+
+## Free Plan
 
 Here, in May 2012, I was freaking out. We were about to launch a Free Plan,
 which would have a much higher uptick than our previous free trial. While it
@@ -274,21 +289,42 @@ users using scalable resources.
 
 Now I want to turn to how we are connecting with our customers.
 
-Early on, my biggest fear with moving to the Heavy Ass Weight approach was that if we
-weren't actually speaking with as many customers, we would lose our connection with
-them, which we'd spent years to build. As you all know, connections are so
-valuable in the support context - instead of a customer giving you a hard time
-or threatening to quit your service, the connection or relationship means they
-are reaching out to give you the heads up there is an issue, or offering really
-useful and insightful feedback on a new feature.
+Early on, my biggest fear with moving to the Heavy Ass Weight approach was that
+if we weren't actually speaking with as many customers, we would lose our
+connection with them, which we'd spent years to build.
 
-We'd always been the cool guys, who you could call on the phone and we'd always
-pick up. Now we were looking to move away from that, and I was definitely scared.
+And connections are super important right? Connections are the
+difference between
+
+## Friendly Email
+
+a friendly, helpful heads-up type email, like "hey, this feature might not be
+working right at the moment?"
+
+and
+
+## Angry Email
+
+One of those angry, frustrated support emails.
+
+## How do we connect?
+
+Connections are what drive your customers to become evangelists for your
+product and your brand.
+
+In the past, we'd always been the cool guys, who you could call on the phone and
+we'd always pick up. Now we were looking to move away from that, and I was
+definitely scared.
+
+So I spent a lot of time looking into how we make connections. What I found was
+that while we had a few examples of epic connections we'd created through the
+light weight approach, for the most part that approach had a few big downsides.
+I want to talk about three really quick.
+
+The first is that in the light weight approach, most of the time the
+connection we create with our customers originates in the support inbox.
 
 ## the inbox is a terrible place to meet people.
-
-In the light weight approach, most of the time the connection we create with
-our customers originates in the support inbox.
 
 But the support context is a terrible place to meet people! The customer is
 stressed, the support person has a queue out the door - it's a recipe for
@@ -298,65 +334,39 @@ By the time a communication ends up in the support inbox, we're also WAY behind
 the 8-ball. By this point the user is already pretty frustrated and we haven't
 set great expectations.
 
-## Fictional Conversation 1
-
-Let's look at a quick fictional example. Let's say the customer writes in and
-asks:
-
-"I just need to know if ya'll provide SEO for squirrel videos! I've looked
-everywhere and I can't find anything!"
-
-If we don't have resources to point to, we're in reactive mode. We have to
-reply:
-
-"Sorry about that! We actually don't provide SEO support for squirrel videos!"
-
-To which they reply very angrily.
-
-## No One Wants to Feel like a Dummy
-
-I spent a lot of time researching how our users got started and how they
-overcame early hurdles. I was surprised to find how much they will research
-before they ever reach out to support.
-
-If you make it easy enough, many customers will try to look up the answer to
-their questions first, before they reach out. After all, no one wants to feel
-like a dummy when they email the support experts.
-
-## Fictional Conversation 2
-
-The Heavy Weight approach means that if you identify this as a frequently asked
-question, you would create documentation for it and include it in your
-on-boarding resources.
-
-Suddenly our conversations go from being reactive, from having to reset
-expectations and beg for forgiveness, to being valuable and insightful.
-
-"Hey, I've checked your documentation, and I see you don't provide SEO support
-for squirrel videos. Can you please do this in the future?"
-
-Ah, much better. We make our customer feel better, and set better expectations,
-so we end up in a more valuable conversation.
-
 ## Focus on Them, Not Us
 
-One of the major flaws with the light-weight approach is that it's possible
-that customers that don't email support, don't connect with us. So we might
-even "cold email" them, practically beg them to talk to us, just to make sure
-they get the personal touch.
+The second major flaw with making connections in the light-weight approach
+is that if customers that don't email support, we don't get the chance to
+connect with them.
+
+So we might even "cold email" them, practically beg them to talk to us, just to
+make sure they get the personal touch.
 
 This is making the focus all about us, instead of about what the customer
 actually needs.
 
-## It is possible to scale connections
+## All Conversations Were Not Made Equal
 
-The big turning point, or change in my thinking, was the discovery that making
-a connection doesn't have to be a manual process. Connections are being created
-when new customers use our support resources, because those are forms of
-communication!
+The third problem with the light weight approach was that there really were
+some conversations in the inbox that were super useful and valuable, but it was
+hard for support folks to concentrate on answering those because of the volume
+of non-useful conversations. So were missing places where we could have spent
+more time with our customers, talking through their problems and learning more
+about what they were looking for from our product, but instead we were just
+trying to get through the crushing weight of the other support tickets.
 
-So we started focusing on the connection points we were creating in our support
-process, and starting thinking about how we could both scale and improve those.
+## It's All About Relationships
+
+Guys, it's all about relationships. And relationships don't have to be
+built through this manual process. They are being created at all these
+connection points we had in our support process, and so we started thinking
+about how we could both scale and improve those.
+
+This is the game changer when it comes to using Heavy Weight resources. It is
+really easy to get blindly angry at a faceless corporation. But when you know
+who the nerdy people are who pour their hearts and time into making an
+experience, you want to help.
 
 ## Welcome to Wistia video
 
@@ -369,34 +379,13 @@ These are the stats for that video (we recently replaced it, because our tiny
 team has been growing). So this means that 30% of the new free accounts that
 sign up get an introduction to all of us before they EVER touch the product.
 
-## Pictures of us
-
-In the past, the actual relationship with the customer has solely existed with
-the support team. But we wanted to branch out beyond that. There are a lot of
-people who put their time and passion into building our product, and we want
-our customers to get to know them as well.
-
-So incorporating faces from all around the company into our videos has been
-hugely important. (the slides behind me) These are included in the heavy weight
-resources our new users have access to from minute one, before they are in need
-of support.
+## What Happened?
 
 Seeing these faces and interacting with their personalities means our customers
 now feel more involved in our lives. Our support emails reference team members
 by name, and customers might even send gifts addressed to a specific team
 member for their help. The relationships we're creating using scalable
 resources are stronger and more personal than ever before.
-
-## Julie Zhuo Quote
-
-I love this quote. This is from Julie Zhuo (ZOW), who is product design director at
-Facebook. This is the game changer when it comes to using Heavy Weight
-resources. It is really easy to get blindly angry at a faceless corporation.
-But when you know who the nerdy people are who pour their hearts and time into
-making an experience, you want to help.
-
-I believe our support conversations get a huge positive **boost** because our
-customers get to know us long before they run into trouble.
 
 ## Takeaway
 
@@ -505,6 +494,8 @@ has led to a lot of whole team involvement and conversations.
 
 Sorry, I just really wanted an excuse to put otters on a slide. I just love
 this image - look how cute they are!
+
+## Re-hash of Big Graph
 
 I think that because we aren't slammed with the volume of support that a
 light-weight practitioner is, we get to build an amazing team, slowly and
@@ -677,3 +668,11 @@ need are clear, helpful support resources.
 Make more happy customers. Lift some heavy ass weights. Thank you.
 
 ## Ciao
+
+
+
+Aaron Wheeler
+
+How did we get people to write/participate in resources?
+How do you bake support into building new features?
+
